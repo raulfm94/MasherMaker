@@ -12,8 +12,7 @@ KID ROCK: <i>Whoo!</i>
 
 4
 00:00:25,600 --> 00:00:28,888
-<i>Somebody make
-some motherfucking noise in here!</i>
+<i>Somebody make some motherfucking noise in here!</i>
 
 5
 00:00:31,960 --> 00:00:33,610
@@ -2606,3 +2605,4 @@ Always blue, always...
 00:28:09,800 --> 00:28:10,801
 (ROCK MUSIC PLAYING)
 
+999
