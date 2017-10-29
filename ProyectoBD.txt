@@ -1,0 +1,4 @@
+Este es el documento inicial del Repo para el proyecto de Bases de Datos Avanzadas
+Raul Flores
+Eduardo Merino
+Francisco Castellanos
