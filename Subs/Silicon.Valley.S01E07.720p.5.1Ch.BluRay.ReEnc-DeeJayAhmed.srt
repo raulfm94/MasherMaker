@@ -1,0 +1,2447 @@
+﻿1
+00:00:09,240 --> 00:00:11,242
+The core compression algorithm is optimal.
+
+2
+00:00:11,320 --> 00:00:12,685
+All the test cases ran optimal.
+
+3
+00:00:12,760 --> 00:00:16,731
+The Weissman Score is optimal.
+Looks like Nucleus is optimal.
+
+4
+00:00:16,800 --> 00:00:18,529
+Good. Good.
+
+5
+00:00:19,320 --> 00:00:20,651
+Congratulations, guys.
+
+6
+00:00:24,440 --> 00:00:25,680
+- Oh, yeah.
+- A dunk.
+
+7
+00:00:34,160 --> 00:00:39,644
+Richard, the ingestion engine is ready
+for testing. Have you seen Richard?
+
+8
+00:00:39,720 --> 00:00:42,644
+He's in there, having a little trouble
+with his personal ingestion engine.
+
+9
+00:00:42,720 --> 00:00:45,883
+Still? It's been an hour.
+He's gotta get this done.
+
+10
+00:00:45,960 --> 00:00:48,804
+Oh, he's got his laptop in there,
+on top of his lap.
+
+11
+00:00:49,760 --> 00:00:51,728
+Hey, Richard.
+
+12
+00:00:51,800 --> 00:00:53,609
+RICHARD: Don't talk to me while
+I'm in the bathroom please.
+
+13
+00:00:53,680 --> 00:00:55,330
+Well, snap it off, we gotta go.
+
+14
+00:00:55,400 --> 00:00:57,402
+RICHARD: I know.
+Just don't talk to me while I'm in here.
+
+15
+00:00:57,480 --> 00:00:58,561
+It's weird.
+
+16
+00:00:58,640 --> 00:01:01,086
+Oh, my God.
+Jared's been back from that island
+
+17
+00:01:01,160 --> 00:01:03,288
+for a whole day
+and he didn't get any toilet paper?
+
+18
+00:01:03,360 --> 00:01:05,681
+Are you serious? ls Jared out there?
+
+19
+00:01:05,760 --> 00:01:07,569
+I thought you didn't want me to talk to you
+
+20
+00:01:07,640 --> 00:01:09,600
+while you were in the bathroom.
+Make up your mind.
+
+21
+00:01:09,640 --> 00:01:11,688
+RICHARD: You know what?
+Just get away from the door, please.
+
+22
+00:01:11,800 --> 00:01:13,484
+ERLICH: Friday, the pool cleaner comes.
+
+23
+00:01:13,560 --> 00:01:15,130
+- Do you understand?
+- Yes.
+
+24
+00:01:15,240 --> 00:01:18,289
+And tomorrow is trash day
+so make sure all the cans are out front.
+
+25
+00:01:18,360 --> 00:01:19,805
+Yes.
+
+26
+00:01:19,880 --> 00:01:23,885
+Now, you are under no circumstances
+to order any movie on demand,
+
+27
+00:01:23,960 --> 00:01:25,121
+adult or otherwise.
+
+28
+00:01:25,200 --> 00:01:26,611
+Yes.
+
+29
+00:01:26,680 --> 00:01:28,887
+Okay, has anything that I've
+just said confused you?
+
+30
+00:01:28,960 --> 00:01:31,201
+- Yes.
+- God damn it!
+
+31
+00:01:31,920 --> 00:01:34,730
+Jesus, Cher.
+Are you bringing your whole closet?
+
+32
+00:01:34,800 --> 00:01:38,282
+I'm a pro, Dinesh. I
+won't apologize for it.
+
+33
+00:01:38,360 --> 00:01:40,931
+I dress according to the moods
+that I sense in the room.
+
+34
+00:01:41,000 --> 00:01:43,480
+As such, I must have options.
+
+35
+00:01:43,560 --> 00:01:45,369
+We all packed and ready to go?
+
+36
+00:01:45,720 --> 00:01:48,690
+ERLICH: We can take my car
+but gas is on the company.
+
+37
+00:01:48,840 --> 00:01:49,921
+(DOOR CLOSES)
+
+38
+00:01:50,000 --> 00:01:52,480
+RICHARD: Hello? Did everyone leave?
+
+39
+00:01:52,560 --> 00:01:53,971
+No.
+
+40
+00:01:54,040 --> 00:01:55,963
+RICHARD: What? Oh.
+Whoa, whoa, whoa, whoa...
+
+41
+00:01:56,080 --> 00:01:58,128
+(THEME MUSIC PLAYING)
+
+42
+00:02:07,760 --> 00:02:09,569
+GILFOYLE: I don't know
+how you read your screen in the car.
+
+43
+00:02:09,640 --> 00:02:11,005
+It makes me sick as a dog.
+
+44
+00:02:11,080 --> 00:02:12,844
+RICHARD: I'm okay
+as long as I don't think about it.
+
+45
+00:02:12,920 --> 00:02:14,490
+Besides, the presentation is tomorrow.
+
+46
+00:02:14,560 --> 00:02:17,689
+GILFOYLE: So if you just don't think
+about it, it really doesn't bother you
+
+47
+00:02:17,760 --> 00:02:19,680
+to be staring at the screen
+when the car's moving
+
+48
+00:02:19,720 --> 00:02:22,564
+- and turning and you're all queasy...
+- Oh, God! (VOMITING)
+
+49
+00:02:22,640 --> 00:02:24,244
+- ERLICH: Gilfoyle.
+- (COUGHING)
+
+50
+00:02:24,320 --> 00:02:27,164
+GILFOYLE: See, I knew it bothered you.
+Fucking liar.
+
+51
+00:02:27,240 --> 00:02:28,480
+(RICHARD RETCHING)
+
+52
+00:02:38,320 --> 00:02:40,800
+JARED: So I'm a little behind,
+being stuck on that island for four days,
+
+53
+00:02:40,880 --> 00:02:43,008
+but I think I'm on top of everything.
+
+54
+00:02:43,080 --> 00:02:45,765
+Okay, uh, give me your IDs
+and I'll go register us...
+
+55
+00:02:45,840 --> 00:02:48,411
+There you are.
+Got your credentials and wristbands
+
+56
+00:02:48,520 --> 00:02:50,727
+for the walk through at 4:00 today.
+
+57
+00:02:50,800 --> 00:02:52,165
+Uh, walk through?
+
+58
+00:02:52,240 --> 00:02:54,441
+Yeah, basically,
+it's a sound check for the competition.
+
+59
+00:02:54,560 --> 00:02:56,449
+Uh, yeah, we didn't know about that.
+
+60
+00:02:56,840 --> 00:02:58,649
+Did I not tell you about the walk through?
+
+61
+00:02:59,320 --> 00:03:01,209
+I am so sorry.
+
+62
+00:03:01,280 --> 00:03:03,009
+Uh, that's why I'm here. Peter's on safari
+
+63
+00:03:03,120 --> 00:03:05,327
+with Lorne Michaels and Kanye West
+until next week
+
+64
+00:03:05,400 --> 00:03:07,323
+so, I can put all of my
+attention on you guys for once.
+
+65
+00:03:07,400 --> 00:03:11,644
+I am so sorry. I thought that I talked
+to you guys about the walk...
+
+66
+00:03:21,920 --> 00:03:24,491
+Gentlemen, welcome to the big show.
+
+67
+00:03:24,600 --> 00:03:27,126
+TechCrunch motherfucking Disrupt.
+
+68
+00:03:27,600 --> 00:03:30,922
+Okay, guys,
+this place is a vortex of distraction.
+
+69
+00:03:31,000 --> 00:03:33,321
+Normally the tech world is 2% women.
+
+70
+00:03:33,440 --> 00:03:36,762
+Guys, these next three days, 15%.
+
+71
+00:03:37,000 --> 00:03:38,729
+It's a goddamn meat market.
+
+72
+00:03:38,800 --> 00:03:40,325
+MONICA: I need you to focus.
+
+73
+00:03:40,440 --> 00:03:43,569
+How we do here is the entire future
+of your company.
+
+74
+00:03:43,640 --> 00:03:45,404
+Don't screw it all up now.
+
+75
+00:03:45,480 --> 00:03:48,086
+We have to knock them dead
+in the preliminaries tomorrow
+
+76
+00:03:48,160 --> 00:03:50,128
+so we can move on to the finals on Friday.
+
+77
+00:03:50,200 --> 00:03:54,524
+I have a question. The program says
+that Dan Melcher is judging our round.
+
+78
+00:03:54,600 --> 00:03:56,329
+Is there any way to get him removed?
+
+79
+00:03:56,480 --> 00:03:58,562
+Not unless there's a conflict of interest.
+
+80
+00:03:58,640 --> 00:04:02,008
+Well, there may be. I did have
+sexual intercourse with his wife.
+
+81
+00:04:04,080 --> 00:04:06,003
+What? It was three years ago.
+
+82
+00:04:06,080 --> 00:04:08,367
+So one of the guys judging us
+wants to fucking kill you?
+
+83
+00:04:08,600 --> 00:04:10,602
+Maybe. I don't know if he found out.
+
+84
+00:04:10,680 --> 00:04:13,968
+Either way, Richard, you may have to
+present instead of me so be prepared.
+
+85
+00:04:14,040 --> 00:04:16,441
+What, me? Present? No.
+
+86
+00:04:16,520 --> 00:04:19,126
+We may be fine. We may be totally fine.
+
+87
+00:04:19,200 --> 00:04:21,521
+We also may be totally fucked.
+
+88
+00:04:21,600 --> 00:04:23,090
+I'll let you know either way.
+
+89
+00:04:23,600 --> 00:04:25,841
+I'm gonna go network. Don't approach me.
+
+90
+00:04:26,400 --> 00:04:30,121
+I don't want to present.
+Besides, I'm not even done with the demo.
+
+91
+00:04:30,200 --> 00:04:33,522
+Okay, Richard, you need to go
+to the hotel right now and finish.
+
+92
+00:04:34,240 --> 00:04:36,811
+- You already checked us into the hotel?
+- Yeah. Yeah.
+
+93
+00:04:36,920 --> 00:04:38,684
+RICHARD: Okay, uh,
+I'm gonna do this module by module.
+
+94
+00:04:38,760 --> 00:04:43,084
+Dinesh, you built the edge video player
+so I'm gonna start with you first, okay?
+
+95
+00:04:43,160 --> 00:04:45,606
+Okay, you guys set up the booth, okay?
+
+96
+00:04:45,720 --> 00:04:47,802
+Um, I think it's this way.
+
+97
+00:04:47,880 --> 00:04:49,086
+You think?
+
+98
+00:04:52,880 --> 00:04:54,609
+- A few flyers, that's all we have?
+- (HELICOPTER WHIRRING)
+
+99
+00:04:54,680 --> 00:04:56,921
+Yeah, I think it is.
+
+100
+00:04:57,320 --> 00:04:59,243
+<i>AUTOMATED VOICE:
+Hello, what's your name?</i>
+
+101
+00:04:59,360 --> 00:05:01,488
+<i>Visit us at microdrone.com...</i>
+
+102
+00:05:01,560 --> 00:05:05,724
+Oh, wow, Microdrone. They just
+closed $17 million in seed funding.
+
+103
+00:05:06,720 --> 00:05:07,721
+(CLATTERING)
+
+104
+00:05:08,400 --> 00:05:10,641
+Hi. Hello. Excuse me.
+
+105
+00:05:10,720 --> 00:05:14,167
+Pied Piper? You guys are competing
+in the Startup Battlefield, right?
+
+106
+00:05:14,240 --> 00:05:15,890
+Everyone has been talking
+about your compression rate.
+
+107
+00:05:16,000 --> 00:05:18,446
+I mean, it is supposed to be sick.
+
+108
+00:05:18,520 --> 00:05:19,726
+Yeah.
+
+109
+00:05:19,840 --> 00:05:21,842
+Anyway, you must be great with Java
+
+110
+00:05:21,920 --> 00:05:25,242
+and I just cannot seem
+to figure out this stupid bug. Do you mind?
+
+111
+00:05:26,280 --> 00:05:27,725
+I'll be back.
+
+112
+00:05:28,800 --> 00:05:30,370
+Thank you.
+
+113
+00:05:30,440 --> 00:05:33,842
+If we integrate one module every two hours
+we should be in great shape...
+
+114
+00:05:33,920 --> 00:05:36,571
+Richard, follow me.
+(WHISPERING) Follow me. Follow me.
+
+115
+00:05:36,640 --> 00:05:40,440
+- All right. See you at the hotel.
+- See you.
+
+116
+00:05:40,520 --> 00:05:41,760
+DINESH: Very soon, I hope.
+
+117
+00:05:43,840 --> 00:05:46,491
+Hey, man. Just wanted to say good luck.
+
+118
+00:05:47,080 --> 00:05:49,924
+Okay, thanks. But what's with all the...
+
+119
+00:05:50,000 --> 00:05:52,526
+Sorry. I just can't be seen talking to you,
+you know?
+
+120
+00:05:52,600 --> 00:05:54,329
+Hooli people all over the place.
+
+121
+00:05:54,400 --> 00:05:58,450
+I don't know, man, I'm just really into
+this whole rest and vest life, you know,
+
+122
+00:05:58,520 --> 00:06:00,284
+- way more than I thought I would be.
+- Mmm.
+
+123
+00:06:00,360 --> 00:06:02,044
+I just don't want to rock the boat.
+
+124
+00:06:02,120 --> 00:06:05,044
+Oh, hey, did I tell you?
+I'm getting a boat.
+
+125
+00:06:05,120 --> 00:06:07,088
+- Wow.
+- And a boat guy to take care of it.
+
+126
+00:06:07,160 --> 00:06:08,924
+You have to have a boat guy.
+
+127
+00:06:09,000 --> 00:06:10,365
+Wow, yeah, you've gotta have a boat guy...
+
+128
+00:06:10,440 --> 00:06:11,601
+(CHUCKLES AWKWARDLY) If you have a boat.
+
+129
+00:06:11,680 --> 00:06:14,604
+Hey, um, you know that girl, right?
+
+130
+00:06:15,160 --> 00:06:18,369
+Sherry, I think her name was.
+She said you guys went to school together.
+
+131
+00:06:18,480 --> 00:06:19,811
+Uh, okay, yeah.
+
+132
+00:06:19,880 --> 00:06:22,167
+I saw her at the Valleywag
+party last night,
+
+133
+00:06:22,240 --> 00:06:25,961
+which was crazy, by the way. Dude, there
+must've been like 12 girls there.
+
+134
+00:06:26,160 --> 00:06:27,685
+- Holy shit. (CHUCKLES)
+- Nuts.
+
+135
+00:06:27,760 --> 00:06:30,889
+Anyway, um, she said you guys
+went out a couple times
+
+136
+00:06:30,960 --> 00:06:34,567
+and then, uh, she dumped you
+and you became obsessed with her?
+
+137
+00:06:34,640 --> 00:06:38,087
+What? What? She said I was obsessed?
+
+138
+00:06:38,160 --> 00:06:39,924
+She said obsessed.
+
+139
+00:06:40,000 --> 00:06:42,731
+Uh, that's bullshit,
+'cause I think we went out two times.
+
+140
+00:06:42,800 --> 00:06:45,724
+Eh, it was nothing.
+So, how could I be obsessed? That's...
+
+141
+00:06:45,840 --> 00:06:49,731
+No, you're going down!
+Nucleus is gonna crush Wide Diaper.
+
+142
+00:06:49,800 --> 00:06:52,770
+You never should've said no
+to my man, Gavin Belson.
+
+143
+00:06:55,280 --> 00:06:56,327
+Okay.
+
+144
+00:06:57,320 --> 00:06:58,321
+(MOUTHING)
+
+145
+00:07:01,440 --> 00:07:03,044
+Seeded quite a few new companies.
+
+146
+00:07:03,120 --> 00:07:05,771
+Spinder. It's like Tinder
+but for spinsters.
+
+147
+00:07:05,840 --> 00:07:09,128
+Elderly women looking for sex.
+
+148
+00:07:16,200 --> 00:07:17,486
+(MOUTHING)
+
+149
+00:07:28,200 --> 00:07:32,603
+There's this girl who's walking around,
+saying that I'm obsessed with her.
+
+150
+00:07:33,080 --> 00:07:34,684
+Now, that just really pisses me off.
+
+151
+00:07:34,760 --> 00:07:37,730
+That's fascinating.
+Let's just forget about it, okay?
+
+152
+00:07:37,800 --> 00:07:38,801
+Yeah.
+
+153
+00:07:41,960 --> 00:07:44,122
+I mean it's... it's just
+so fucked up, right?
+
+154
+00:07:44,200 --> 00:07:45,884
+I mean, I barely remember her.
+
+155
+00:07:45,960 --> 00:07:49,240
+And it's just so insulting to have someone
+walking around spreading lies about you.
+
+156
+00:07:49,280 --> 00:07:52,443
+Right? I wonder who she's working with.
+
+157
+00:07:52,520 --> 00:07:55,683
+Like I wonder who she's here with
+because if she's telling her coworkers,
+
+158
+00:07:55,760 --> 00:07:58,331
+then that's a whole 'nother
+group of people I gotta worry about.
+
+159
+00:07:58,400 --> 00:08:00,004
+Richard, you don't have
+to worry about anything
+
+160
+00:08:00,080 --> 00:08:01,650
+- except for Pied Piper right now.
+- Yeah, I know.
+
+161
+00:08:01,720 --> 00:08:04,166
+We have less than 24
+hours till the preliminaries.
+
+162
+00:08:04,560 --> 00:08:08,121
+- No one's worrying, that's the thing. Perfect.
+- Perfect.
+
+163
+00:08:11,880 --> 00:08:13,166
+Okay, her.
+
+164
+00:08:14,120 --> 00:08:15,600
+She used the word "obsessed," Dinesh.
+
+165
+00:08:15,640 --> 00:08:18,120
+- "Obsessed."
+- Richard, I don't care.
+
+166
+00:08:19,240 --> 00:08:22,244
+Neither do I. That's the entire point.
+
+167
+00:08:22,600 --> 00:08:23,761
+(CHUCKLES SOFTLY)
+
+168
+00:08:25,440 --> 00:08:27,281
+I'm just gonna check her
+lnstagram real quick.
+
+169
+00:08:27,360 --> 00:08:29,522
+Because if she's posting
+comments about me being obsessed...
+
+170
+00:08:29,600 --> 00:08:31,720
+- I mean, I can't just ignore that.
+- (SIGHING DEEPLY)
+
+171
+00:08:35,440 --> 00:08:38,330
+Would you be interested in a device
+that links to your smartphone
+
+172
+00:08:38,400 --> 00:08:41,244
+and lets you know, even before it happens,
+whether you're having a panic attack
+
+173
+00:08:41,320 --> 00:08:42,685
+- or a heart attack?
+- Yeah, yeah.
+
+174
+00:08:42,760 --> 00:08:44,285
+Okay, here's how Panic-a-Tech works.
+
+175
+00:08:44,360 --> 00:08:46,567
+You wear this on your finger all day
+and it tracks your vitals.
+
+176
+00:08:46,640 --> 00:08:50,122
+Or if that's too embarrassing,
+there's also a Bluetooth suppository
+
+177
+00:08:50,200 --> 00:08:53,886
+and that goes right where you think it goes.
+And that comes with a retrieval kit.
+
+178
+00:08:53,960 --> 00:08:57,248
+Was he like, "Bro, you're my bro,"
+
+179
+00:08:57,840 --> 00:09:01,970
+or was he like, "I wanna shoot you in the face
+and watch you bleed out all over the stage
+
+180
+00:09:02,040 --> 00:09:04,361
+"'cause you fucked my wife, you cocksuck?"
+
+181
+00:09:04,680 --> 00:09:06,284
+Right in the middle. It was like...
+
+182
+00:09:08,760 --> 00:09:09,886
+Huh.
+
+183
+00:09:10,320 --> 00:09:11,924
+What happened? How's it going at the hotel?
+
+184
+00:09:12,000 --> 00:09:16,085
+Weird. He switched to meta-data extraction
+and now wants to see you.
+
+185
+00:09:16,200 --> 00:09:20,091
+Meta-data? Already? Makes no sense.
+
+186
+00:09:20,160 --> 00:09:21,685
+DINESH: He seems very distracted.
+
+187
+00:09:23,760 --> 00:09:27,924
+Okay, guys, urn, since we're kind of
+playing from behind here
+
+188
+00:09:28,000 --> 00:09:30,401
+I put together a little secret weapon.
+
+189
+00:09:30,680 --> 00:09:34,082
+I, um... I went through the entire list
+of conference participants
+
+190
+00:09:34,160 --> 00:09:37,130
+and I found images and I found bios
+and I printed them out
+
+191
+00:09:37,200 --> 00:09:38,326
+so we have them all in one place.
+
+192
+00:09:38,400 --> 00:09:41,131
+- Why did you do that?
+- Uh, okay.
+
+193
+00:09:41,200 --> 00:09:43,851
+Who's this guy? Watch. He is...
+
+194
+00:09:45,000 --> 00:09:46,047
+(PHONE BEEPS)
+
+195
+00:09:46,120 --> 00:09:49,249
+Rick Smith, co-founder
+of Crosscut Ventures.
+
+196
+00:09:49,320 --> 00:09:50,446
+How did you...
+
+197
+00:09:50,520 --> 00:09:54,286
+ID-Keen. It's this facial recognition app
+that Monica put on our phones.
+
+198
+00:09:54,360 --> 00:09:56,249
+You just point it at anybody,
+tells you who they are
+
+199
+00:09:56,320 --> 00:09:58,129
+and how important they
+are to the conference.
+
+200
+00:09:58,720 --> 00:10:00,210
+(PHONES BEEPING)
+
+201
+00:10:00,680 --> 00:10:03,126
+(SCOFFS) You're not showing up at all.
+
+202
+00:10:03,200 --> 00:10:07,046
+Yeah, maybe I'm not getting a...
+No, I'm getting a signal.
+
+203
+00:10:08,160 --> 00:10:10,527
+Okay. Um, well...
+
+204
+00:10:12,040 --> 00:10:15,283
+Ooh, Jared, Jared, uh,
+recycling's over there.
+
+205
+00:10:15,360 --> 00:10:17,966
+Hey, so what's the deal?
+Does the judge know or not?
+
+206
+00:10:18,040 --> 00:10:19,883
+I don't know, Monica. He's toying with me.
+
+207
+00:10:21,120 --> 00:10:23,964
+Or maybe he's not.
+I can't fucking figure it out.
+
+208
+00:10:24,040 --> 00:10:26,930
+MONICA: Erlich, you need to stop this.
+His wife is here.
+
+209
+00:10:27,000 --> 00:10:29,207
+Grow a pair and talk to
+her, find out for sure.
+
+210
+00:10:29,280 --> 00:10:32,170
+Why don't you grow a pair
+and I'll talk to her?
+
+211
+00:10:32,480 --> 00:10:33,481
+Hmm.
+
+212
+00:10:33,720 --> 00:10:34,881
+What?
+
+213
+00:10:36,200 --> 00:10:37,565
+Hey-
+
+214
+00:10:42,040 --> 00:10:43,485
+Do you happen to know Java?
+
+215
+00:10:44,000 --> 00:10:46,287
+Are you kidding? It's like my specialty.
+
+216
+00:10:46,360 --> 00:10:47,725
+Will you help me?
+
+217
+00:10:49,560 --> 00:10:52,131
+Oh, it would be my honor.
+
+218
+00:11:09,400 --> 00:11:10,526
+(DOOR OPENING)
+
+219
+00:11:11,000 --> 00:11:12,240
+Yes?
+
+220
+00:11:12,320 --> 00:11:15,449
+Oh, sorry. Um, I must not
+have the right room.
+
+221
+00:11:15,520 --> 00:11:18,364
+- I'm looking for Dan Melcher.
+- Yeah, that's us.
+
+222
+00:11:18,440 --> 00:11:19,965
+Oh, it is? Okay.
+
+223
+00:11:20,040 --> 00:11:21,929
+I was looking to speak with his wife.
+
+224
+00:11:22,320 --> 00:11:26,723
+That's me. I'm, well, his new
+wife, we just got married.
+
+225
+00:11:26,800 --> 00:11:28,404
+Oh, congratulations.
+
+226
+00:11:29,000 --> 00:11:31,606
+Uh, what happened with Madelyn?
+
+227
+00:11:32,320 --> 00:11:34,527
+- You're a friend of Dan's?
+- Yeah.
+
+228
+00:11:34,600 --> 00:11:37,001
+We've... We have a common interest...
+
+229
+00:11:37,080 --> 00:11:39,287
+- Uh, many common interests.
+- Yeah.
+
+230
+00:11:39,360 --> 00:11:40,964
+Well, she was a nightmare.
+
+231
+00:11:41,600 --> 00:11:43,887
+Pills, in and out of rehab.
+
+232
+00:11:44,120 --> 00:11:46,885
+Had all of these disgusting affairs.
+
+233
+00:11:46,960 --> 00:11:48,564
+You know, the divorce nearly killed Dan.
+
+234
+00:11:48,640 --> 00:11:51,371
+Really? Disgusting affairs.
+
+235
+00:11:52,560 --> 00:11:54,483
+Well, I... I feel terrible.
+
+236
+00:11:54,560 --> 00:11:57,245
+No, it's fine. He's put it behind him.
+
+237
+00:11:57,800 --> 00:11:59,211
+All Of it?
+
+238
+00:11:59,320 --> 00:12:01,322
+- I mean, every aspect of it?
+- Mmm-hmm.
+
+239
+00:12:01,800 --> 00:12:04,531
+Well, that is... That is great to hear.
+
+240
+00:12:05,640 --> 00:12:08,086
+RICHARD: What if she's spreading this lie
+to everyone at this conference?
+
+241
+00:12:08,160 --> 00:12:09,525
+I mean, honestly, Gilfoyle...
+
+242
+00:12:09,600 --> 00:12:13,924
+Richard, stop talking about this
+or I have to punch you in the face.
+
+243
+00:12:14,000 --> 00:12:17,482
+Fuck. <i>it</i> is huge.
+
+244
+00:12:19,160 --> 00:12:21,561
+- Uh...
+"Very, very huge.
+
+245
+00:12:21,640 --> 00:12:25,690
+<i>Check, one-two, two,
+tsetse fly, tsetse fly.</i>
+
+246
+00:12:25,760 --> 00:12:27,250
+Hey, how's the demo coming?
+
+247
+00:12:27,320 --> 00:12:29,482
+Um, we're getting there. (SIGHS)
+
+248
+00:12:29,600 --> 00:12:31,090
+Uh, definitely... Getting there.
+
+249
+00:12:31,680 --> 00:12:33,808
+Gentlemen, I bring good tidings.
+
+250
+00:12:33,880 --> 00:12:38,090
+Turns out that Melcher
+is divorced, remarried
+
+251
+00:12:38,160 --> 00:12:41,562
+and has put the previous relationship
+behind him completely.
+
+252
+00:12:41,640 --> 00:12:42,846
+Problem solved.
+
+253
+00:12:42,920 --> 00:12:44,285
+That's great.
+
+254
+00:12:44,600 --> 00:12:47,410
+It sure is, Richard, it sure as hell is.
+
+255
+00:12:47,640 --> 00:12:48,926
+(CHUCKLES)
+
+256
+00:12:49,000 --> 00:12:53,085
+Look at these poor fuckers. They don't
+even know what's about to hit 'em.
+
+257
+00:12:53,480 --> 00:12:55,289
+The hammer of God.
+
+258
+00:12:55,680 --> 00:12:59,048
+I am so sorry! I am so sorry.
+I thought you guys were gonna come get me
+
+259
+00:12:59,120 --> 00:13:00,963
+and... (STAMMERING) And I'm sorry.
+
+260
+00:13:01,040 --> 00:13:03,407
+- Wait, Jared, what are you doing here?
+- What?
+
+261
+00:13:03,480 --> 00:13:04,527
+- Who's watching the booth?
+- Yeah.
+
+262
+00:13:04,600 --> 00:13:06,807
+- I thought that maybe Monica could...
+- MONICA: Ooh.
+
+263
+00:13:06,880 --> 00:13:09,645
+She's not in the company.
+We need her here. That's the thing.
+
+264
+00:13:09,720 --> 00:13:12,451
+All right, everybody, uh, this run-through
+is for essential personnel only,
+
+265
+00:13:12,560 --> 00:13:13,925
+essential only.
+
+266
+00:13:16,160 --> 00:13:17,161
+Oh.
+
+267
+00:13:17,240 --> 00:13:20,130
+- We need someone in the booth is the thing.
+- Right.
+
+268
+00:13:20,200 --> 00:13:21,645
+You're essential to the booth.
+
+269
+00:13:21,720 --> 00:13:22,846
+JARED: Right.
+
+270
+00:13:23,880 --> 00:13:27,043
+All right, each team will have
+six minutes for presentation and demo,
+
+271
+00:13:27,160 --> 00:13:28,685
+at which point the judges
+will ask a few questions...
+
+272
+00:13:28,760 --> 00:13:30,808
+Uh, do you mind if I break in here,
+just one question.
+
+273
+00:13:30,880 --> 00:13:33,531
+Uh, are the judges allowed
+to send us through
+
+274
+00:13:33,600 --> 00:13:35,967
+to the finals immediately after we present
+
+275
+00:13:36,040 --> 00:13:41,126
+or do we have to wait
+until everyone else has gone?
+
+276
+00:13:41,200 --> 00:13:44,090
+Well, I'm just saying
+what everybody's thinking.
+
+277
+00:13:47,760 --> 00:13:49,842
+<i>AUTOMATED VOICE:
+Hello, what's your name?</i>
+
+278
+00:13:49,920 --> 00:13:51,888
+<i>Visit us at microdrone.com to download...</i>
+
+279
+00:13:51,960 --> 00:13:54,804
+- Uh, excuse me, no thank you.
+- ...a free <i>video</i> of you
+
+280
+00:13:54,880 --> 00:13:56,882
+<i>- at TechCrunch Disrupt.
+- Uh, no</i> thank you.
+
+281
+00:13:56,960 --> 00:14:01,363
+<i>Nathan. Are you Nathan Zimmerman,
+CEO of Flingual?</i>
+
+282
+00:14:01,440 --> 00:14:03,727
+I... I... Whoever's doing
+this, no thank you.
+
+283
+00:14:03,840 --> 00:14:06,684
+Yeah, I think we got a dead zone,
+an audio dead zone right here.
+
+284
+00:14:06,760 --> 00:14:08,285
+Listen to this.
+
+285
+00:14:08,800 --> 00:14:10,609
+Hear that? Compared to...
+
+286
+00:14:10,920 --> 00:14:12,968
+Okay, here's what I want,
+as soon as the music comes up...
+
+287
+00:14:13,080 --> 00:14:14,047
+MAN: Music?
+
+288
+00:14:14,120 --> 00:14:16,885
+I want you to hit me with a spotlight, barn!
+And a hard spot.
+
+289
+00:14:17,000 --> 00:14:19,162
+Better yet, do you have
+those spotlights that...
+
+290
+00:14:19,240 --> 00:14:20,730
+(MAKES DRONING NOISE)
+...come up from the ground,
+
+291
+00:14:20,800 --> 00:14:22,040
+like in Pride Fighting.
+
+292
+00:14:22,120 --> 00:14:23,087
+I can check.
+
+293
+00:14:23,160 --> 00:14:26,130
+Okay, so two of those, one on each side
+and then one in the center
+
+294
+00:14:26,200 --> 00:14:30,728
+so that it casts my shadow behind me,
+like a giant looking over his own shoulder.
+
+295
+00:14:30,800 --> 00:14:32,529
+- Do you have any wind machines.
+- (HUMMING)
+
+296
+00:14:32,640 --> 00:14:34,051
+ERLICH: I'm gonna need two of those...
+
+297
+00:14:34,120 --> 00:14:35,645
+Are you humming to yourself?
+
+298
+00:14:36,000 --> 00:14:38,480
+Was I?
+
+299
+00:14:38,880 --> 00:14:39,927
+Uh...
+
+300
+00:14:40,000 --> 00:14:43,800
+You know, honestly,
+I may have found the perfect woman.
+
+301
+00:14:43,880 --> 00:14:46,008
+Whoa. What? Who? Who?
+
+302
+00:14:46,080 --> 00:14:47,844
+She's in the booth right
+next to us, Charlotte.
+
+303
+00:14:47,920 --> 00:14:50,400
+She's not even physically my type,
+she has blonde hair
+
+304
+00:14:50,480 --> 00:14:53,848
+and these stupid pink streaks
+that doesn't seem to be dominant at all.
+
+305
+00:14:53,920 --> 00:14:56,491
+However, I think I'm in love.
+
+306
+00:14:56,800 --> 00:14:58,450
+Whoa! (CHUCKLES)
+
+307
+00:14:58,520 --> 00:15:02,047
+She invited me to her room
+to watch <i>Cloud Atlas</i> later tonight.
+
+308
+00:15:02,120 --> 00:15:04,327
+Oh, yeah,
+that means she wants you to lay her.
+
+309
+00:15:04,400 --> 00:15:06,084
+Is that definitive?
+
+310
+00:15:06,160 --> 00:15:08,481
+I mean, nobody can watch more
+than like a minute of that film.
+
+311
+00:15:08,560 --> 00:15:10,722
+So what's the deal? I mean, is she hot?
+
+312
+00:15:10,800 --> 00:15:12,211
+Yeah, I mean, she's attractive,
+
+313
+00:15:12,280 --> 00:15:15,568
+but almost every woman is attractive.
+It was her mind.
+
+314
+00:15:16,160 --> 00:15:20,563
+She wrote this Java method that was the most
+beautiful thing I've ever seen in my life.
+
+315
+00:15:20,640 --> 00:15:22,324
+Elegant, tight.
+
+316
+00:15:22,920 --> 00:15:25,890
+There's just something so hot
+about a woman that can code like that.
+
+317
+00:15:25,960 --> 00:15:27,530
+You know, I just want to
+
+318
+00:15:27,600 --> 00:15:30,490
+- crawl in her frontal lobe and...
+- (SNICKERING)
+
+319
+00:15:30,560 --> 00:15:31,846
+What's up?
+
+320
+00:15:32,560 --> 00:15:34,642
+You know I wrote that code, right?
+
+321
+00:15:34,720 --> 00:15:37,291
+No, this code was on her system.
+
+322
+00:15:37,360 --> 00:15:41,126
+A banged up 15-inch MacBook Pro
+with shitty stickers on it?
+
+323
+00:15:41,200 --> 00:15:43,885
+Everyone here has a beat up
+15-inch MacBook Pro...
+
+324
+00:15:43,960 --> 00:15:46,327
+With a 1.3 chip and only two gigs of RAM?
+
+325
+00:15:46,400 --> 00:15:49,802
+She doesn't know Java. I wrote that code.
+
+326
+00:15:50,800 --> 00:15:53,531
+- You said you were in love with her mind.
+- Oh, fuck.
+
+327
+00:15:53,720 --> 00:15:55,848
+You realize what's going on, right?
+
+328
+00:15:55,920 --> 00:15:59,208
+It's not her you're sexually attracted to,
+it's my code.
+
+329
+00:15:59,280 --> 00:16:02,762
+Shut the... That is the most
+disgusting fucking thing I've ever heard.
+
+330
+00:16:02,840 --> 00:16:06,401
+Just face it, Dinesh,
+you're gay for my code, you're code gay.
+
+331
+00:16:06,560 --> 00:16:09,882
+No! No, I'm into her.
+Her, okay? Fuck your code!
+
+332
+00:16:09,960 --> 00:16:11,644
+You'd like to fuck my code, wouldn't you?
+
+333
+00:16:11,720 --> 00:16:14,485
+Hey, would you like to masturbate
+to the subroutine I just wrote?
+
+334
+00:16:14,560 --> 00:16:16,881
+No! It's... I'm... I'm...
+
+335
+00:16:16,960 --> 00:16:19,406
+And then I'll sort of close
+right here in the center
+
+336
+00:16:19,480 --> 00:16:21,482
+with a confidence and poise that, well,
+
+337
+00:16:21,560 --> 00:16:24,723
+they probably won't have seen
+up until this point.
+
+338
+00:16:24,800 --> 00:16:28,600
+And then at that point we've got some photos
+that we're gonna throw up on the big screen.
+
+339
+00:16:28,680 --> 00:16:31,160
+- Photos?
+- Yeah, you know, just a few.
+
+340
+00:16:31,240 --> 00:16:33,971
+Gandhi, MLK, me as an inquisitive child.
+
+341
+00:16:34,040 --> 00:16:35,565
+Richard, could you please?
+
+342
+00:16:35,680 --> 00:16:37,921
+Oh, yes, sorry. I'll just plug it in here.
+
+343
+00:16:39,200 --> 00:16:40,201
+(COMPUTER CHIMES)
+
+344
+00:16:40,280 --> 00:16:41,805
+No! Don't!
+
+345
+00:16:41,880 --> 00:16:43,370
+- Don't!
+- RICHARD: Oh, shit...
+
+346
+00:16:43,480 --> 00:16:45,562
+SHERRY: Oh, what the fuck?
+RICHARD: Shit.
+
+347
+00:16:45,640 --> 00:16:46,721
+Oh, she's here.
+
+348
+00:16:46,800 --> 00:16:47,847
+Mmm.
+
+349
+00:16:48,640 --> 00:16:51,484
+- (KEYS BEEPING)
+- Oh, shit, it's frozen. It's frozen.
+
+350
+00:16:51,560 --> 00:16:53,403
+ERLICH: That is not me, obviously.
+
+351
+00:16:53,480 --> 00:16:56,245
+He's obsessed with me. I'm sorry.
+
+352
+00:16:57,760 --> 00:16:59,444
+(OMINOUS MUSIC ON TV)
+
+353
+00:17:07,400 --> 00:17:09,402
+Hey, what's wrong?
+
+354
+00:17:11,720 --> 00:17:14,803
+I'm just a little nervous
+'cause you're so beautiful.
+
+355
+00:17:16,320 --> 00:17:17,367
+Oh?
+
+356
+00:17:17,440 --> 00:17:18,930
+Random question...
+
+357
+00:17:19,480 --> 00:17:21,881
+So you didn't write any of that Java code?
+
+358
+00:17:22,440 --> 00:17:23,441
+Uh-uh.
+
+359
+00:17:23,640 --> 00:17:26,803
+But I write all of our tweets and we
+have like a couple hundred followers.
+
+360
+00:17:27,120 --> 00:17:29,122
+Couple hundred's pretty.
+
+361
+00:17:31,320 --> 00:17:33,891
+Oh, let me move this.
+
+362
+00:17:41,680 --> 00:17:43,330
+Oh, that's the code your, uh, friend wrote.
+
+363
+00:17:43,400 --> 00:17:44,920
+- Yeah, it is.
+- It's really good, huh?
+
+364
+00:17:45,400 --> 00:17:48,609
+It's fine. I don't care about it.
+
+365
+00:17:52,000 --> 00:17:53,490
+Mmm, there we go.
+
+366
+00:17:56,720 --> 00:17:58,006
+On, fuck. (GASPS)
+
+367
+00:17:59,960 --> 00:18:02,611
+RICHARD: Come on, focus, focus.
+
+368
+00:18:02,680 --> 00:18:04,170
+(EXHALES)
+
+369
+00:18:14,000 --> 00:18:15,161
+(PHONE BEEPS)
+
+370
+00:18:21,680 --> 00:18:23,250
+Richard's not gonna finish, is he?
+
+371
+00:18:23,320 --> 00:18:25,561
+He'll finish, Gilfoyle, he has to.
+
+372
+00:18:27,840 --> 00:18:29,205
+Are you okay?
+
+373
+00:18:29,800 --> 00:18:31,211
+Yeah, I'm fine.
+
+374
+00:18:31,360 --> 00:18:34,170
+I knew it. You couldn't do it.
+
+375
+00:18:35,560 --> 00:18:39,121
+Please shut up. Shut up.
+
+376
+00:18:39,200 --> 00:18:43,205
+Why is it that every time
+I'm about to have sex with a lady,
+
+377
+00:18:44,040 --> 00:18:45,804
+he's all up in there somehow?
+
+378
+00:18:45,880 --> 00:18:49,202
+Finally, just us. (CHUCKLES)
+Guys, this round is on me.
+
+379
+00:18:49,280 --> 00:18:52,045
+Hey, Jared. There you guys go.
+
+380
+00:18:52,360 --> 00:18:54,886
+- To Pied Piper. Hmm?
+- To Pied Piper.
+
+381
+00:18:54,960 --> 00:18:56,405
+Hear, hear.
+
+382
+00:18:57,760 --> 00:19:00,525
+- Yeah, drink it up.
+- (GROANS)
+
+383
+00:19:00,600 --> 00:19:02,568
+- Mmm.
+- But it's not gonna change who you are.
+
+384
+00:19:02,960 --> 00:19:05,770
+Monica, can I speak to you for a minute?
+
+385
+00:19:05,840 --> 00:19:07,171
+Yeah.
+
+386
+00:19:07,280 --> 00:19:10,409
+- RICHARD: No, Sherry, it has to be now!
+- Oh, shit.
+
+387
+00:19:10,520 --> 00:19:12,284
+Okay, look, we need to talk.
+
+388
+00:19:12,360 --> 00:19:14,169
+You keep telling people
+I'm obsessed with you.
+
+389
+00:19:14,240 --> 00:19:15,890
+Richard, why don't you
+just take a step back...
+
+390
+00:19:15,960 --> 00:19:18,201
+It's not true... No, no, no, let me finish.
+
+391
+00:19:18,280 --> 00:19:22,683
+Okay, did I put your picture up on the
+big screen in the auditorium? Yes.
+
+392
+00:19:22,760 --> 00:19:24,720
+But that's because
+I was showing you to my friends
+
+393
+00:19:24,760 --> 00:19:27,001
+to prove a point that
+I'm not obsessed with you.
+
+394
+00:19:27,080 --> 00:19:31,324
+- Richard, I'm gonna go now.
+- No, I'm not obsessed with you, Sherry!
+
+395
+00:19:31,440 --> 00:19:32,930
+I'm...
+
+396
+00:19:34,280 --> 00:19:35,566
+I'm not.
+
+397
+00:19:36,480 --> 00:19:40,326
+That guy Richard I was telling you about
+just totally freaked out on me.
+
+398
+00:19:40,400 --> 00:19:41,686
+Yeah, the obsessed guy.
+
+399
+00:19:41,760 --> 00:19:43,364
+- Where are you?
+- JARED: You've been doing this ever since
+
+400
+00:19:43,440 --> 00:19:44,805
+- we arrived at the conference.
+- Which elevators?
+
+401
+00:19:44,880 --> 00:19:48,851
+You really think that you can come between
+me and Richard Hendricks?
+
+402
+00:19:48,920 --> 00:19:52,367
+We're partners, okay,
+and I've devoted every second
+
+403
+00:19:52,440 --> 00:19:55,728
+of my waking life for the past
+two months to him, okay?
+
+404
+00:19:55,840 --> 00:20:00,004
+I am devoted to him and to the precious
+thing that we're building together!
+
+405
+00:20:00,080 --> 00:20:02,924
+I'm his partner. I can
+tell when he's vomiting...
+
+406
+00:20:03,000 --> 00:20:04,206
+- Uh, what? No.
+- JARED: because he's nervous...
+
+407
+00:20:04,280 --> 00:20:06,726
+- Never mind, Kate, I'm fine.
+- ...or when he's vomiting because he's sick
+
+408
+00:20:06,800 --> 00:20:09,087
+or when he's vomiting
+because he had cilantro, which he loves
+
+409
+00:20:09,160 --> 00:20:11,049
+but he shouldn't have
+because it makes him...
+
+410
+00:20:11,120 --> 00:20:15,921
+I had no idea that you felt this way.
+I mean it, I am so sorry.
+
+411
+00:20:16,000 --> 00:20:18,401
+I mean, I'm obsessed with her...
+
+412
+00:20:18,480 --> 00:20:21,723
+Richard, can I talk to you for a second?
+
+413
+00:20:24,080 --> 00:20:25,445
+Uh, okay.
+
+414
+00:20:29,840 --> 00:20:32,730
+I owe you an apology. I was way off base.
+
+415
+00:20:32,800 --> 00:20:34,723
+Well, yeah, you were.
+
+416
+00:20:35,360 --> 00:20:36,885
+He cleared it all up for me.
+
+417
+00:20:36,960 --> 00:20:39,645
+- RICHARD: Jared? Really?
+- Yeah. He's your partner, right?
+
+418
+00:20:40,160 --> 00:20:43,130
+Yeah, he is. One of many. (SIGHS)
+
+419
+00:20:43,400 --> 00:20:44,890
+Probably too many.
+
+420
+00:20:45,480 --> 00:20:47,164
+How could I not have seen this?
+
+421
+00:20:47,480 --> 00:20:50,051
+Obviously you're not obsessed with me.
+
+422
+00:20:50,560 --> 00:20:54,610
+Richard, it's none of my business,
+but be safe.
+
+423
+00:20:54,680 --> 00:20:57,809
+- Okay?
+- Okay.
+
+424
+00:20:59,320 --> 00:21:03,291
+Of course I'm safe. I backup my
+whole system like five times a day.
+
+425
+00:21:03,480 --> 00:21:07,166
+So... Uh, Jared, hey,
+
+426
+00:21:07,600 --> 00:21:08,965
+thank you.
+
+427
+00:21:09,240 --> 00:21:12,164
+- For what?
+- Uh, you know, everything.
+
+428
+00:21:12,240 --> 00:21:16,165
+I feel like we don't appreciate you enough,
+so thank you.
+
+429
+00:21:17,280 --> 00:21:18,281
+(GASPS)
+
+430
+00:21:18,360 --> 00:21:20,283
+Are you... Are you crying?
+
+431
+00:21:20,360 --> 00:21:21,646
+-(SOBS)
+
+432
+00:21:22,680 --> 00:21:25,809
+Uh, don't do that. Don't cry.
+
+433
+00:21:29,160 --> 00:21:33,449
+Oh, shit. I gotta get back to work.
+I... I need to focus here.
+
+434
+00:21:33,560 --> 00:21:34,766
+We should all go.
+
+435
+00:21:34,840 --> 00:21:36,763
+All right, I'm taking care of this one.
+
+436
+00:21:36,840 --> 00:21:39,969
+But when we win this fuckin' thing,
+Richard, you're buying the next round.
+
+437
+00:21:40,040 --> 00:21:41,121
+Yeah.
+
+438
+00:21:42,800 --> 00:21:45,485
+Oh, no.
+
+439
+00:21:45,840 --> 00:21:49,322
+We're with the conference,
+is there any sort of discount?
+
+440
+00:21:49,400 --> 00:21:51,402
+- Kind of break you can...
+- Mmm-mmm.
+
+441
+00:21:51,480 --> 00:21:53,528
+No. All right.
+
+442
+00:21:53,600 --> 00:21:56,171
+- Hello, again.
+- Oh, hi.
+
+443
+00:21:56,240 --> 00:22:00,086
+You know, that was really sweet of you
+to be so concerned about Dan.
+
+444
+00:22:00,160 --> 00:22:01,571
+He really has been through hell.
+
+445
+00:22:01,920 --> 00:22:04,241
+Well, it's the least I could do.
+
+446
+00:22:05,560 --> 00:22:07,244
+So how did you know Madelyn again?
+
+447
+00:22:07,320 --> 00:22:10,369
+(EXHALES) Oh, uh, long story.
+
+448
+00:22:10,440 --> 00:22:11,930
+Yeah?
+
+449
+00:22:12,400 --> 00:22:15,882
+I have to admit, I'm curious.
+
+450
+00:22:18,440 --> 00:22:20,602
+You know what, keep it open.
+
+451
+00:22:22,560 --> 00:22:23,800
+(EXHALES DEEPLY)
+
+452
+00:22:24,080 --> 00:22:26,048
+Have you ever cared too much?
+
+453
+00:22:30,800 --> 00:22:33,849
+<i>People, are you ready?</i>
+
+454
+00:22:33,920 --> 00:22:37,970
+<i>Are you ready
+for the ultimate tech startup competition?</i>
+
+455
+00:22:38,040 --> 00:22:39,610
+<i>Let me hear it.</i>
+
+456
+00:22:39,680 --> 00:22:41,808
+<i>Disrupt!</i>
+
+457
+00:22:42,120 --> 00:22:43,485
+- (MILD CHEERING)
+- MAN: Disrupt.
+
+458
+00:22:46,240 --> 00:22:49,687
+<i>Hello. My name is Saeed Jobrani.</i>
+
+459
+00:22:49,960 --> 00:22:51,883
+<i>I am the CEO of lmmediBug.</i>
+
+460
+00:22:52,280 --> 00:22:54,760
+<i>And we're hereto revolutionize</i>
+
+461
+00:22:54,840 --> 00:22:57,889
+<i>the way you report bugs
+on your mobile platform.</i>
+
+462
+00:22:57,960 --> 00:23:02,488
+<i>Happin! will revolutionize location-based
+mobile news aggregation as you know it.</i>
+
+463
+00:23:02,640 --> 00:23:06,201
+<i>We're making the world a better place,
+through Paxos algorithms</i>
+
+464
+00:23:06,320 --> 00:23:07,731
+<i>for consensus protocols.</i>
+
+465
+00:23:07,800 --> 00:23:09,529
+<i>And we're making the world a better place</i>
+
+466
+00:23:09,600 --> 00:23:12,490
+<i>through software-defined data centers
+for cloud computing.</i>
+
+467
+00:23:12,560 --> 00:23:16,963
+<i>A better place through canonical data
+models to communicate between endpoints.</i>
+
+468
+00:23:17,080 --> 00:23:19,082
+<i>A better place through scalable,</i>
+
+469
+00:23:19,160 --> 00:23:22,369
+<i>fault-tolerant distributed databases
+with ACID transactions.</i>
+
+470
+00:23:22,440 --> 00:23:25,011
+<i>And we are truly local mobile social.</i>
+
+471
+00:23:25,080 --> 00:23:27,686
+<i>And we're completely So-Mo-Lo.</i>
+
+472
+00:23:27,800 --> 00:23:29,006
+<i>And</i> we're Mo-Lo-So.
+
+473
+00:23:29,080 --> 00:23:30,889
+<i>We're Lo-Mo-So, bro.</i>
+
+474
+00:23:30,960 --> 00:23:34,601
+We were So-Lo-Mo but now we're Mo-Lo-So.
+
+475
+00:23:34,680 --> 00:23:37,650
+<i>No, Mo-So-Lo. No...</i>
+
+476
+00:23:37,960 --> 00:23:39,325
+(INAUDIBLE)
+
+477
+00:23:40,640 --> 00:23:41,926
+MAN: You want me to get
+a water or something?
+
+478
+00:23:42,000 --> 00:23:43,923
+- Yeah, drink this.
+- Here.
+
+479
+00:23:45,760 --> 00:23:47,364
+- So we're all good?
+- We're all great.
+
+480
+00:23:47,440 --> 00:23:50,603
+I killed it.
+Our Weissman score on all tests, 2.89.
+
+481
+00:23:50,680 --> 00:23:52,444
+Right at the theoretical limit.
+
+482
+00:23:52,520 --> 00:23:54,443
+Yeah, all the edge modules are humming.
+
+483
+00:23:54,520 --> 00:23:57,364
+Uh, even on mobile.
+They can throw anything at us.
+
+484
+00:23:57,440 --> 00:24:01,968
+Great. Well, good luck.
+I'm gonna go find my seat.
+
+485
+00:24:02,040 --> 00:24:03,690
+Um, except 3D video.
+
+486
+00:24:04,680 --> 00:24:05,886
+What?
+
+487
+00:24:05,960 --> 00:24:07,883
+3D video's still a little hinky.
+
+488
+00:24:07,960 --> 00:24:10,440
+Erlich better steer them away
+from that just to be safe.
+
+489
+00:24:10,520 --> 00:24:12,045
+Where the hell is Erlich?
+
+490
+00:24:13,400 --> 00:24:15,084
+He wasn't with you guys this morning?
+
+491
+00:24:15,160 --> 00:24:17,447
+<i>Rather than heating an entire room,</i>
+
+492
+00:24:17,600 --> 00:24:20,285
+<i>HumanHeater is a microwave technology</i>
+
+493
+00:24:20,360 --> 00:24:23,569
+<i>that can heat the surface
+of a person's skin instead,</i>
+
+494
+00:24:23,720 --> 00:24:26,291
+<i>potentially saving
+millions in heating costs</i>
+
+495
+00:24:26,400 --> 00:24:31,042
+<i>and helping the environment,
+thereby making the world a better place.</i>
+
+496
+00:24:31,400 --> 00:24:32,890
+MAN: <i>Judges.</i>
+
+497
+00:24:34,440 --> 00:24:35,487
+<i>Uh...</i>
+
+498
+00:24:35,560 --> 00:24:37,403
+<i>Okay, so,</i>
+
+499
+00:24:37,480 --> 00:24:43,044
+<i>you want to heat people with microwaves,
+is that right?</i>
+
+500
+00:24:43,120 --> 00:24:44,770
+<i>That can't be safe.</i>
+
+501
+00:24:44,840 --> 00:24:48,526
+<i>That's a great question
+and trust me, it is very, very safe.</i>
+
+502
+00:24:48,600 --> 00:24:51,171
+<i>I've been working on it for 15 years.</i>
+
+503
+00:24:51,240 --> 00:24:54,164
+<i>I don't trust you and it can't be safe.</i>
+
+504
+00:24:54,240 --> 00:24:57,926
+<i>And even if it was, I don't think
+you could ever sell the public on this.</i>
+
+505
+00:24:58,400 --> 00:24:59,970
+<i>Thank you.</i>
+
+506
+00:25:00,720 --> 00:25:03,849
+<i>I think when people
+see the savings on their utility bill</i>
+
+507
+00:25:03,920 --> 00:25:07,402
+<i>and when they see how it saves
+the environment, they will be sold.</i>
+
+508
+00:25:07,480 --> 00:25:09,687
+<i>Microwaves? Are you kidding me?</i>
+
+509
+00:25:10,040 --> 00:25:12,566
+Man, they are brutal.
+
+510
+00:25:12,640 --> 00:25:15,530
+All right, let's light this candle.
+
+511
+00:25:15,600 --> 00:25:17,204
+Where the hell have you been?
+
+512
+00:25:17,280 --> 00:25:20,762
+Uh, there's been some developments.
+You know how I fucked Melcher's old wife?
+
+513
+00:25:20,840 --> 00:25:22,842
+- I fucked his new wife, too.
+- What?
+
+514
+00:25:22,920 --> 00:25:24,729
+ERLICH: Uh, don't worry,
+he's not gonna find out.
+
+515
+00:25:24,800 --> 00:25:27,081
+I left way before he got back
+last night and then I didn't
+
+516
+00:25:27,120 --> 00:25:29,327
+go back this morning until 20 minutes
+after he had left.
+
+517
+00:25:29,400 --> 00:25:30,686
+You went back?
+
+518
+00:25:30,760 --> 00:25:33,889
+- How many times did you fuck this woman?
+- The old wife or the new wife?
+
+519
+00:25:34,120 --> 00:25:35,963
+- The new wife.
+- Last night or this morning?
+
+520
+00:25:36,040 --> 00:25:38,930
+Erlich, what were you thinking?
+This is kind of a big day today.
+
+521
+00:25:39,000 --> 00:25:41,048
+Relax, he's not gonna find out.
+She's not gonna tell him.
+
+522
+00:25:41,120 --> 00:25:42,087
+How the fuck do you know that?
+
+523
+00:25:42,160 --> 00:25:45,721
+Because she'd have to be crazy to tell him
+and I asked her point blank if she was crazy
+
+524
+00:25:45,800 --> 00:25:48,007
+and she swore to me, no, she's not crazy.
+
+525
+00:25:48,440 --> 00:25:50,647
+- Pied Piper, you're up.
+- ERLICH: Let's do it.
+
+526
+00:25:50,720 --> 00:25:54,406
+<i>The microwaves only penetrate
+the top layer of skin cells.</i>
+
+527
+00:25:54,480 --> 00:25:57,211
+<i>I don't believe you. It can't be safe.</i>
+
+528
+00:25:57,280 --> 00:25:58,406
+<i>Thank you.</i>
+
+529
+00:25:59,160 --> 00:26:02,846
+<i>I've been testing it
+on these guys all winter and they're fine.</i>
+
+530
+00:26:02,920 --> 00:26:05,287
+<i>Let me just demonstrate it to assure you...</i>
+
+531
+00:26:05,360 --> 00:26:07,362
+<i>- No! No!
+- No! Please!</i>
+
+532
+00:26:08,360 --> 00:26:11,887
+<i>No one is ever going to buy one of these.</i>
+
+533
+00:26:11,960 --> 00:26:13,246
+<i>Ever.</i>
+
+534
+00:26:13,320 --> 00:26:15,527
+<i>That was HumanHeater.</i>
+
+535
+00:26:15,600 --> 00:26:18,285
+<i>Next up, Executive Chairman
+and Chief Visionary</i>
+
+536
+00:26:18,360 --> 00:26:22,251
+<i>- Erlich Bachman presenting Pied Piper.
+- (APPLAUSE)</i>
+
+537
+00:26:25,840 --> 00:26:27,763
+(DRAMATIC MUSIC)
+
+538
+00:26:36,360 --> 00:26:38,442
+<i>Since the dawn of time,</i>
+
+539
+00:26:38,520 --> 00:26:43,128
+<i>mankind hath sought
+to make things smaller, but until now,</i>
+
+540
+00:26:43,200 --> 00:26:45,202
+- no man...
+- (SCREAMING)
+
+541
+00:26:45,280 --> 00:26:47,203
+DAN: You son of a bitch!
+
+542
+00:26:47,280 --> 00:26:49,601
+<i>- (BLOWS LANDING)
+- Jesus Christ! Everyone, remain calm.</i>
+
+543
+00:26:49,680 --> 00:26:52,365
+<i>Stay in your seats!
+Everything is under control!</i>
+
+544
+00:26:52,440 --> 00:26:55,011
+- (YELLING)
+- Lights?
+
+545
+00:26:55,520 --> 00:26:56,806
+I think he knows.
+
+546
+00:26:56,880 --> 00:26:58,370
+Security to main stage.
+
+547
+00:26:58,840 --> 00:27:00,001
+(RAP MUSIC PLAYING)
+

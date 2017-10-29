@@ -1,0 +1,2260 @@
+﻿1
+00:00:07,360 --> 00:00:10,284
+Kidney function, liver function,
+testosterone...
+
+2
+00:00:10,360 --> 00:00:11,481
+I don't know how you did it,
+
+3
+00:00:11,520 --> 00:00:15,206
+but you have essentially aged 40 years
+in the last seven weeks.
+
+4
+00:00:15,280 --> 00:00:16,645
+Wow. Really?
+
+5
+00:00:16,720 --> 00:00:18,529
+We had a meth addict in here this morning
+
+6
+00:00:18,600 --> 00:00:21,843
+who was biologically younger
+than you are, and he's 58.
+
+7
+00:00:22,760 --> 00:00:24,091
+MySpace guy.
+
+8
+00:00:24,720 --> 00:00:26,245
+So what is going on?
+
+9
+00:00:26,600 --> 00:00:27,647
+Uh...
+
+10
+00:00:27,720 --> 00:00:30,007
+It's this cloud service configuration,
+
+11
+00:00:30,080 --> 00:00:32,765
+- I've been stuck on it for over a week.
+- Wow.
+
+12
+00:00:32,840 --> 00:00:35,525
+I'm a good programmer.
+I mean, it's the only thing I am good at.
+
+13
+00:00:35,600 --> 00:00:37,489
+I mean, last year,
+I threw a Frisbee and I chipped my tooth.
+
+14
+00:00:37,560 --> 00:00:38,925
+Oh, that's more of a dental issue.
+
+15
+00:00:39,000 --> 00:00:40,411
+Yup, okay, I...
+
+16
+00:00:40,480 --> 00:00:44,121
+The point is, I learned Ruby on Rails
+over a weekend when I was 17.
+
+17
+00:00:44,200 --> 00:00:46,521
+I should be able to learn cloud, I have to.
+
+18
+00:00:46,600 --> 00:00:49,001
+May I give you my professional opinion,
+as your doctor?
+
+19
+00:00:50,120 --> 00:00:53,363
+You should have taken that $10 million
+from Gavin Belson, okay?
+
+20
+00:00:53,960 --> 00:00:56,611
+But regrets will kill ya,
+so try not to dwell on it.
+
+21
+00:00:56,680 --> 00:00:58,284
+I tried to tell you.
+
+22
+00:00:58,360 --> 00:01:00,362
+(THEME MUSIC PLAYING)
+
+23
+00:01:09,320 --> 00:01:12,563
+Outside help?
+No, we're not getting any outside help.
+
+24
+00:01:12,640 --> 00:01:15,530
+It's a week until TechCrunch, Richard.
+We can't wait any longer.
+
+25
+00:01:15,600 --> 00:01:17,523
+Richard, look at the board.
+
+26
+00:01:17,600 --> 00:01:22,401
+Okay, cloud architecture is just a giant
+turd that is clogging up our pipes.
+
+27
+00:01:22,480 --> 00:01:24,608
+We have to call in a plumber to fix it.
+
+28
+00:01:24,680 --> 00:01:27,763
+Okay, I hate that metaphor,
+but Erlich is right.
+
+29
+00:01:27,840 --> 00:01:30,810
+Gilfoyle and I finished
+the distribution services days ago
+
+30
+00:01:30,880 --> 00:01:32,530
+and we're just sitting
+around waiting for you.
+
+31
+00:01:32,600 --> 00:01:35,843
+- I can solve it.
+- Richard, you're a fucking rock star, okay?
+
+32
+00:01:35,920 --> 00:01:37,729
+You just don't know cloud,
+
+33
+00:01:37,800 --> 00:01:42,522
+this tiny, little, shitty area,
+which is becoming super important,
+
+34
+00:01:42,600 --> 00:01:44,682
+and in many ways is the
+future of computing.
+
+35
+00:01:46,800 --> 00:01:49,929
+That sort of went south on me,
+but you understand what I'm saying.
+
+36
+00:01:50,000 --> 00:01:52,890
+I've already talked to Peter Gregory
+about insourcing a consultant.
+
+37
+00:01:52,960 --> 00:01:55,691
+I've made contact with a programmer
+whose cloud architecture
+
+38
+00:01:55,800 --> 00:01:58,929
+is supposed to be insane.
+They call him The Carver.
+
+39
+00:01:59,000 --> 00:02:00,126
+The Carver?
+
+40
+00:02:00,560 --> 00:02:03,404
+That Black Hat guy who apparently hacked
+into the Bank of America
+
+41
+00:02:03,480 --> 00:02:05,562
+and took down their entire system,
+that The Carver?
+
+42
+00:02:05,640 --> 00:02:07,051
+We should get him if we can.
+
+43
+00:02:07,720 --> 00:02:08,721
+(SIGHING)
+
+44
+00:02:09,760 --> 00:02:14,482
+Okay, we can talk to the guy, but, I
+mean, he's really gonna have to sell me.
+
+45
+00:02:21,800 --> 00:02:24,406
+JARED: Six months ago,
+these guys had $35 million
+
+46
+00:02:24,480 --> 00:02:25,811
+and Series B financing.
+
+47
+00:02:25,880 --> 00:02:28,884
+Now The Carver's here doing teardown.
+
+48
+00:02:29,000 --> 00:02:31,321
+He's basically moving their carcass
+to the cloud.
+
+49
+00:02:31,400 --> 00:02:34,324
+ERLICH: Don't touch anything.
+Failure is contagious.
+
+50
+00:02:38,840 --> 00:02:40,410
+I think that's him.
+
+51
+00:02:40,920 --> 00:02:42,285
+(TYPING)
+
+52
+00:02:43,360 --> 00:02:46,330
+Excuse me, Mr. Carver?
+
+53
+00:02:47,440 --> 00:02:51,490
+(SNICKERING) Yeah, uh, people refer to me
+as The Carver,
+
+54
+00:02:51,560 --> 00:02:55,007
+but no one actually calls me that.
+It's, uh, what people call a screen name.
+
+55
+00:02:55,080 --> 00:02:57,606
+You know. I'm Kevin.
+
+56
+00:02:57,680 --> 00:03:01,765
+Okay, Kevin, um, we're from Pied Piper,
+we spoke earlier.
+
+57
+00:03:01,840 --> 00:03:04,366
+- Yeah, so you guys are fucked, huh?
+- No. No, we're not fucked.
+
+58
+00:03:04,440 --> 00:03:05,805
+Yes, we are totally fucked.
+
+59
+00:03:05,880 --> 00:03:08,201
+We have a live demo in one week
+and our cloud is in the shitter.
+
+60
+00:03:08,280 --> 00:03:10,521
+- That's accurate.
+- Wait, are you Richard?
+
+61
+00:03:11,560 --> 00:03:12,891
+Yes, I am.
+
+62
+00:03:12,960 --> 00:03:17,045
+Yeah, your, uh, algorithm is solid.
+It's a really good schema.
+
+63
+00:03:17,120 --> 00:03:18,849
+Okay, thanks.
+
+64
+00:03:19,040 --> 00:03:22,362
+I did think you'd be younger.
+What are you, 25?
+
+65
+00:03:22,440 --> 00:03:23,646
+I'm 26.
+
+66
+00:03:23,720 --> 00:03:24,926
+Yikes.
+
+67
+00:03:26,480 --> 00:03:29,689
+Uh, so I have a Model UN thing on Monday,
+
+68
+00:03:29,760 --> 00:03:32,127
+but maybe I could burn through your gig
+over the weekend.
+
+69
+00:03:32,200 --> 00:03:36,649
+Mmm. You think you can do our whole job
+in two days?
+
+70
+00:03:36,720 --> 00:03:38,961
+I know I can do it in two days.
+
+71
+00:03:39,040 --> 00:03:42,522
+I pound Mello Yello, Oreos and Adderall
+and I don't sleep until I'm done.
+
+72
+00:03:42,720 --> 00:03:44,768
+- Okay.
+- (SCOFFING)
+
+73
+00:03:44,840 --> 00:03:46,171
+But you know what? I also have an offer
+
+74
+00:03:46,240 --> 00:03:47,844
+to do some migration at Gittawonk
+this weekend.
+
+75
+00:03:47,920 --> 00:03:52,164
+It's, uh... It's kind of chill, and
+frankly, their tech's a little stronger.
+
+76
+00:03:52,240 --> 00:03:54,322
+Whoa. What? What?
+
+77
+00:03:54,720 --> 00:03:56,927
+You think Gittawonk's tech
+is stronger than ours?
+
+78
+00:03:57,000 --> 00:03:59,651
+I'm sorry, I don't remember reading
+in PandoDaily
+
+79
+00:03:59,760 --> 00:04:02,764
+that Gavin Belson and Peter Gregory
+were fighting over Gittawonk.
+
+80
+00:04:02,840 --> 00:04:06,083
+No one offered $10 million
+to acquire Gittawonk.
+
+81
+00:04:06,160 --> 00:04:09,403
+Yeah, I agree with Richard,
+you should come work for us.
+
+82
+00:04:09,480 --> 00:04:11,960
+- What... No...
+- What's it gonna take, a blow-job?
+
+83
+00:04:12,040 --> 00:04:14,771
+Because Richard will suck the
+dick right off of your pelvis.
+
+84
+00:04:14,840 --> 00:04:15,966
+(LAUGHING)
+
+85
+00:04:19,240 --> 00:04:21,083
+Now, you make me laugh, shaggy man.
+
+86
+00:04:22,000 --> 00:04:24,128
+All right, I'm in. I'll
+see you guys Friday.
+
+87
+00:04:26,160 --> 00:04:27,161
+(TYPING)
+
+88
+00:04:27,240 --> 00:04:28,651
+RICHARD: Okay.
+
+89
+00:04:28,720 --> 00:04:30,521
+- (WHISPERING) Well done.
+- (WHISPERING) Yeah.
+
+90
+00:04:33,960 --> 00:04:36,964
+Excuse me.
+Hi, um, would you guys be interested
+
+91
+00:04:37,040 --> 00:04:39,725
+in buying some candy so you can
+send my church group to camp?
+
+92
+00:04:39,840 --> 00:04:40,887
+Nope.
+
+93
+00:04:41,640 --> 00:04:42,846
+RICHARD: Erlich, come on.
+
+94
+00:04:42,920 --> 00:04:44,570
+ERLICH: $100 says there's no church.
+
+95
+00:04:44,680 --> 00:04:46,409
+Whole thing's a scam, little scumbags.
+
+96
+00:04:46,480 --> 00:04:47,970
+They're just children.
+
+97
+00:04:48,040 --> 00:04:50,964
+Looks like Gilfoyle and his lady Satanist
+are back from the airport.
+
+98
+00:04:51,040 --> 00:04:53,361
+Can you imagine what kind
+of shit-show this one's gonna be?
+
+99
+00:04:53,480 --> 00:04:55,847
+He says that she has an Amy Winehouse vibe.
+
+100
+00:04:55,920 --> 00:04:58,400
+What does that mean?
+All tatted-up and nowhere to go?
+
+101
+00:04:58,480 --> 00:05:01,131
+- Hooked on OxyContin?
+- Decomposing?
+
+102
+00:05:01,200 --> 00:05:03,726
+Oh. Oh, okay, that was dark.
+
+103
+00:05:05,800 --> 00:05:09,566
+Gentlemen, this is Tara.
+
+104
+00:05:09,640 --> 00:05:11,369
+- Hey.
+- Tara, this is the fellas.
+
+105
+00:05:11,440 --> 00:05:13,522
+Jared, Dinesh, (MISPRONOUNCING)
+Erlich and Richard.
+
+106
+00:05:13,600 --> 00:05:16,171
+- It's Erlich.
+- Oh, it's great to finally meet you guys.
+
+107
+00:05:17,920 --> 00:05:19,001
+Hi.
+
+108
+00:05:19,080 --> 00:05:20,641
+- (TARA GIGGLING)
+- GILFOYLE: All right.
+
+109
+00:05:20,760 --> 00:05:21,807
+Hmm.
+
+110
+00:05:23,760 --> 00:05:26,684
+Jesus, where did he
+get Amy Winehouse from?
+
+111
+00:05:26,760 --> 00:05:30,765
+I mean, I'd have sex with that
+if you hose the Gilfoyle off of her.
+
+112
+00:05:30,840 --> 00:05:34,401
+It's weird having a girl in the house.
+There's a very strange energy.
+
+113
+00:05:36,160 --> 00:05:37,161
+Hmm.
+
+114
+00:05:45,680 --> 00:05:47,728
+Hello... Kevin.
+
+115
+00:05:48,080 --> 00:05:51,846
+(CHUCKLING) Okay, Richard,
+I just need you to approve Kevin's fee.
+
+116
+00:05:51,920 --> 00:05:55,367
+I got Erlich to sign
+and you just sign right there.
+
+117
+00:05:55,440 --> 00:05:58,011
+$20,000 for two days.
+
+118
+00:05:58,480 --> 00:06:00,881
+You know who else thought
+my price was too high?
+
+119
+00:06:00,960 --> 00:06:03,088
+- BitRaptor.
+- Who?
+
+120
+00:06:04,520 --> 00:06:05,806
+Exactly.
+
+121
+00:06:07,360 --> 00:06:11,331
+Great. Peter Gregory is on his way out
+of town so I'm gonna hustle out there
+
+122
+00:06:11,400 --> 00:06:12,970
+and get him to co-sign these
+
+123
+00:06:13,040 --> 00:06:15,008
+and the check,
+and I'll be back as soon as I can.
+
+124
+00:06:15,160 --> 00:06:17,367
+- Well, go.
+- Thank you.
+
+125
+00:06:20,120 --> 00:06:22,122
+You okay over there?
+You have any questions...
+
+126
+00:06:22,200 --> 00:06:24,567
+Yeah, one question.
+
+127
+00:06:24,640 --> 00:06:25,880
+Cool. Shoot.
+
+128
+00:06:27,120 --> 00:06:28,884
+Why do you keep your lips
+pressed so tight together
+
+129
+00:06:28,960 --> 00:06:30,007
+when you're not talking?
+
+130
+00:06:30,960 --> 00:06:32,564
+'Cause they're like white.
+
+131
+00:06:33,400 --> 00:06:34,640
+It looks uncomfortable.
+
+132
+00:06:35,040 --> 00:06:36,041
+(SCOFFING)
+
+133
+00:06:36,120 --> 00:06:37,724
+(TYPING)
+
+134
+00:06:43,440 --> 00:06:44,930
+(MOUTHING SILENTLY)
+
+135
+00:06:47,680 --> 00:06:49,170
+Hey, guys.
+
+136
+00:06:53,920 --> 00:06:55,490
+Hey, Kevin, um,
+
+137
+00:06:55,600 --> 00:06:59,161
+so how did you bypass
+Bank of America's network security?
+
+138
+00:06:59,360 --> 00:07:00,521
+I want details.
+
+139
+00:07:02,160 --> 00:07:05,084
+My lawyers told me
+I'm not allowed to discuss it.
+
+140
+00:07:05,360 --> 00:07:07,362
+Totally get it. That's baller.
+
+141
+00:07:27,040 --> 00:07:29,361
+- Hey, babe? You're up.
+- Hmm.
+
+142
+00:07:35,840 --> 00:07:37,046
+(WHISPERING INDISTINCTLY)
+
+143
+00:07:39,200 --> 00:07:41,841
+- TARA: All right, I'm gonna go have a shower.
+- GILFOYLE: Mmm-hmm.
+
+144
+00:07:44,960 --> 00:07:48,282
+- Uh, what was that?
+- What?
+
+145
+00:07:48,400 --> 00:07:51,802
+Tara just whispered something to you
+and then she looked at me in a weird way.
+
+146
+00:07:52,560 --> 00:07:53,641
+No, she didn't.
+
+147
+00:07:54,240 --> 00:07:55,321
+Yeah, she did.
+
+148
+00:08:07,400 --> 00:08:08,845
+What's up?
+
+149
+00:08:08,920 --> 00:08:10,684
+Do you know what compression is?
+
+150
+00:08:11,440 --> 00:08:15,161
+It's when someone takes pleasure
+in seeing their loved one gratified
+
+151
+00:08:15,240 --> 00:08:16,605
+by another person.
+
+152
+00:08:17,400 --> 00:08:20,609
+Sexually. It's the opposite of jealousy.
+
+153
+00:08:20,720 --> 00:08:24,566
+It sounds like it's the opposite of normal.
+Why are you telling me about this thing?
+
+154
+00:08:25,560 --> 00:08:27,927
+(CLEARING THROAT) As shocking as this is...
+
+155
+00:08:29,440 --> 00:08:31,727
+Tara is attracted to you.
+
+156
+00:08:34,480 --> 00:08:35,766
+Come again?
+
+157
+00:08:35,840 --> 00:08:39,322
+Yeah, freaked me out, too, at first.
+
+158
+00:08:39,800 --> 00:08:42,406
+I don't like the "at first" part at all.
+
+159
+00:08:42,480 --> 00:08:43,720
+What are you saying?
+
+160
+00:08:43,800 --> 00:08:45,768
+Since I abide by the maxim,
+
+161
+00:08:45,840 --> 00:08:48,446
+"Do what thou wilt,
+that is the whole of the law,"
+
+162
+00:08:49,600 --> 00:08:51,364
+if you want to fuck my girlfriend,
+I'm okay with it.
+
+163
+00:08:51,440 --> 00:08:54,967
+Jesus Christ, man, I could barely stand
+next to you when you're in your towel.
+
+164
+00:08:55,040 --> 00:08:56,849
+I don't want to have a threesome with you.
+
+165
+00:08:56,920 --> 00:08:58,649
+I'm not talking about a threesome.
+
+166
+00:08:58,720 --> 00:09:01,883
+Listen, I don't even have to be in the
+room, unless that's better for you.
+
+167
+00:09:01,960 --> 00:09:03,291
+Okay, no, I don't...
+
+168
+00:09:07,280 --> 00:09:09,203
+Right, so we're all settled then?
+
+169
+00:09:09,280 --> 00:09:11,362
+- Yep.
+- Do you need parking validation?
+
+170
+00:09:11,440 --> 00:09:13,329
+No, I, uh, used Lyft.
+
+171
+00:09:13,440 --> 00:09:15,568
+So I'll Lyft it back.
+
+172
+00:09:15,640 --> 00:09:17,369
+Why don't I have Peter's car take you home?
+
+173
+00:09:17,440 --> 00:09:19,568
+He's not using it,
+we're shipping off to Arallon tomorrow.
+
+174
+00:09:19,640 --> 00:09:22,803
+- Arallon?
+- Yeah, the island Peter's building.
+
+175
+00:09:26,400 --> 00:09:28,402
+What's the... The red line?
+
+176
+00:09:28,480 --> 00:09:29,891
+That's the International Date Line.
+
+177
+00:09:29,960 --> 00:09:31,564
+The island's built right on it
+
+178
+00:09:31,640 --> 00:09:34,166
+so the western half can celebrate
+the first New Year's on Earth,
+
+179
+00:09:34,240 --> 00:09:36,402
+then the next day,
+they walk over to the eastern half
+
+180
+00:09:36,480 --> 00:09:38,323
+and celebrate the last New Year's on Earth.
+
+181
+00:09:38,760 --> 00:09:41,120
+But if you can walk,
+why does he need the car on the island?
+
+182
+00:09:41,160 --> 00:09:44,050
+Peter's not really big on walking.
+
+183
+00:09:45,640 --> 00:09:47,722
+So I'll just have the guys
+pull it up front for you.
+
+184
+00:09:47,800 --> 00:09:48,801
+Great.
+
+185
+00:09:59,760 --> 00:10:00,921
+(CHUCKLING)
+
+186
+00:10:02,000 --> 00:10:04,651
+Driverless car.
+
+187
+00:10:09,920 --> 00:10:11,649
+<i>COMPUTER: (BEEPING) Select destination.</i>
+
+188
+00:10:11,720 --> 00:10:16,248
+Hi, um... I'm going to 5230
+
+189
+00:10:16,320 --> 00:10:19,802
+Newell Road, Palo Alto...
+
+190
+00:10:19,880 --> 00:10:24,363
+<i>Route guidance calibrated.
+Distance to destination: 4.6 miles.</i>
+
+191
+00:10:24,440 --> 00:10:25,601
+<i>Buckle up, please.</i>
+
+192
+00:10:25,680 --> 00:10:26,966
+- (BEEPING)
+- Okay. (CHUCKLES)
+
+193
+00:10:28,080 --> 00:10:29,491
+<i>Enjoy your ride.</i>
+
+194
+00:10:31,440 --> 00:10:32,965
+(JARED CHUCKLING)
+
+195
+00:10:33,960 --> 00:10:35,485
+<i>You'?</i>
+
+196
+00:10:35,560 --> 00:10:38,803
+Tara wants to have sex with you? You sure?
+
+197
+00:10:38,880 --> 00:10:41,167
+Yeah, Gilfoyle just told me, to my face.
+
+198
+00:10:41,240 --> 00:10:44,323
+He told you that Tara wants to copulate
+with someone else in the house
+
+199
+00:10:44,400 --> 00:10:47,768
+other than him
+and that someone is you, Dinesh?
+
+200
+00:10:47,840 --> 00:10:49,205
+Yeah, that's...
+
+201
+00:10:49,280 --> 00:10:52,887
+You know, you seem confused by this
+but for a different reason than I am.
+
+202
+00:10:53,000 --> 00:10:55,810
+Don't you think it's weird
+that Tara wants some strange
+
+203
+00:10:55,880 --> 00:10:58,850
+and she chooses you over me,
+
+204
+00:10:58,920 --> 00:11:00,809
+the logical person in the house?
+
+205
+00:11:00,880 --> 00:11:04,009
+Okay, I see where we are ending up on this.
+Thank you for your time.
+
+206
+00:11:04,080 --> 00:11:07,163
+Wait, are you sure that
+she didn't ask Gilfoyle
+
+207
+00:11:07,240 --> 00:11:10,210
+for a Danish and maybe you misheard her?
+
+208
+00:11:10,280 --> 00:11:12,806
+You're probably right,
+she just wanted to fuck a Danish.
+
+209
+00:11:13,000 --> 00:11:15,685
+Wait, you just built all
+the indexes on the fly?
+
+210
+00:11:15,760 --> 00:11:17,046
+Yeah, of course.
+
+211
+00:11:17,120 --> 00:11:19,771
+Okay, well... Well, then what's that?
+
+212
+00:11:21,080 --> 00:11:22,605
+The key value store.
+
+213
+00:11:23,800 --> 00:11:25,006
+Tuples.
+
+214
+00:11:25,440 --> 00:11:28,330
+(WITH A FOREIGN ACCENT)
+Speak English?
+
+215
+00:11:28,560 --> 00:11:29,561
+(SIGHS)
+
+216
+00:11:32,560 --> 00:11:34,721
+You're kind of doing that
+lip thing again there, buddy.
+
+217
+00:11:34,760 --> 00:11:36,444
+No, I'm not.
+
+218
+00:11:37,600 --> 00:11:39,170
+Stop looking at my lips.
+
+219
+00:11:43,440 --> 00:11:44,441
+(BEEPING)
+
+220
+00:11:46,320 --> 00:11:49,324
+<i>Destination override. New destination.</i>
+
+221
+00:11:49,400 --> 00:11:51,767
+<i>1 Gregory Drive. Arallon.</i>
+
+222
+00:11:51,840 --> 00:11:56,402
+<i>Distance to destination: 4,126 miles.</i>
+
+223
+00:11:56,480 --> 00:11:58,130
+<i>Enjoy your ride. (BEEPING)</i>
+
+224
+00:11:58,200 --> 00:12:00,009
+Um, what's happening?
+
+225
+00:12:02,760 --> 00:12:03,761
+Uh...
+
+226
+00:12:04,760 --> 00:12:06,808
+I'm sorry, what... Mr. Car?
+
+227
+00:12:10,400 --> 00:12:13,404
+Hey. Tara and I are going
+to a Satanic baptism.
+
+228
+00:12:13,480 --> 00:12:14,527
+You wanna come?
+
+229
+00:12:14,600 --> 00:12:16,887
+Stu Burns decided to walk
+the left-hand path with us.
+
+230
+00:12:16,960 --> 00:12:20,521
+The database administrator for Yahoo
+is becoming a Satanist?
+
+231
+00:12:20,600 --> 00:12:21,886
+We're everywhere.
+
+232
+00:12:21,960 --> 00:12:25,009
+Hey, Erlich, are you coming? Dinesh is.
+
+233
+00:12:25,080 --> 00:12:26,411
+He is?
+
+234
+00:12:28,080 --> 00:12:30,003
+- (PHONE RINGING)
+- This is Monica.
+
+235
+00:12:30,080 --> 00:12:32,401
+Hi, Monica, it's Jared.
+Uh, quick question...
+
+236
+00:12:32,520 --> 00:12:33,931
+Jared, I can't talk right now.
+
+237
+00:12:34,000 --> 00:12:35,843
+One of our assistants
+has been confusing the eastern,
+
+238
+00:12:35,920 --> 00:12:38,287
+western time zones of
+Arallon on work orders.
+
+239
+00:12:38,400 --> 00:12:41,165
+Now a bunch of important things
+are happening a day early.
+
+240
+00:12:41,280 --> 00:12:44,011
+<i>Peter is going to be furious
+when he finds out.</i>
+
+241
+00:12:44,080 --> 00:12:46,241
+- He's going to make that noise.
+- (CELL PHONE BEEPING)
+
+242
+00:12:47,240 --> 00:12:48,765
+Oh, shit, that's him on the other line.
+I've gotta go.
+
+243
+00:12:48,840 --> 00:12:50,285
+Oh, wait, Monica, I just...
+
+244
+00:12:50,360 --> 00:12:51,771
+Hi, Peter.
+
+245
+00:12:52,280 --> 00:12:53,520
+<i>(DEEP GUTTURAL SOUND)</i>
+
+246
+00:12:53,600 --> 00:12:55,204
+Hello, Monica?
+
+247
+00:12:56,880 --> 00:12:59,087
+Um, car? Mr. Car?
+
+248
+00:12:59,160 --> 00:13:00,525
+Uh, excuse me.
+
+249
+00:13:00,600 --> 00:13:02,602
+Arallon is an island, so how are we, um...
+
+250
+00:13:02,680 --> 00:13:04,330
+Oh, no, no! No, no, no, no.
+
+251
+00:13:04,400 --> 00:13:06,243
+Stop. Let me out.
+
+252
+00:13:06,920 --> 00:13:07,921
+Um...
+
+253
+00:13:08,280 --> 00:13:10,123
+Mmm. Um...
+
+254
+00:13:10,200 --> 00:13:11,440
+Uh, that's not good.
+
+255
+00:13:12,120 --> 00:13:13,485
+Oh, no! No!
+
+256
+00:13:13,560 --> 00:13:15,005
+Excuse me, please!
+
+257
+00:13:16,720 --> 00:13:19,087
+- Please honk. Please honk.
+- (DOOR SHUTTING)
+
+258
+00:13:19,160 --> 00:13:20,605
+No, no, no, no. No, no, no.
+
+259
+00:13:21,120 --> 00:13:23,088
+No, no. Please. Please.
+
+260
+00:13:24,480 --> 00:13:26,050
+Oh, no, that's not good.
+
+261
+00:13:27,400 --> 00:13:29,129
+Okay, Donald, stay calm.
+
+262
+00:13:29,200 --> 00:13:30,281
+(LOUD METALLIC THUDDING)
+
+263
+00:13:34,680 --> 00:13:38,127
+<i>103 hours to destination.
+Entering sleep mode.</i>
+
+264
+00:13:38,200 --> 00:13:40,168
+- What? <i>No!
+- Enjoy your ride.</i>
+
+265
+00:13:40,240 --> 00:13:41,924
+Okay, stay calm. Stay calm.
+
+266
+00:13:42,000 --> 00:13:43,604
+Wait, my phone.
+
+267
+00:13:43,680 --> 00:13:46,923
+No bars. No bars. No bars. No bars.
+
+268
+00:13:47,440 --> 00:13:49,249
+- (SCREAMING)
+- (SHIP HORN BLARING)
+
+269
+00:13:58,800 --> 00:14:01,531
+"We bring thy garden, o mighty Lucifer,
+
+270
+00:14:01,600 --> 00:14:05,525
+"the fragrances which abound
+therein, vapors of..."
+
+271
+00:14:05,600 --> 00:14:07,568
+(WHISPERING)
+What the fuck are we doing here?
+
+272
+00:14:07,640 --> 00:14:09,290
+Look at these fucking people.
+
+273
+00:14:09,360 --> 00:14:14,241
+"...through this, the black flame
+of Satan thou walkest in Hell.
+
+274
+00:14:14,320 --> 00:14:16,561
+"The gates are flung wide
+
+275
+00:14:16,640 --> 00:14:19,723
+"and thy passage is heralded
+by the deathless cries
+
+276
+00:14:19,800 --> 00:14:21,689
+"of his guardian beasts.
+
+277
+00:14:22,280 --> 00:14:25,284
+"Breathe of his breath,
+o brother of the night
+
+278
+00:14:25,360 --> 00:14:27,931
+"and nourish his waning brain.
+
+279
+00:14:28,000 --> 00:14:29,923
+- "From the despair..."
+- (WHISPERING) I just figured it out.
+
+280
+00:14:30,000 --> 00:14:31,047
+It all makes sense.
+
+281
+00:14:31,120 --> 00:14:32,167
+Figured what out?
+
+282
+00:14:32,240 --> 00:14:36,211
+Why Tara might be into you more than me.
+
+283
+00:14:36,280 --> 00:14:37,964
+She's attracted to ugliness.
+
+284
+00:14:38,040 --> 00:14:40,042
+- (WHISPERING) on, fuck you.
+- (WHISPERING) No, think about it.
+
+285
+00:14:40,120 --> 00:14:44,330
+This is the life that she chooses, right?
+She's attracted to unattractiveness.
+
+286
+00:14:44,400 --> 00:14:47,085
+Look at all these ugly people
+and Gilfoyle and now you.
+
+287
+00:14:47,160 --> 00:14:50,130
+That's ridiculous.
+I'm way more attractive than you are.
+
+288
+00:14:50,240 --> 00:14:51,760
+- No, you're not.
+- Way better looking.
+
+289
+00:14:51,800 --> 00:14:55,088
+By no metric could you possibly
+be considered more attractive than me.
+
+290
+00:14:55,160 --> 00:14:58,323
+You're saying that every woman
+in the entire world
+
+291
+00:14:58,400 --> 00:15:00,402
+would think you're more
+attractive than I am?
+
+292
+00:15:00,480 --> 00:15:03,324
+- Yes. Unless they're completely fucked up.
+- That's fuck...
+
+293
+00:15:03,400 --> 00:15:04,401
+Damn it.
+
+294
+00:15:11,160 --> 00:15:12,685
+You doing okay there?
+
+295
+00:15:12,760 --> 00:15:14,728
+Yep, yeah.
+
+296
+00:15:14,800 --> 00:15:16,165
+Fine, just, you know,
+
+297
+00:15:16,240 --> 00:15:19,767
+it's big orchestration stuff,
+a lot of moving parts.
+
+298
+00:15:19,840 --> 00:15:23,003
+Nothing you need to worry about.
+You just focus on the cloud.
+
+299
+00:15:23,080 --> 00:15:24,844
+I'm here if you need me.
+
+300
+00:15:43,040 --> 00:15:45,122
+You know what? Uh...
+
+301
+00:15:45,200 --> 00:15:47,089
+I know it's not what we hired you for,
+
+302
+00:15:47,160 --> 00:15:48,650
+but I am actually having a little trouble
+
+303
+00:15:48,760 --> 00:15:51,525
+with the data replication
+in the persistence layer.
+
+304
+00:15:51,920 --> 00:15:53,046
+Move over.
+
+305
+00:15:54,360 --> 00:15:56,203
+- Uh-huh.
+- (EXHALES DEEPLY)
+
+306
+00:15:58,440 --> 00:16:00,363
+Oh, Christ.
+
+307
+00:16:01,960 --> 00:16:05,169
+- I'm much more handsome than you are.
+- No, my face is completely symmetrical.
+
+308
+00:16:05,240 --> 00:16:06,844
+You know what my nickname
+was when I was a kid?
+
+309
+00:16:06,920 --> 00:16:08,809
+- What?
+- Pakistani Denzel.
+
+310
+00:16:08,880 --> 00:16:10,041
+You look nothing like him.
+
+311
+00:16:10,120 --> 00:16:12,521
+Denzel Washington has a beautiful smile.
+
+312
+00:16:12,600 --> 00:16:13,681
+You look ridiculous.
+
+313
+00:16:13,760 --> 00:16:16,650
+Hail Satan, it is done.
+
+314
+00:16:16,720 --> 00:16:18,640
+- ALL: Hail Satan.
+- ERLICH: Hail Satan, it is...
+
+315
+00:16:19,680 --> 00:16:20,886
+It's done.
+
+316
+00:16:24,360 --> 00:16:26,601
+Well, thanks for coming, everyone.
+
+317
+00:16:26,680 --> 00:16:30,969
+Brother Jason was kind enough
+to furnish this week's food.
+
+318
+00:16:31,040 --> 00:16:33,088
+It's Chick-fil-A.
+
+319
+00:16:33,160 --> 00:16:35,527
+I know, they're on the Christian right,
+
+320
+00:16:35,640 --> 00:16:38,689
+but darned if that chicken isn't good.
+
+321
+00:16:38,760 --> 00:16:41,081
+- I think the Dark Lord would understand.
+
+322
+00:16:41,800 --> 00:16:44,041
+- Also... Ugh. A reminder.
+- (WOMAN CHUCKLING)
+
+323
+00:16:44,120 --> 00:16:47,363
+If you parked in the Sav-On parking lot,
+
+324
+00:16:47,440 --> 00:16:49,204
+they do tow.
+
+325
+00:16:50,520 --> 00:16:53,603
+Well, I didn't know if you wanted
+original Oreos or Double Stuf
+
+326
+00:16:53,680 --> 00:16:55,603
+so I went a little nutty and I got both.
+
+327
+00:16:56,080 --> 00:16:57,366
+How's it, um...
+
+328
+00:16:57,440 --> 00:16:59,727
+- KEVIN: Fuck. Fuck.
+- (SIGHS)
+
+329
+00:16:59,800 --> 00:17:01,325
+- Kevin?
+
+330
+00:17:02,280 --> 00:17:03,566
+Hello?
+
+331
+00:17:05,760 --> 00:17:07,091
+(WHIMPERING) Fuck.
+
+332
+00:17:07,160 --> 00:17:09,049
+What are you doing down here?
+
+333
+00:17:09,120 --> 00:17:12,522
+I did it again, I did it again.
+
+334
+00:17:12,600 --> 00:17:14,284
+- Did what?
+- I did it again.
+
+335
+00:17:15,760 --> 00:17:17,171
+KEVIN: (MUMBLING) No.
+
+336
+00:17:18,200 --> 00:17:19,531
+What is this?
+
+337
+00:17:20,560 --> 00:17:22,767
+Did you overwrite the data schema?
+
+338
+00:17:23,680 --> 00:17:25,921
+Why would you do this?
+You don't ever do this!
+
+339
+00:17:26,000 --> 00:17:28,571
+That's exactly what they said
+when I was working at BofA.
+
+340
+00:17:28,640 --> 00:17:32,042
+Working at BofA? I thought you hacked in.
+
+341
+00:17:32,120 --> 00:17:33,167
+KEVIN: No.
+
+342
+00:17:34,520 --> 00:17:37,569
+I was a consultant
+at the retail banking services.
+
+343
+00:17:37,640 --> 00:17:39,290
+I crashed their entire system.
+
+344
+00:17:39,360 --> 00:17:41,966
+It took a team of seven engineers
+more than a week
+
+345
+00:17:42,080 --> 00:17:44,367
+to comb through all the code
+and find my mistake.
+
+346
+00:17:44,440 --> 00:17:46,602
+And the only way that
+I ever avoided being sued
+
+347
+00:17:46,680 --> 00:17:49,968
+was by agreeing to never tell anyone
+that I worked there.
+
+348
+00:17:51,760 --> 00:17:53,285
+Oh, fuck.
+
+349
+00:17:53,360 --> 00:17:55,010
+Oh, fuck, what?
+
+350
+00:17:55,080 --> 00:17:58,323
+I just told you. Now I
+could get in trouble.
+
+351
+00:17:58,840 --> 00:18:00,080
+Trouble?
+
+352
+00:18:00,160 --> 00:18:02,561
+You just skull-fucked my whole system.
+
+353
+00:18:02,640 --> 00:18:04,280
+I am going to punch you in the fucking...
+
+354
+00:18:04,320 --> 00:18:06,641
+We don't like sacrifice goats or anything.
+
+355
+00:18:06,720 --> 00:18:08,961
+We're not like
+the Order of the Golden Dawners, you know.
+
+356
+00:18:09,000 --> 00:18:11,002
+- ERLICH: Yeah.
+- (TARA CHUCKLING)
+
+357
+00:18:11,360 --> 00:18:13,010
+Richard, are you okay?
+
+358
+00:18:13,120 --> 00:18:15,088
+Um... Mmm...
+
+359
+00:18:15,200 --> 00:18:18,647
+Dinesh, uh, we may have a slight problem.
+
+360
+00:18:18,720 --> 00:18:22,441
+The Carver just carved
+up our entire platform.
+
+361
+00:18:23,120 --> 00:18:24,360
+What the fuck?
+
+362
+00:18:24,440 --> 00:18:26,727
+Yeah, the database layers,
+the application layers,
+
+363
+00:18:26,800 --> 00:18:28,609
+even the chef scripts are fucked.
+
+364
+00:18:28,680 --> 00:18:31,809
+The little fucker must have hacked
+into the DDL tables like he did with BofA.
+
+365
+00:18:31,920 --> 00:18:35,288
+He didn't hack into BofA.
+He was consulting there at the time,
+
+366
+00:18:35,360 --> 00:18:37,601
+when he took down the system by accident.
+
+367
+00:18:37,720 --> 00:18:39,802
+- KEVIN: Oh, you told them too?
+- What the fuck?
+
+368
+00:18:39,880 --> 00:18:43,771
+Richard, why would you let that
+little fetus access the DDL?
+
+369
+00:18:43,840 --> 00:18:47,322
+Because I thought
+that fetus was better than me
+
+370
+00:18:47,400 --> 00:18:49,004
+and so did you and everybody
+
+371
+00:18:49,080 --> 00:18:51,287
+and you just, you pressured me
+into hiring him...
+
+372
+00:18:51,400 --> 00:18:53,971
+Yes, Richard, for the cloud,
+to deploy the cloud.
+
+373
+00:18:54,040 --> 00:18:55,769
+So that you could do what you do best
+
+374
+00:18:55,840 --> 00:18:59,526
+and concentrate on everything else
+which the fetus just fucked up.
+
+375
+00:18:59,600 --> 00:19:01,284
+You need to drag this little shit stain...
+
+376
+00:19:01,360 --> 00:19:02,486
+You hear that?
+(BANGING ON TABLE)
+
+377
+00:19:02,560 --> 00:19:04,130
+out from under this table
+and have him go through
+
+378
+00:19:04,200 --> 00:19:05,929
+every single line of code with you
+
+379
+00:19:06,040 --> 00:19:08,247
+to unfuck it while it's still unfuckable.
+
+380
+00:19:09,200 --> 00:19:11,601
+I should not have eaten
+all of that Satanist chicken.
+
+381
+00:19:15,680 --> 00:19:18,490
+RICHARD: Okay, and with this one here,
+did you delete it
+
+382
+00:19:18,560 --> 00:19:19,925
+or just move it?
+
+383
+00:19:21,800 --> 00:19:24,201
+Hello? Kevin.
+
+384
+00:19:24,280 --> 00:19:25,850
+Maybe. I don't know.
+
+385
+00:19:25,920 --> 00:19:28,924
+What? What does that mean?
+What's wrong with you, man?
+
+386
+00:19:29,000 --> 00:19:31,890
+I can't focus. I'm out of Adderall.
+
+387
+00:19:33,160 --> 00:19:35,561
+Where's that Jared guy?
+He was getting my refill.
+
+388
+00:19:35,640 --> 00:19:38,484
+That's actually a really good question.
+
+389
+00:19:38,560 --> 00:19:39,925
+I don't know where he is.
+
+390
+00:19:40,080 --> 00:19:41,923
+(JARED SINGING SOFTLY)
+
+391
+00:19:50,160 --> 00:19:53,801
+The Carver's Adderall prescription.
+I hope that's not a problem.
+
+392
+00:19:55,040 --> 00:19:56,451
+- (PHONE BEEPING)
+- Dead battery.
+
+393
+00:19:56,520 --> 00:19:57,601
+That's a problem.
+
+394
+00:19:58,120 --> 00:19:59,531
+I need to lay down.
+
+395
+00:19:59,600 --> 00:20:01,125
+What? No! (SCOFFING)
+
+396
+00:20:01,200 --> 00:20:03,168
+You said you could code
+for 48 hours straight.
+
+397
+00:20:03,240 --> 00:20:04,401
+That's like your thing.
+
+398
+00:20:04,480 --> 00:20:07,086
+Yeah, how the fuck do you think I do that?
+Adderall.
+
+399
+00:20:07,160 --> 00:20:09,003
+Well, we don't have any.
+
+400
+00:20:10,120 --> 00:20:11,610
+It's really bright in here.
+
+401
+00:20:11,920 --> 00:20:13,604
+Who takes Adderall anymore?
+
+402
+00:20:14,200 --> 00:20:16,282
+KEVIN: Half the kids in Palo Alto.
+
+403
+00:20:19,080 --> 00:20:20,491
+Hey-
+
+404
+00:20:22,320 --> 00:20:25,210
+Any of you guys currently on Adderall
+
+405
+00:20:25,280 --> 00:20:29,444
+and, uh, you know, want to make $50?
+
+406
+00:20:53,680 --> 00:20:55,011
+(EXHALING) Oh, boy.
+
+407
+00:20:56,880 --> 00:20:58,803
+What do you mean, it's not Adderall?
+It's Adderall!
+
+408
+00:20:58,880 --> 00:21:01,360
+I know what Adderall looks like.
+It's not Adderall.
+
+409
+00:21:05,840 --> 00:21:06,921
+(SIGHING)
+
+410
+00:21:08,280 --> 00:21:09,441
+Uh...
+
+411
+00:21:09,520 --> 00:21:11,522
+Excuse me. Caleb?
+
+412
+00:21:12,360 --> 00:21:14,522
+There's been some kind of mistake.
+
+413
+00:21:14,760 --> 00:21:18,446
+What you sold me was not actually Adderall.
+
+414
+00:21:18,520 --> 00:21:19,760
+So maybe we could...
+
+415
+00:21:19,880 --> 00:21:21,882
+Do you think you could get me
+some real Adderall?
+
+416
+00:21:21,960 --> 00:21:23,405
+Yeah, yeah, of course.
+
+417
+00:21:23,800 --> 00:21:24,801
+Um...
+
+418
+00:21:24,880 --> 00:21:26,405
+I could do that or, um...
+
+419
+00:21:26,480 --> 00:21:28,369
+I can give you some of this.
+
+420
+00:21:29,440 --> 00:21:31,010
+- Ow!
+- (CHILDREN LAUGHING)
+
+421
+00:21:31,080 --> 00:21:32,445
+Okay, I'm gonna...
+
+422
+00:21:32,560 --> 00:21:35,370
+You're gonna do what, bitch?
+Call the cops on me?
+
+423
+00:21:35,480 --> 00:21:38,290
+Tell them you got the wrong
+illegal drugs from a kid?
+
+424
+00:21:38,400 --> 00:21:41,165
+You dumb piece of shit.
+Get the fuck out of here.
+
+425
+00:21:41,240 --> 00:21:42,890
+- Uh, you...
+- Run!
+
+426
+00:21:42,960 --> 00:21:45,247
+- All right, I'm running.
+- Keep running!
+
+427
+00:22:24,760 --> 00:22:26,569
+Stupid... (GROANING)
+
+428
+00:22:28,520 --> 00:22:30,363
+Richard, what's wrong?
+
+429
+00:22:32,600 --> 00:22:34,284
+Have you been crying?
+
+430
+00:22:34,840 --> 00:22:37,161
+Hey! Which one was it?
+
+431
+00:22:37,560 --> 00:22:39,164
+It was Church Candy, wasn't it?
+
+432
+00:22:39,240 --> 00:22:41,129
+You just brought piss to a shit fight,
+you little cunt!
+
+433
+00:22:41,360 --> 00:22:42,361
+Ow!
+
+434
+00:22:42,960 --> 00:22:44,041
+(GROANING)
+
+435
+00:22:44,120 --> 00:22:45,929
+CALEB: No, no, no!
+
+436
+00:22:46,000 --> 00:22:49,209
+Now you get in your fucking house
+and you get me five Adderall
+
+437
+00:22:49,280 --> 00:22:51,521
+or I'll slit your fucking throat!
+You understand?
+
+438
+00:22:51,640 --> 00:22:53,722
+I'll kill your mother!
+I'll rape your father!
+
+439
+00:22:53,800 --> 00:22:56,121
+I'll curb-stomp that little face so hard
+
+440
+00:22:56,200 --> 00:22:58,931
+that your teeth will go
+flying, you little shit!
+
+441
+00:22:59,000 --> 00:23:00,365
+Now go! Go! Go! Go!
+
+442
+00:23:00,480 --> 00:23:03,000
+- Get me five Adderall, right now!
+- Okay! I'm sorry! I'm sorry!
+
+443
+00:23:16,640 --> 00:23:18,210
+- Hi.
+- Tara.
+
+444
+00:23:20,080 --> 00:23:21,684
+- Hello.
+- Hi.
+
+445
+00:23:22,640 --> 00:23:24,005
+First of all...
+
+446
+00:23:24,880 --> 00:23:26,450
+So, um...
+
+447
+00:23:28,640 --> 00:23:31,803
+I have thought about it. A lot.
+
+448
+00:23:32,880 --> 00:23:37,363
+To be honest, elements of this arrangement
+still trouble me.
+
+449
+00:23:39,000 --> 00:23:43,961
+However, I have not had
+a lot of sexual experiences.
+
+450
+00:23:44,040 --> 00:23:48,170
+So I feel it may be foolish
+to turn this down.
+
+451
+00:23:49,880 --> 00:23:54,647
+So as long as Gilfoyle is not in the room
+
+452
+00:23:54,720 --> 00:23:58,202
+and I can verify that the door is locked
+
+453
+00:24:00,120 --> 00:24:02,441
+then I have concluded that,
+
+454
+00:24:04,360 --> 00:24:06,362
+yes,
+
+455
+00:24:06,440 --> 00:24:11,526
+I would love to have
+sexual relations with you,
+
+456
+00:24:13,000 --> 00:24:14,001
+Tara.
+
+457
+00:24:15,360 --> 00:24:16,521
+Yeah.
+
+458
+00:24:16,880 --> 00:24:19,201
+Uh, what are you talking about?
+
+459
+00:24:20,960 --> 00:24:22,371
+Gilfoyle told me.
+
+460
+00:24:23,360 --> 00:24:25,328
+I know you want to have sex with me.
+
+461
+00:24:26,040 --> 00:24:27,246
+Gilfoyle?
+
+462
+00:24:27,840 --> 00:24:29,842
+Would you come in here for a second?
+
+463
+00:24:30,480 --> 00:24:31,481
+Um...
+
+464
+00:24:31,640 --> 00:24:32,880
+Um... (SNICKERING)
+
+465
+00:24:33,560 --> 00:24:37,042
+Did you tell Dinesh that
+I want to have sex with him?
+
+466
+00:24:39,400 --> 00:24:40,561
+No.
+
+467
+00:24:42,000 --> 00:24:44,765
+Oh, wait, yeah, I totally did.
+I forgot about that.
+
+468
+00:24:44,840 --> 00:24:46,808
+I was really high. I was
+just fucking with him.
+
+469
+00:24:46,920 --> 00:24:47,967
+Did he believe me?
+
+470
+00:24:48,840 --> 00:24:49,841
+Uh...
+
+471
+00:24:49,920 --> 00:24:52,048
+Did you just present yourself to my woman?
+
+472
+00:24:52,120 --> 00:24:53,121
+(STAMMERING) Uh...
+
+473
+00:24:55,520 --> 00:24:57,204
+Oh, this is outstanding.
+
+474
+00:24:57,320 --> 00:25:00,608
+Oh, my God, that is so mean of you!
+
+475
+00:25:00,880 --> 00:25:02,609
+Look at how cute he is.
+
+476
+00:25:03,040 --> 00:25:04,929
+He's adorable. You're adorable.
+
+477
+00:25:05,000 --> 00:25:09,085
+Don't call me... It's very emasculating.
+
+478
+00:25:10,760 --> 00:25:13,684
+What kind of fucking idiot
+listens to what Gilfoyle has to say?
+
+479
+00:25:15,080 --> 00:25:17,048
+Okay, Tara, here's what it is.
+
+480
+00:25:17,160 --> 00:25:19,208
+If you can tell me to my face
+
+481
+00:25:19,280 --> 00:25:21,851
+that you seriously find Dinesh
+more attractive than me,
+
+482
+00:25:21,920 --> 00:25:24,605
+then and only then will I concede defeat.
+
+483
+00:25:29,280 --> 00:25:30,281
+What?
+
+484
+00:25:36,800 --> 00:25:38,723
+And our regression test is...
+
+485
+00:25:38,800 --> 00:25:39,847
+- (BEEPS)
+- Done.
+
+486
+00:25:40,000 --> 00:25:42,890
+Yes. It's clear, we all test out.
+
+487
+00:25:42,960 --> 00:25:43,961
+(SIGHS)
+
+488
+00:25:44,040 --> 00:25:46,088
+- The system's stable again.
+- Thank God.
+
+489
+00:25:46,160 --> 00:25:49,130
+Now we can move on to the next module
+and I can forget you ever existed.
+
+490
+00:25:49,200 --> 00:25:51,567
+Can you do me a favor?
+
+491
+00:25:52,720 --> 00:25:55,121
+Don't tell anyone I cratered this bad.
+
+492
+00:25:55,480 --> 00:25:58,360
+I won't tell anyone I hired you
+if you won't tell anyone you worked here.
+
+493
+00:25:58,560 --> 00:26:01,564
+Oh, the BofA deal. Got it.
+
+494
+00:26:02,080 --> 00:26:03,366
+(KEVIN SIGHS)
+
+495
+00:26:03,440 --> 00:26:05,010
+Well, I'm gonna call my mom
+and have her pick me up.
+
+496
+00:26:05,080 --> 00:26:06,570
+Your mom?
+
+497
+00:26:06,640 --> 00:26:08,927
+Oh, by the way, you owe me $20,000.
+
+498
+00:26:09,000 --> 00:26:11,765
+What a dick.
+
+499
+00:26:12,680 --> 00:26:14,648
+You have to talk to Jared about that.
+
+500
+00:26:17,880 --> 00:26:19,006
+Where is Jared?
+
+501
+00:26:19,720 --> 00:26:20,721
+(LOUD RUMBLING)
+
+502
+00:26:24,960 --> 00:26:26,849
+(GROANING)
+
+503
+00:26:31,040 --> 00:26:32,690
+(APPROACHING HUMMING SOUND)
+
+504
+00:26:35,640 --> 00:26:37,847
+Excuse me. Can you help me?
+
+505
+00:26:39,680 --> 00:26:41,728
+<i>COMPUTER: Obstacle averted.
+Resuming operations.</i>
+
+506
+00:26:42,480 --> 00:26:44,005
+<i>Please be careful.</i>
+
+507
+00:26:53,880 --> 00:26:56,963
+<i>- Please be careful.
+- (DISTANT) Please be careful.</i>
+
+508
+00:26:57,040 --> 00:26:58,371
+(WIND HOWLING)
+
+509
+00:27:11,280 --> 00:27:12,281
+Okay.
+
+510
+00:27:15,400 --> 00:27:17,084
+(JARED SINGING)
+
+511
+00:27:17,160 --> 00:27:18,525
+(VOICE TREMBLING)
+
+512
+00:27:19,360 --> 00:27:20,721
+- (SCREAMING)
+- (SHIP HORN BLARING)
+
