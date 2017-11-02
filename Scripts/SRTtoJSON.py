@@ -32,6 +32,9 @@ def lineRead (line):
         EndTime = lineArr[2]
     elif(patternText.match(line) != None):
         text = text + line
+        text = text.replace("\n","")
+        text = text.replace("<i>","")
+        text = text.replace("</i>","")
     #if(num !=  0 and StartTime != "" and EndTime != "" and text != "" and text != "\n"):
     if(line == "\n"):
         #print("else")
