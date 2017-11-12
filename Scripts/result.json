@@ -1,8 +1,3116 @@
 [
-  {
-    "StartTime": "00:00:00,000",
-    "line": "HELLO WORLD!\n\n",
-    "number": "1\n",
-    "EndTime": "00:00:10,000"
-  }
+    {
+        "start": "00:00:06,480", 
+        "num": 1, 
+        "end": "00:00:07,481", 
+        "text": "(INDISTINCT YELLING)"
+    }, 
+    {
+        "start": "00:00:07,600", 
+        "num": 2, 
+        "end": "00:00:10,331", 
+        "text": "DAN: <i>I'll rip your dick<br />off, you son of</i> a <i>bitch!</i>"
+    }, 
+    {
+        "start": "00:00:10,440", 
+        "num": 3, 
+        "end": "00:00:11,726", 
+        "text": "<i>My eye!</i>"
+    }, 
+    {
+        "start": "00:00:12,440", 
+        "num": 4, 
+        "end": "00:00:14,647", 
+        "text": "On behalf of the entire Disrupt conference,"
+    }, 
+    {
+        "start": "00:00:14,720", 
+        "num": 5, 
+        "end": "00:00:19,442", 
+        "text": "I would like to apologize<br />for what happened out there this afternoon."
+    }, 
+    {
+        "start": "00:00:19,560", 
+        "num": 6, 
+        "end": "00:00:22,530", 
+        "text": "This man will never be<br />asked to judge again."
+    }, 
+    {
+        "start": "00:00:22,720", 
+        "num": 7, 
+        "end": "00:00:25,929", 
+        "text": "I've just learned he's been, uh,<br />fired from Oracle,"
+    }, 
+    {
+        "start": "00:00:26,000", 
+        "num": 8, 
+        "end": "00:00:27,525", 
+        "text": "and apparently his wife left him."
+    }, 
+    {
+        "start": "00:00:27,880", 
+        "num": 9, 
+        "end": "00:00:32,363", 
+        "text": "Anyway, I just got a call from<br />your attorney, Mr. LaFlamme,"
+    }, 
+    {
+        "start": "00:00:32,440", 
+        "num": 10, 
+        "end": "00:00:37,731", 
+        "text": "informing me that in his view, this<br />incident is actionable. (CLEARS THROAT)"
+    }, 
+    {
+        "start": "00:00:37,960", 
+        "num": 11, 
+        "end": "00:00:41,965", 
+        "text": "Uh, and in addition to<br />holding TechCrunch liable for any damages,"
+    }, 
+    {
+        "start": "00:00:42,040", 
+        "num": 12, 
+        "end": "00:00:44,008", 
+        "text": "which may include the loss to Pied Piper"
+    }, 
+    {
+        "start": "00:00:44,080", 
+        "num": 13, 
+        "end": "00:00:47,721", 
+        "text": "of potentially billions<br />in revenue and share value, uh,"
+    }, 
+    {
+        "start": "00:00:47,800", 
+        "num": 14, 
+        "end": "00:00:52,442", 
+        "text": "he may be naming me<br />personally in a lawsuit."
+    }, 
+    {
+        "start": "00:00:52,800", 
+        "num": 15, 
+        "end": "00:00:57,727", 
+        "text": "So, I would like to propose that we,<br />uh, put this incident behind us,"
+    }, 
+    {
+        "start": "00:00:57,800", 
+        "num": 16, 
+        "end": "00:01:03,125", 
+        "text": "legally speaking, uh, by sending Pied Piper<br />directly through to the finals"
+    }, 
+    {
+        "start": "00:01:03,200", 
+        "num": 17, 
+        "end": "00:01:07,603", 
+        "text": "of Startup Battlefield,<br />where you will compete for the grand prize."
+    }, 
+    {
+        "start": "00:01:08,280", 
+        "num": 18, 
+        "end": "00:01:10,248", 
+        "text": "- How does that sound?<br />- I think that's..."
+    }, 
+    {
+        "start": "00:01:10,320", 
+        "num": 19, 
+        "end": "00:01:15,008", 
+        "text": "One question, uh,<br />regarding our hotel accommodations?"
+    }, 
+    {
+        "start": "00:01:21,680", 
+        "num": 20, 
+        "end": "00:01:24,251", 
+        "text": "Barn! Am I right, guys?"
+    }, 
+    {
+        "start": "00:01:24,840", 
+        "num": 21, 
+        "end": "00:01:25,966", 
+        "text": "(CHUCKLES)"
+    }, 
+    {
+        "start": "00:01:26,040", 
+        "num": 22, 
+        "end": "00:01:28,805", 
+        "text": "I was just happy<br />you got punched in the face, Erlich,"
+    }, 
+    {
+        "start": "00:01:28,880", 
+        "num": 23, 
+        "end": "00:01:32,566", 
+        "text": "but now I'm super happy.<br />I feel like I won twice."
+    }, 
+    {
+        "start": "00:01:32,760", 
+        "num": 24, 
+        "end": "00:01:34,842", 
+        "text": "I'm gonna disrupt this bathroom."
+    }, 
+    {
+        "start": "00:01:37,080", 
+        "num": 25, 
+        "end": "00:01:40,289", 
+        "text": "I don't think this couch pulls out.<br />I guess I'll get myself a roll-away bed."
+    }, 
+    {
+        "start": "00:01:40,600", 
+        "num": 26, 
+        "end": "00:01:44,321", 
+        "text": "I mean, you're welcome, guys.<br />I had to fuck a wife and take a punch,"
+    }, 
+    {
+        "start": "00:01:44,400", 
+        "num": 27, 
+        "end": "00:01:46,721", 
+        "text": "but now we get to go<br />into the finals tomorrow"
+    }, 
+    {
+        "start": "00:01:46,800", 
+        "num": 28, 
+        "end": "00:01:48,848", 
+        "text": "without having blown our<br />wad in the prelims."
+    }, 
+    {
+        "start": "00:01:49,520", 
+        "num": 29, 
+        "end": "00:01:51,966", 
+        "text": "We're trending up, boys.<br />We are trending up."
+    }, 
+    {
+        "start": "00:01:52,040", 
+        "num": 30, 
+        "end": "00:01:54,247", 
+        "text": "Maybe you're right.<br />But, uh, we should probably"
+    }, 
+    {
+        "start": "00:01:54,320", 
+        "num": 31, 
+        "end": "00:01:56,721", 
+        "text": "get back down there<br />and check out the competition."
+    }, 
+    {
+        "start": "00:01:57,160", 
+        "num": 32, 
+        "end": "00:02:00,209", 
+        "text": "- MAN: <i>Ladies and gentlemen, Gavin Belson.<br />- (APPLAUSE)</i>"
+    }, 
+    {
+        "start": "00:02:03,200", 
+        "num": 33, 
+        "end": "00:02:06,727", 
+        "text": "<i>No matter what you may have heard,<br />size matters.</i>"
+    }, 
+    {
+        "start": "00:02:07,320", 
+        "num": 34, 
+        "end": "00:02:11,041", 
+        "text": "<i>Welcome, everyone,<br />to a journey into the Nucleus.</i>"
+    }, 
+    {
+        "start": "00:02:11,120", 
+        "num": 35, 
+        "end": "00:02:12,360", 
+        "text": "I hope this sucks."
+    }, 
+    {
+        "start": "00:02:12,440", 
+        "num": 36, 
+        "end": "00:02:15,046", 
+        "text": "<i>Nucleus will provide the<br />most diverse features</i>"
+    }, 
+    {
+        "start": "00:02:15,120", 
+        "num": 37, 
+        "end": "00:02:17,726", 
+        "text": "<i>ever assembled in<br />a cloud-based compression suite.</i>"
+    }, 
+    {
+        "start": "00:02:17,960", 
+        "num": 38, 
+        "end": "00:02:21,043", 
+        "text": "<i>Massive functionality, inter-connectivity,</i>"
+    }, 
+    {
+        "start": "00:02:21,160", 
+        "num": 39, 
+        "end": "00:02:24,403", 
+        "text": "<i>and the simplicity one has come<br />to expect from the Hooli family.</i>"
+    }, 
+    {
+        "start": "00:02:24,480", 
+        "num": 40, 
+        "end": "00:02:28,883", 
+        "text": "<i>We're making all your files available<br />for lightning-fast download.</i>"
+    }, 
+    {
+        "start": "00:02:29,160", 
+        "num": 41, 
+        "end": "00:02:30,969", 
+        "text": "<i>Accessible from any device.</i>"
+    }, 
+    {
+        "start": "00:02:31,240", 
+        "num": 42, 
+        "end": "00:02:35,484", 
+        "text": "<i>AH these features will be<br />seamlessly synced to Hooli-mail,</i>"
+    }, 
+    {
+        "start": "00:02:35,560", 
+        "num": 43, 
+        "end": "00:02:39,770", 
+        "text": "<i>Hooli-search and the full suite<br />of Hooli computing power.</i>"
+    }, 
+    {
+        "start": "00:02:39,840", 
+        "num": 44, 
+        "end": "00:02:41,649", 
+        "text": "That's a lot of functionality."
+    }, 
+    {
+        "start": "00:02:41,720", 
+        "num": 45, 
+        "end": "00:02:44,401", 
+        "text": "(WHISPERING) Don't worry,<br />he can't come close to our Weissman score."
+    }, 
+    {
+        "start": "00:02:44,640", 
+        "num": 46, 
+        "end": "00:02:48,167", 
+        "text": "Even with all this extra shit,<br />it's like a fancy car with a crappy engine."
+    }, 
+    {
+        "start": "00:02:48,240", 
+        "num": 47, 
+        "end": "00:02:50,527", 
+        "text": "<i>And now, for the moment of truth.</i>"
+    }, 
+    {
+        "start": "00:02:50,920", 
+        "num": 48, 
+        "end": "00:02:56,927", 
+        "text": "<i>As you will now see, our Weissman score<br />is the best in the history of compression.</i>"
+    }, 
+    {
+        "start": "00:02:57,920", 
+        "num": 49, 
+        "end": "00:02:58,921", 
+        "text": "(CROWD GASPING)"
+    }, 
+    {
+        "start": "00:02:59,440", 
+        "num": 50, 
+        "end": "00:03:00,487", 
+        "text": "What the fuck?"
+    }, 
+    {
+        "start": "00:03:00,560", 
+        "num": 51, 
+        "end": "00:03:02,528", 
+        "text": "That's exactly the same score as us."
+    }, 
+    {
+        "start": "00:03:02,760", 
+        "num": 52, 
+        "end": "00:03:06,446", 
+        "text": "<i>2.89. That is not an error.</i>"
+    }, 
+    {
+        "start": "00:03:07,080", 
+        "num": 53, 
+        "end": "00:03:12,086", 
+        "text": "<i>We are breathing rare air here, operating<br />at the limit for lossless compression</i>"
+    }, 
+    {
+        "start": "00:03:12,560", 
+        "num": 54, 
+        "end": "00:03:14,961", 
+        "text": "<i>in audio, video and</i> data."
+    }, 
+    {
+        "start": "00:03:15,440", 
+        "num": 55, 
+        "end": "00:03:20,048", 
+        "text": "<i>Anyone who tells you that their platform is<br />faster than ours better have good lawyers.</i>"
+    }, 
+    {
+        "start": "00:03:21,080", 
+        "num": 56, 
+        "end": "00:03:23,401", 
+        "text": "<i>I hope you've enjoyed your journey<br />into the Nucleus.</i>"
+    }, 
+    {
+        "start": "00:03:23,720", 
+        "num": 57, 
+        "end": "00:03:28,442", 
+        "text": "<i>We have the speed. We have the features.<br />And we have...</i>"
+    }, 
+    {
+        "start": "00:03:28,560", 
+        "num": 58, 
+        "end": "00:03:29,561", 
+        "text": "Shakira!"
+    }, 
+    {
+        "start": "00:03:29,640", 
+        "num": 59, 
+        "end": "00:03:31,324", 
+        "text": "- (HIPS DON'T LIE PLAYING)<br />- (APPLAUSE)"
+    }, 
+    {
+        "start": "00:03:31,440", 
+        "num": 60, 
+        "end": "00:03:33,010", 
+        "text": "(CHEERING)"
+    }, 
+    {
+        "start": "00:03:33,920", 
+        "num": 61, 
+        "end": "00:03:35,365", 
+        "text": "SHAKIRA: Hola, TechCrunch!"
+    }, 
+    {
+        "start": "00:03:48,240", 
+        "num": 62, 
+        "end": "00:03:50,561", 
+        "text": "I mean, they just completely"
+    }, 
+    {
+        "start": "00:03:50,640", 
+        "num": 63, 
+        "end": "00:03:53,484", 
+        "text": "reverse-engineered<br />our entire compression engine."
+    }, 
+    {
+        "start": "00:03:53,560", 
+        "num": 64, 
+        "end": "00:03:55,130", 
+        "text": "He totally sniped us."
+    }, 
+    {
+        "start": "00:03:55,360", 
+        "num": 65, 
+        "end": "00:03:57,010", 
+        "text": "- We'll be fine.<br />- What?"
+    }, 
+    {
+        "start": "00:03:57,560", 
+        "num": 66, 
+        "end": "00:04:00,643", 
+        "text": "They judge this contest<br />on viability in the marketplace."
+    }, 
+    {
+        "start": "00:04:01,080", 
+        "num": 67, 
+        "end": "00:04:04,402", 
+        "text": "I mean, at best,<br />we're a worse version of Nucleus."
+    }, 
+    {
+        "start": "00:04:04,680", 
+        "num": 68, 
+        "end": "00:04:07,047", 
+        "text": "I mean, they have 50 modules,<br />and they're all awesome."
+    }, 
+    {
+        "start": "00:04:07,120", 
+        "num": 69, 
+        "end": "00:04:08,770", 
+        "text": "We have five that barely work."
+    }, 
+    {
+        "start": "00:04:08,840", 
+        "num": 70, 
+        "end": "00:04:12,765", 
+        "text": "I mean, we're still having trouble compressing 3-D files.<br />Who's lining up to buy that?"
+    }, 
+    {
+        "start": "00:04:12,840", 
+        "num": 71, 
+        "end": "00:04:14,251", 
+        "text": "Who the fuck cares?"
+    }, 
+    {
+        "start": "00:04:14,320", 
+        "num": 72, 
+        "end": "00:04:18,644", 
+        "text": "So the platform can't handle 3-D files.<br />You know what, 3-D movies suck anyway."
+    }, 
+    {
+        "start": "00:04:18,840", 
+        "num": 73, 
+        "end": "00:04:21,650", 
+        "text": "I could actually argue this Gavin nonsense<br />is a positive."
+    }, 
+    {
+        "start": "00:04:21,720", 
+        "num": 74, 
+        "end": "00:04:22,721", 
+        "text": "Please don't."
+    }, 
+    {
+        "start": "00:04:22,800", 
+        "num": 75, 
+        "end": "00:04:25,007", 
+        "text": "We just need to really dial it up<br />for the big show tomorrow."
+    }, 
+    {
+        "start": "00:04:25,080", 
+        "num": 76, 
+        "end": "00:04:26,684", 
+        "text": "Dial what up? He just ruined us."
+    }, 
+    {
+        "start": "00:04:26,760", 
+        "num": 77, 
+        "end": "00:04:30,128", 
+        "text": "And until then, we need to do what any<br />animal in nature does when it's cornered,"
+    }, 
+    {
+        "start": "00:04:30,200", 
+        "num": 78, 
+        "end": "00:04:33,568", 
+        "text": "act erratically, and blindly lash<br />out at everything around us."
+    }, 
+    {
+        "start": "00:04:33,640", 
+        "num": 79, 
+        "end": "00:04:35,210", 
+        "text": "I'm gonna go get in Gavin's head."
+    }, 
+    {
+        "start": "00:04:35,480", 
+        "num": 80, 
+        "end": "00:04:39,451", 
+        "text": "Hey, guys, I just had a thought.<br />Okay, so this is it, right?"
+    }, 
+    {
+        "start": "00:04:39,520", 
+        "num": 81, 
+        "end": "00:04:42,808", 
+        "text": "A lot of successful start-ups launched<br />with a different business model,"
+    }, 
+    {
+        "start": "00:04:42,880", 
+        "num": 82, 
+        "end": "00:04:45,804", 
+        "text": "and when they ran into trouble,<br />they pivoted to something new, right?"
+    }, 
+    {
+        "start": "00:04:45,880", 
+        "num": 83, 
+        "end": "00:04:49,771", 
+        "text": "Like lnstagram. That was a location-based<br />check-in service when it started,"
+    }, 
+    {
+        "start": "00:04:49,840", 
+        "num": 84, 
+        "end": "00:04:50,887", 
+        "text": "and then they pivoted."
+    }, 
+    {
+        "start": "00:04:51,040", 
+        "num": 85, 
+        "end": "00:04:53,520", 
+        "text": "Or Chatroulette, okay,<br />that was social media,"
+    }, 
+    {
+        "start": "00:04:53,600", 
+        "num": 86, 
+        "end": "00:04:57,685", 
+        "text": "and then they pivoted to become<br />a playground for the sexually monstrous."
+    }, 
+    {
+        "start": "00:04:58,120", 
+        "num": 87, 
+        "end": "00:05:01,488", 
+        "text": "We just need a new idea, something that<br />people want. Right? We can pivot, too."
+    }, 
+    {
+        "start": "00:05:01,880", 
+        "num": 88, 
+        "end": "00:05:05,601", 
+        "text": "- Dude, you are fucked up right now.<br />- Yeah, you're pinning bad."
+    }, 
+    {
+        "start": "00:05:05,680", 
+        "num": 89, 
+        "end": "00:05:07,330", 
+        "text": "Well, I'll admit, I'm sleep-challenged."
+    }, 
+    {
+        "start": "00:05:07,400", 
+        "num": 90, 
+        "end": "00:05:10,483", 
+        "text": "I just spent four days<br />trapped in a steel box out on an oil rig"
+    }, 
+    {
+        "start": "00:05:10,560", 
+        "num": 91, 
+        "end": "00:05:12,050", 
+        "text": "full of robot-forklifts."
+    }, 
+    {
+        "start": "00:05:12,120", 
+        "num": 92, 
+        "end": "00:05:14,441", 
+        "text": "So, that was hard, but I'm back."
+    }, 
+    {
+        "start": "00:05:14,520", 
+        "num": 93, 
+        "end": "00:05:18,809", 
+        "text": "I am recovering and I am focused and we're<br />gonna pivot. Don't lose faith, guys."
+    }, 
+    {
+        "start": "00:05:18,960", 
+        "num": 94, 
+        "end": "00:05:21,167", 
+        "text": "All right, look at me. Look at me.<br />Look at me."
+    }, 
+    {
+        "start": "00:05:22,240", 
+        "num": 95, 
+        "end": "00:05:24,720", 
+        "text": "We've got a great name.<br />We've got a great team."
+    }, 
+    {
+        "start": "00:05:24,800", 
+        "num": 96, 
+        "end": "00:05:27,246", 
+        "text": "We've got a great logo,<br />and we've got a great name."
+    }, 
+    {
+        "start": "00:05:27,400", 
+        "num": 97, 
+        "end": "00:05:28,925", 
+        "text": "Now we just need an idea."
+    }, 
+    {
+        "start": "00:05:29,080", 
+        "num": 98, 
+        "end": "00:05:31,560", 
+        "text": "Let's pivot! Let's pivot!"
+    }, 
+    {
+        "start": "00:05:34,600", 
+        "num": 99, 
+        "end": "00:05:36,602", 
+        "text": "That might be the last<br />time we see him alive."
+    }, 
+    {
+        "start": "00:05:36,680", 
+        "num": 100, 
+        "end": "00:05:39,843", 
+        "text": "Ah, I think I'm just gonna take a walk<br />and, you know, try and clear my head."
+    }, 
+    {
+        "start": "00:05:39,920", 
+        "num": 101, 
+        "end": "00:05:44,767", 
+        "text": "I'll see you guys back at the hotel room<br />and we'll figure out what to do."
+    }, 
+    {
+        "start": "00:05:46,920", 
+        "num": 102, 
+        "end": "00:05:48,445", 
+        "text": "We're going to be poor."
+    }, 
+    {
+        "start": "00:05:49,760", 
+        "num": 103, 
+        "end": "00:05:53,810", 
+        "text": "Hi! I'd like to talk to you<br />about a company called Pied Piper."
+    }, 
+    {
+        "start": "00:05:53,880", 
+        "num": 104, 
+        "end": "00:05:55,450", 
+        "text": "What does it do? Good question."
+    }, 
+    {
+        "start": "00:05:55,600", 
+        "num": 105, 
+        "end": "00:05:57,170", 
+        "text": "Maybe you can help us find an answer."
+    }, 
+    {
+        "start": "00:05:57,560", 
+        "num": 106, 
+        "end": "00:06:01,406", 
+        "text": "What if Pied Piper was an app<br />that could attract rodents?"
+    }, 
+    {
+        "start": "00:06:01,480", 
+        "num": 107, 
+        "end": "00:06:02,925", 
+        "text": "You know, like the fairy tale?"
+    }, 
+    {
+        "start": "00:06:03,000", 
+        "num": 108, 
+        "end": "00:06:06,368", 
+        "text": "For purposes of extermination<br />or to feed your pet snake."
+    }, 
+    {
+        "start": "00:06:06,440", 
+        "num": 109, 
+        "end": "00:06:09,284", 
+        "text": "We're not here to tell you<br />what to do with your rats,"
+    }, 
+    {
+        "start": "00:06:09,360", 
+        "num": 110, 
+        "end": "00:06:11,522", 
+        "text": "we're here to get you rats, stat."
+    }, 
+    {
+        "start": "00:06:11,640", 
+        "num": 111, 
+        "end": "00:06:14,928", 
+        "text": "Would you be very interested,<br />somewhat interested or not interested?"
+    }, 
+    {
+        "start": "00:06:15,000", 
+        "num": 112, 
+        "end": "00:06:18,721", 
+        "text": "Which one? Which one? Which one?"
+    }, 
+    {
+        "start": "00:06:21,680", 
+        "num": 113, 
+        "end": "00:06:25,765", 
+        "text": "Look at them, all full of hope. Pricks."
+    }, 
+    {
+        "start": "00:06:26,000", 
+        "num": 114, 
+        "end": "00:06:28,321", 
+        "text": "GILFOYLE: Oh, look,<br />Kwerpy's here recruiting."
+    }, 
+    {
+        "start": "00:06:28,560", 
+        "num": 115, 
+        "end": "00:06:33,248", 
+        "text": "They just got 20 million in Series A<br />at a $280 million dollar valuation."
+    }, 
+    {
+        "start": "00:06:33,320", 
+        "num": 116, 
+        "end": "00:06:35,721", 
+        "text": "- Wow.<br />- That could have been us."
+    }, 
+    {
+        "start": "00:06:37,160", 
+        "num": 117, 
+        "end": "00:06:40,482", 
+        "text": "It's too bad we already have jobs,<br />we could easily go work there."
+    }, 
+    {
+        "start": "00:06:40,800", 
+        "num": 118, 
+        "end": "00:06:42,165", 
+        "text": "Yeah."
+    }, 
+    {
+        "start": "00:06:43,000", 
+        "num": 119, 
+        "end": "00:06:46,800", 
+        "text": "It'd be a real dickhead move<br />to bail on Richard now, right?"
+    }, 
+    {
+        "start": "00:06:46,880", 
+        "num": 120, 
+        "end": "00:06:49,850", 
+        "text": "I mean, before we officially go under."
+    }, 
+    {
+        "start": "00:06:50,280", 
+        "num": 121, 
+        "end": "00:06:53,489", 
+        "text": "- Yeah. Yeah. Total dickhead move.<br />- Yeah. Yeah."
+    }, 
+    {
+        "start": "00:06:55,800", 
+        "num": 122, 
+        "end": "00:06:58,690", 
+        "text": "Yeah, even though it is<br />just a matter of days."
+    }, 
+    {
+        "start": "00:06:58,760", 
+        "num": 123, 
+        "end": "00:07:02,685", 
+        "text": "- And we are so close.<br />- DINESH: I mean, he is standing right there."
+    }, 
+    {
+        "start": "00:07:03,440", 
+        "num": 124, 
+        "end": "00:07:05,329", 
+        "text": "- But I'm not a dickhead.<br />- No. Neither am I."
+    }, 
+    {
+        "start": "00:07:05,400", 
+        "num": 125, 
+        "end": "00:07:06,840", 
+        "text": "Yep, just a couple of non-dickheads."
+    }, 
+    {
+        "start": "00:07:06,880", 
+        "num": 126, 
+        "end": "00:07:08,086", 
+        "text": "My dick and my head, totally separate."
+    }, 
+    {
+        "start": "00:07:08,160", 
+        "num": 127, 
+        "end": "00:07:10,925", 
+        "text": "You've heard the phrase,<br />\"Time to pay the piper,\" right?"
+    }, 
+    {
+        "start": "00:07:11,680", 
+        "num": 128, 
+        "end": "00:07:15,287", 
+        "text": "What if there was an app<br />called Pied Piper that could tell you,"
+    }, 
+    {
+        "start": "00:07:15,360", 
+        "num": 129, 
+        "end": "00:07:19,160", 
+        "text": "to a statistical degree of certainty,<br />whether you were going to heaven or hell?"
+    }, 
+    {
+        "start": "00:07:19,760", 
+        "num": 130, 
+        "end": "00:07:22,604", 
+        "text": "Very interested, somewhat interested,<br />not interested?"
+    }, 
+    {
+        "start": "00:07:23,280", 
+        "num": 131, 
+        "end": "00:07:26,045", 
+        "text": "Which one? Which one? Which one?"
+    }, 
+    {
+        "start": "00:07:27,120", 
+        "num": 132, 
+        "end": "00:07:29,646", 
+        "text": "So you made some really<br />over-the-top promises about Nucleus."
+    }, 
+    {
+        "start": "00:07:29,760", 
+        "num": 133, 
+        "end": "00:07:31,569", 
+        "text": "- Can you deliver?<br />- Absolutely."
+    }, 
+    {
+        "start": "00:07:32,040", 
+        "num": 134, 
+        "end": "00:07:36,170", 
+        "text": "For me, Kara, goodness, greatness,<br />these are not simply catchphrases,"
+    }, 
+    {
+        "start": "00:07:36,240", 
+        "num": 135, 
+        "end": "00:07:38,527", 
+        "text": "but, in fact, really the intention of Hooli<br />from the beginning."
+    }, 
+    {
+        "start": "00:07:38,600", 
+        "num": 136, 
+        "end": "00:07:41,888", 
+        "text": "Gavin, you do not need<br />to dignify any of this with a response!"
+    }, 
+    {
+        "start": "00:07:41,960", 
+        "num": 137, 
+        "end": "00:07:45,009", 
+        "text": "I can speak for myself.<br />Erlich Bachman, Pied Piper."
+    }, 
+    {
+        "start": "00:07:45,080", 
+        "num": 138, 
+        "end": "00:07:47,208", 
+        "text": "Was I brutally assaulted? Yes."
+    }, 
+    {
+        "start": "00:07:47,520", 
+        "num": 139, 
+        "end": "00:07:50,364", 
+        "text": "Did Gavin Belson here have<br />anything to do with it? Unclear."
+    }, 
+    {
+        "start": "00:07:50,440", 
+        "num": 140, 
+        "end": "00:07:55,367", 
+        "text": "All I know is that the rumor that<br />TechCrunch is all abuzz about is unproven."
+    }, 
+    {
+        "start": "00:07:55,720", 
+        "num": 141, 
+        "end": "00:07:57,210", 
+        "text": "- Wait, what rumor?<br />- Thank you."
+    }, 
+    {
+        "start": "00:07:57,280", 
+        "num": 142, 
+        "end": "00:07:59,601", 
+        "text": "Why would Gavin<br />have anything to do with this?"
+    }, 
+    {
+        "start": "00:07:59,680", 
+        "num": 143, 
+        "end": "00:08:04,811", 
+        "text": "Unless he had some reason to be frightened<br />by Pied Piper and its superior technology?"
+    }, 
+    {
+        "start": "00:08:05,040", 
+        "num": 144, 
+        "end": "00:08:09,364", 
+        "text": "This and all other Gavin Belson rumors<br />are unsubstantiated."
+    }, 
+    {
+        "start": "00:08:09,440", 
+        "num": 145, 
+        "end": "00:08:12,842", 
+        "text": "Okay, the alcoholism,<br />the sexual impropriety at work,"
+    }, 
+    {
+        "start": "00:08:13,160", 
+        "num": 146, 
+        "end": "00:08:15,891", 
+        "text": "the impending crash of Hooli's stock..."
+    }, 
+    {
+        "start": "00:08:16,000", 
+        "num": 147, 
+        "end": "00:08:17,604", 
+        "text": "(CHUCKLES AWKWARDLY)<br />This is the most ridiculous..."
+    }, 
+    {
+        "start": "00:08:17,680", 
+        "num": 148, 
+        "end": "00:08:20,604", 
+        "text": "Exactly. So why repeat<br />the lascivious details,"
+    }, 
+    {
+        "start": "00:08:20,720", 
+        "num": 149, 
+        "end": "00:08:23,485", 
+        "text": "with which all of us<br />are undoubtedly already familiar?"
+    }, 
+    {
+        "start": "00:08:23,560", 
+        "num": 150, 
+        "end": "00:08:26,325", 
+        "text": "Guilty or not, Gavin, I stand with you."
+    }, 
+    {
+        "start": "00:08:27,040", 
+        "num": 151, 
+        "end": "00:08:28,041", 
+        "text": "Care to comment?"
+    }, 
+    {
+        "start": "00:08:32,080", 
+        "num": 152, 
+        "end": "00:08:33,320", 
+        "text": "Let's keep moving, shall we?"
+    }, 
+    {
+        "start": "00:08:33,400", 
+        "num": 153, 
+        "end": "00:08:36,085", 
+        "text": "Yes, let's all keep moving.<br />Let's move on from this."
+    }, 
+    {
+        "start": "00:08:36,200", 
+        "num": 154, 
+        "end": "00:08:40,046", 
+        "text": "I forgive you, Gavin.<br />No matter how brutally I was assaulted."
+    }, 
+    {
+        "start": "00:08:40,680", 
+        "num": 155, 
+        "end": "00:08:43,286", 
+        "text": "Wow, Pied Piper sounds like<br />a great place to work."
+    }, 
+    {
+        "start": "00:08:43,360", 
+        "num": 156, 
+        "end": "00:08:44,441", 
+        "text": "Oh, yeah, it is."
+    }, 
+    {
+        "start": "00:08:44,600", 
+        "num": 157, 
+        "end": "00:08:46,762", 
+        "text": "Pied Piper is the best, right?"
+    }, 
+    {
+        "start": "00:08:46,880", 
+        "num": 158, 
+        "end": "00:08:49,770", 
+        "text": "Oh, my God, every day feels like<br />I've died and gone to hell."
+    }, 
+    {
+        "start": "00:08:50,160", 
+        "num": 159, 
+        "end": "00:08:51,161", 
+        "text": "I'm sorry."
+    }, 
+    {
+        "start": "00:08:51,240", 
+        "num": 160, 
+        "end": "00:08:53,083", 
+        "text": "- He's a Satanist, so it's good.<br />- Mmm-hmm."
+    }, 
+    {
+        "start": "00:08:53,240", 
+        "num": 161, 
+        "end": "00:08:56,050", 
+        "text": "- Oh, fun.<br />- The point is, we love our company,"
+    }, 
+    {
+        "start": "00:08:56,120", 
+        "num": 162, 
+        "end": "00:08:57,724", 
+        "text": "and I don't have a problem<br />saying that out loud."
+    }, 
+    {
+        "start": "00:08:57,800", 
+        "num": 163, 
+        "end": "00:08:59,131", 
+        "text": "- You...<br />- Love it"
+    }, 
+    {
+        "start": "00:08:59,200", 
+        "num": 164, 
+        "end": "00:09:01,441", 
+        "text": "We both say it out loud<br />and I think that fact,"
+    }, 
+    {
+        "start": "00:09:01,560", 
+        "num": 165, 
+        "end": "00:09:03,801", 
+        "text": "proves that we're not dickheads."
+    }, 
+    {
+        "start": "00:09:05,800", 
+        "num": 166, 
+        "end": "00:09:07,962", 
+        "text": "So what we wanted to ask you was..."
+    }, 
+    {
+        "start": "00:09:08,040", 
+        "num": 167, 
+        "end": "00:09:09,121", 
+        "text": "Guys?"
+    }, 
+    {
+        "start": "00:09:10,480", 
+        "num": 168, 
+        "end": "00:09:13,563", 
+        "text": "Totally between us, our beta crapped out."
+    }, 
+    {
+        "start": "00:09:14,400", 
+        "num": 169, 
+        "end": "00:09:17,609", 
+        "text": "The VCs did a full claw back<br />and our Series A is DOA."
+    }, 
+    {
+        "start": "00:09:17,680", 
+        "num": 170, 
+        "end": "00:09:22,083", 
+        "text": "We're going down. We have enough runway<br />for maybe two, three weeks max."
+    }, 
+    {
+        "start": "00:09:22,640", 
+        "num": 171, 
+        "end": "00:09:23,801", 
+        "text": "So..."
+    }, 
+    {
+        "start": "00:09:25,360", 
+        "num": 172, 
+        "end": "00:09:26,930", 
+        "text": "Do you guys think you could hire me?"
+    }, 
+    {
+        "start": "00:09:32,800", 
+        "num": 173, 
+        "end": "00:09:37,044", 
+        "text": "How much would it be worth to you if I told<br />you I had a GPS app called Pied Piper,"
+    }, 
+    {
+        "start": "00:09:37,120", 
+        "num": 174, 
+        "end": "00:09:38,804", 
+        "text": "tracking the location of your child?"
+    }, 
+    {
+        "start": "00:09:39,040", 
+        "num": 175, 
+        "end": "00:09:40,610", 
+        "text": "I can follow your child anywhere,"
+    }, 
+    {
+        "start": "00:09:40,680", 
+        "num": 176, 
+        "end": "00:09:42,728", 
+        "text": "and there is nothing you can do to stop me."
+    }, 
+    {
+        "start": "00:09:43,160", 
+        "num": 177, 
+        "end": "00:09:45,527", 
+        "text": "Most missing children are never found."
+    }, 
+    {
+        "start": "00:09:45,920", 
+        "num": 178, 
+        "end": "00:09:48,161", 
+        "text": "Interested, very interested,<br />or very interested?"
+    }, 
+    {
+        "start": "00:09:48,240", 
+        "num": 179, 
+        "end": "00:09:49,651", 
+        "text": "(ELEVATOR BELL DINGS)"
+    }, 
+    {
+        "start": "00:09:52,520", 
+        "num": 180, 
+        "end": "00:09:54,443", 
+        "text": "Richard. Hi..."
+    }, 
+    {
+        "start": "00:09:54,520", 
+        "num": 181, 
+        "end": "00:09:57,251", 
+        "text": "- Hey... Uh, suitcase. Yeah.<br />- Yeah."
+    }, 
+    {
+        "start": "00:09:57,320", 
+        "num": 182, 
+        "end": "00:09:59,084", 
+        "text": "(CLEARS THROAT) So you're, uh..."
+    }, 
+    {
+        "start": "00:09:59,480", 
+        "num": 183, 
+        "end": "00:10:00,720", 
+        "text": "Peter called."
+    }, 
+    {
+        "start": "00:10:00,800", 
+        "num": 184, 
+        "end": "00:10:04,441", 
+        "text": "- He saw Erlich's presentation, such as it was.<br />- Ah."
+    }, 
+    {
+        "start": "00:10:04,520", 
+        "num": 185, 
+        "end": "00:10:05,851", 
+        "text": "And Gavin's."
+    }, 
+    {
+        "start": "00:10:06,000", 
+        "num": 186, 
+        "end": "00:10:07,001", 
+        "text": "(INHALES SHARPLY)"
+    }, 
+    {
+        "start": "00:10:07,080", 
+        "num": 187, 
+        "end": "00:10:08,969", 
+        "text": "So he wants me to go back to Palo Alto."
+    }, 
+    {
+        "start": "00:10:09,320", 
+        "num": 188, 
+        "end": "00:10:12,051", 
+        "text": "There's just a few other things<br />that he wants me working on."
+    }, 
+    {
+        "start": "00:10:12,400", 
+        "num": 189, 
+        "end": "00:10:14,880", 
+        "text": "Now that we're, you know,<br />dead in the water."
+    }, 
+    {
+        "start": "00:10:15,200", 
+        "num": 190, 
+        "end": "00:10:18,602", 
+        "text": "Listen, I'm sorry you walked away<br />from the money like you did."
+    }, 
+    {
+        "start": "00:10:18,720", 
+        "num": 191, 
+        "end": "00:10:20,802", 
+        "text": "But I swear I only wanted Peter to seed you"
+    }, 
+    {
+        "start": "00:10:20,880", 
+        "num": 192, 
+        "end": "00:10:23,000", 
+        "text": "because I thought<br />that you had a really great company."
+    }, 
+    {
+        "start": "00:10:23,040", 
+        "num": 193, 
+        "end": "00:10:25,884", 
+        "text": "- Mmm.<br />- It just didn't work out for you this time."
+    }, 
+    {
+        "start": "00:10:25,960", 
+        "num": 194, 
+        "end": "00:10:27,530", 
+        "text": "Uh... (CLEARS THROAT)<br />Can I be honest with you?"
+    }, 
+    {
+        "start": "00:10:27,600", 
+        "num": 195, 
+        "end": "00:10:31,286", 
+        "text": "I haven't had more than<br />two straight hours of sleep in months."
+    }, 
+    {
+        "start": "00:10:31,400", 
+        "num": 196, 
+        "end": "00:10:33,562", 
+        "text": "I've had a cold for, like, a year.<br />(CHUCKLES AWKWARDLY)"
+    }, 
+    {
+        "start": "00:10:33,960", 
+        "num": 197, 
+        "end": "00:10:36,611", 
+        "text": "My stomach cramps up so much<br />I feel like I'm menstruating."
+    }, 
+    {
+        "start": "00:10:37,720", 
+        "num": 198, 
+        "end": "00:10:39,006", 
+        "text": "Maybe this is for the better."
+    }, 
+    {
+        "start": "00:10:40,720", 
+        "num": 199, 
+        "end": "00:10:43,007", 
+        "text": "Look, I gotta go. Um..."
+    }, 
+    {
+        "start": "00:10:43,360", 
+        "num": 200, 
+        "end": "00:10:45,806", 
+        "text": "I'm really sorry that we're not gonna<br />be working together anymore."
+    }, 
+    {
+        "start": "00:10:45,880", 
+        "num": 201, 
+        "end": "00:10:47,530", 
+        "text": "Yeah, me too. (SIGHS)"
+    }, 
+    {
+        "start": "00:10:48,440", 
+        "num": 202, 
+        "end": "00:10:51,489", 
+        "text": "I guess...<br />I guess we won't see each other again."
+    }, 
+    {
+        "start": "00:10:52,040", 
+        "num": 203, 
+        "end": "00:10:55,522", 
+        "text": "Well, I mean, now that the rules<br />about socializing with coworkers"
+    }, 
+    {
+        "start": "00:10:55,600", 
+        "num": 204, 
+        "end": "00:10:59,286", 
+        "text": "aren't in effect anymore, let me know<br />if you want to grab a drink sometime."
+    }, 
+    {
+        "start": "00:11:00,320", 
+        "num": 205, 
+        "end": "00:11:02,129", 
+        "text": "What, like a \"drink\"? A \"drink-drink\"?"
+    }, 
+    {
+        "start": "00:11:03,400", 
+        "num": 206, 
+        "end": "00:11:05,400", 
+        "text": "You go on dates with failures?<br />(CHUCKLES AWKWARDLY)"
+    }, 
+    {
+        "start": "00:11:06,400", 
+        "num": 207, 
+        "end": "00:11:08,687", 
+        "text": "- Constantly.<br />- Okay."
+    }, 
+    {
+        "start": "00:11:08,760", 
+        "num": 208, 
+        "end": "00:11:09,761", 
+        "text": "(CHUCKLES)"
+    }, 
+    {
+        "start": "00:11:09,920", 
+        "num": 209, 
+        "end": "00:11:10,921", 
+        "text": "Uh..."
+    }, 
+    {
+        "start": "00:11:11,000", 
+        "num": 210, 
+        "end": "00:11:13,367", 
+        "text": "- Bye. Okay.<br />- Bye. (CHUCKLES)"
+    }, 
+    {
+        "start": "00:11:16,160", 
+        "num": 211, 
+        "end": "00:11:18,970", 
+        "text": "You have any weapons or drugs<br />on your person at this time?"
+    }, 
+    {
+        "start": "00:11:19,760", 
+        "num": 212, 
+        "end": "00:11:22,047", 
+        "text": "- Why, yes. Yes, I do.<br />- Huh."
+    }, 
+    {
+        "start": "00:11:22,160", 
+        "num": 213, 
+        "end": "00:11:23,161", 
+        "text": "(CHUCKLES)"
+    }, 
+    {
+        "start": "00:11:23,760", 
+        "num": 214, 
+        "end": "00:11:24,761", 
+        "text": "Let's go."
+    }, 
+    {
+        "start": "00:11:26,480", 
+        "num": 215, 
+        "end": "00:11:29,643", 
+        "text": "Adderall. This is a highly controlled<br />substance. Are these yours?"
+    }, 
+    {
+        "start": "00:11:29,720", 
+        "num": 216, 
+        "end": "00:11:32,963", 
+        "text": "No! Those belong to an underage kid<br />that I brought to my house."
+    }, 
+    {
+        "start": "00:11:33,760", 
+        "num": 217, 
+        "end": "00:11:36,366", 
+        "text": "Yeah, sir, I'm going to have<br />to ask you to come with me."
+    }, 
+    {
+        "start": "00:11:36,440", 
+        "num": 218, 
+        "end": "00:11:39,364", 
+        "text": "That's a kind invitation,<br />but I have too much to do. I'm pivoting!"
+    }, 
+    {
+        "start": "00:11:39,480", 
+        "num": 219, 
+        "end": "00:11:41,608", 
+        "text": "- Let's go now!<br />- No. I'm pivoting! I'm pivoting!"
+    }, 
+    {
+        "start": "00:11:41,720", 
+        "num": 220, 
+        "end": "00:11:42,721", 
+        "text": "I'm pivoting!"
+    }, 
+    {
+        "start": "00:11:44,800", 
+        "num": 221, 
+        "end": "00:11:48,202", 
+        "text": "I mean, what do we even present tomorrow?"
+    }, 
+    {
+        "start": "00:11:48,280", 
+        "num": 222, 
+        "end": "00:11:49,691", 
+        "text": "Honestly, anyone?"
+    }, 
+    {
+        "start": "00:11:49,760", 
+        "num": 223, 
+        "end": "00:11:51,250", 
+        "text": "Why do we have to present at all?"
+    }, 
+    {
+        "start": "00:11:51,480", 
+        "num": 224, 
+        "end": "00:11:52,641", 
+        "text": "What's that supposed to mean?"
+    }, 
+    {
+        "start": "00:11:52,720", 
+        "num": 225, 
+        "end": "00:11:54,245", 
+        "text": "If we are going to fail and be humiliated,"
+    }, 
+    {
+        "start": "00:11:54,320", 
+        "num": 226, 
+        "end": "00:11:57,403", 
+        "text": "why do it on stage in front of 1,000 people<br />and a live-streamed audience?"
+    }, 
+    {
+        "start": "00:11:57,680", 
+        "num": 227, 
+        "end": "00:11:59,603", 
+        "text": "Are you saying we shouldn't even show up?"
+    }, 
+    {
+        "start": "00:11:59,720", 
+        "num": 228, 
+        "end": "00:12:03,088", 
+        "text": "No offense, but it's basically<br />going to be a public execution."
+    }, 
+    {
+        "start": "00:12:03,200", 
+        "num": 229, 
+        "end": "00:12:05,487", 
+        "text": "Yes, and public executions<br />are very popular."
+    }, 
+    {
+        "start": "00:12:05,720", 
+        "num": 230, 
+        "end": "00:12:08,291", 
+        "text": "It's show business.<br />We are not quitting, Richard."
+    }, 
+    {
+        "start": "00:12:08,480", 
+        "num": 231, 
+        "end": "00:12:11,723", 
+        "text": "Look, Erlich, I want to<br />present, I do, it's just..."
+    }, 
+    {
+        "start": "00:12:11,800", 
+        "num": 232, 
+        "end": "00:12:13,529", 
+        "text": "- (DOOR LOCK CLICKING)<br />- I don't know."
+    }, 
+    {
+        "start": "00:12:15,720", 
+        "num": 233, 
+        "end": "00:12:16,721", 
+        "text": "(DOOR OPENS)"
+    }, 
+    {
+        "start": "00:12:18,320", 
+        "num": 234, 
+        "end": "00:12:20,129", 
+        "text": "Jesus, are you okay?"
+    }, 
+    {
+        "start": "00:12:20,200", 
+        "num": 235, 
+        "end": "00:12:22,771", 
+        "text": "What? Yeah, I... Okay."
+    }, 
+    {
+        "start": "00:12:22,840", 
+        "num": 236, 
+        "end": "00:12:24,524", 
+        "text": "Yeah, all good. They let me go."
+    }, 
+    {
+        "start": "00:12:24,880", 
+        "num": 237, 
+        "end": "00:12:27,406", 
+        "text": "- GILFOYLE: Who let you go?<br />- When was the last time you slept, Jared?"
+    }, 
+    {
+        "start": "00:12:27,480", 
+        "num": 238, 
+        "end": "00:12:30,131", 
+        "text": "Yeah, absolutely, David."
+    }, 
+    {
+        "start": "00:12:30,200", 
+        "num": 239, 
+        "end": "00:12:31,840", 
+        "text": "What are we talking about, gents? (SIGHS)"
+    }, 
+    {
+        "start": "00:12:31,880", 
+        "num": 240, 
+        "end": "00:12:34,850", 
+        "text": "We're talking about<br />how I didn't get to present in the prelims,"
+    }, 
+    {
+        "start": "00:12:34,920", 
+        "num": 241, 
+        "end": "00:12:36,888", 
+        "text": "because I was too busy<br />getting my face pummeled"
+    }, 
+    {
+        "start": "00:12:36,960", 
+        "num": 242, 
+        "end": "00:12:38,450", 
+        "text": "so that our team could move forward."
+    }, 
+    {
+        "start": "00:12:38,520", 
+        "num": 243, 
+        "end": "00:12:40,124", 
+        "text": "That's why we're presenting tomorrow."
+    }, 
+    {
+        "start": "00:12:40,320", 
+        "num": 244, 
+        "end": "00:12:42,322", 
+        "text": "And you know what? We're going to win."
+    }, 
+    {
+        "start": "00:12:42,400", 
+        "num": 245, 
+        "end": "00:12:46,485", 
+        "text": "Yeah, we're gonna win even if I have to go<br />into the auditorium and personally jerk off"
+    }, 
+    {
+        "start": "00:12:46,560", 
+        "num": 246, 
+        "end": "00:12:47,846", 
+        "text": "every guy in the audience."
+    }, 
+    {
+        "start": "00:12:48,360", 
+        "num": 247, 
+        "end": "00:12:49,930", 
+        "text": "That's a lot of jerking."
+    }, 
+    {
+        "start": "00:12:50,840", 
+        "num": 248, 
+        "end": "00:12:53,605", 
+        "text": "And we only have 10<br />minutes to present. So..."
+    }, 
+    {
+        "start": "00:12:54,040", 
+        "num": 249, 
+        "end": "00:12:56,441", 
+        "text": "So, we're fucked, aren't we?"
+    }, 
+    {
+        "start": "00:12:58,480", 
+        "num": 250, 
+        "end": "00:13:02,804", 
+        "text": "Yeah, even if he's jerking two at a time,<br />there are, what, 800 guys in that room?"
+    }, 
+    {
+        "start": "00:13:02,880", 
+        "num": 251, 
+        "end": "00:13:05,929", 
+        "text": "So that's 400 times<br />whatever the mean jerk-time is."
+    }, 
+    {
+        "start": "00:13:06,040", 
+        "num": 252, 
+        "end": "00:13:07,929", 
+        "text": "- The what?<br />- DINESH: Mean jerk-time."
+    }, 
+    {
+        "start": "00:13:08,000", 
+        "num": 253, 
+        "end": "00:13:10,207", 
+        "text": "I mean, it doesn't matter,<br />but, hypothetically,"
+    }, 
+    {
+        "start": "00:13:10,280", 
+        "num": 254, 
+        "end": "00:13:13,568", 
+        "text": "time is equal to 400 total jerks<br />at a two-dick rate."
+    }, 
+    {
+        "start": "00:13:14,320", 
+        "num": 255, 
+        "end": "00:13:17,767", 
+        "text": "Unless Erlich jerks off four guys at a<br />time, and then we can cut that in half."
+    }, 
+    {
+        "start": "00:13:18,000", 
+        "num": 256, 
+        "end": "00:13:19,411", 
+        "text": "How would he do four guys..."
+    }, 
+    {
+        "start": "00:13:19,480", 
+        "num": 257, 
+        "end": "00:13:22,211", 
+        "text": "He's got two hands,<br />so that's two dicks at a time, right?"
+    }, 
+    {
+        "start": "00:13:22,320", 
+        "num": 258, 
+        "end": "00:13:25,881", 
+        "text": "Look, you have two guys on either side<br />with their dicks, tip to tip,"
+    }, 
+    {
+        "start": "00:13:25,960", 
+        "num": 259, 
+        "end": "00:13:29,362", 
+        "text": "so you're going full-length. Four, see?"
+    }, 
+    {
+        "start": "00:13:29,440", 
+        "num": 260, 
+        "end": "00:13:30,441", 
+        "text": "Oh..."
+    }, 
+    {
+        "start": "00:13:30,720", 
+        "num": 261, 
+        "end": "00:13:32,449", 
+        "text": "From the middle out. That does make sense."
+    }, 
+    {
+        "start": "00:13:32,520", 
+        "num": 262, 
+        "end": "00:13:33,487", 
+        "text": "GILFOYLE: Like two Shake Weights?"
+    }, 
+    {
+        "start": "00:13:33,560", 
+        "num": 263, 
+        "end": "00:13:35,847", 
+        "text": "DINESH: Yeah, so what we're trying to do,<br />hypothetically,"
+    }, 
+    {
+        "start": "00:13:35,960", 
+        "num": 264, 
+        "end": "00:13:39,487", 
+        "text": "is minimize time, which is 800 dudes,"
+    }, 
+    {
+        "start": "00:13:39,560", 
+        "num": 265, 
+        "end": "00:13:43,326", 
+        "text": "multiplied by mean-jerk time,<br />divided by four dicks at a time."
+    }, 
+    {
+        "start": "00:13:43,400", 
+        "num": 266, 
+        "end": "00:13:47,769", 
+        "text": "Of course, Erlich would have to pre-sort guys<br />by height, so that their dicks lined up."
+    }, 
+    {
+        "start": "00:13:47,840", 
+        "num": 267, 
+        "end": "00:13:49,365", 
+        "text": "GILFOYLE: Not by height, technically."
+    }, 
+    {
+        "start": "00:13:49,480", 
+        "num": 268, 
+        "end": "00:13:53,007", 
+        "text": "The measurement that we're looking<br />for, really, is dick-to-floor."
+    }, 
+    {
+        "start": "00:13:53,520", 
+        "num": 269, 
+        "end": "00:13:55,682", 
+        "text": "- Call that D2F.<br />- DINESH: Huh."
+    }, 
+    {
+        "start": "00:13:56,240", 
+        "num": 270, 
+        "end": "00:13:57,366", 
+        "text": "Oh, my God."
+    }, 
+    {
+        "start": "00:13:57,480", 
+        "num": 271, 
+        "end": "00:13:59,767", 
+        "text": "You know, if a guy's dick was long enough,"
+    }, 
+    {
+        "start": "00:13:59,840", 
+        "num": 272, 
+        "end": "00:14:03,890", 
+        "text": "it would be able to reach up or down<br />to another guy with a different D2F."
+    }, 
+    {
+        "start": "00:14:03,960", 
+        "num": 273, 
+        "end": "00:14:07,487", 
+        "text": "The longer the dick,<br />the greater the D2F bridge,"
+    }, 
+    {
+        "start": "00:14:07,560", 
+        "num": 274, 
+        "end": "00:14:11,451", 
+        "text": "but I would still be able<br />to jerk it off in one smooth motion."
+    }, 
+    {
+        "start": "00:14:11,760", 
+        "num": 275, 
+        "end": "00:14:13,410", 
+        "text": "I would just have to jerk it on an angle."
+    }, 
+    {
+        "start": "00:14:13,480", 
+        "num": 276, 
+        "end": "00:14:15,801", 
+        "text": "GILFOYLE: So D2F sub-1 needs<br />to equal D2F sub-2,"
+    }, 
+    {
+        "start": "00:14:15,880", 
+        "num": 277, 
+        "end": "00:14:18,121", 
+        "text": "and D2F sub-3 needs to equal D2F sub-4,"
+    }, 
+    {
+        "start": "00:14:18,200", 
+        "num": 278, 
+        "end": "00:14:23,240", 
+        "text": "where length, L, creates<br />a complementary shaft angle."
+    }, 
+    {
+        "start": "00:14:23,320", 
+        "num": 279, 
+        "end": "00:14:24,651", 
+        "text": "Call that theta D."
+    }, 
+    {
+        "start": "00:14:24,960", 
+        "num": 280, 
+        "end": "00:14:27,440", 
+        "text": "- Now, the orgasm threshold...<br />- Holy shit. Oh, my God."
+    }, 
+    {
+        "start": "00:14:28,600", 
+        "num": 281, 
+        "end": "00:14:30,489", 
+        "text": "I'm such an idiot. Middle out!"
+    }, 
+    {
+        "start": "00:14:30,680", 
+        "num": 282, 
+        "end": "00:14:33,809", 
+        "text": "Middle out! Middle out! Oh, my God."
+    }, 
+    {
+        "start": "00:14:33,880", 
+        "num": 283, 
+        "end": "00:14:35,211", 
+        "text": "HOW could I... (GRUNTS)"
+    }, 
+    {
+        "start": "00:14:35,280", 
+        "num": 284, 
+        "end": "00:14:36,281", 
+        "text": "(DOOR CLOSES)"
+    }, 
+    {
+        "start": "00:14:37,920", 
+        "num": 285, 
+        "end": "00:14:40,810", 
+        "text": "Guys, does girth-similarity<br />affect Erlich's ability"
+    }, 
+    {
+        "start": "00:14:40,880", 
+        "num": 286, 
+        "end": "00:14:43,486", 
+        "text": "to jerk different dicks simultaneously?"
+    }, 
+    {
+        "start": "00:14:47,760", 
+        "num": 287, 
+        "end": "00:14:49,603", 
+        "text": "Shit. Yeah, I think it would."
+    }, 
+    {
+        "start": "00:14:49,800", 
+        "num": 288, 
+        "end": "00:14:51,370", 
+        "text": "(RAPID TAPPING ON KEYBOARD)"
+    }, 
+    {
+        "start": "00:14:51,560", 
+        "num": 289, 
+        "end": "00:14:52,766", 
+        "text": "(SIGHS)"
+    }, 
+    {
+        "start": "00:15:01,760", 
+        "num": 290, 
+        "end": "00:15:06,561", 
+        "text": "Of course, it does. Time to orgasm, or T20,"
+    }, 
+    {
+        "start": "00:15:07,000", 
+        "num": 291, 
+        "end": "00:15:08,809", 
+        "text": "has to be the same for each<br />matching pair of dicks,"
+    }, 
+    {
+        "start": "00:15:08,880", 
+        "num": 292, 
+        "end": "00:15:11,880", 
+        "text": "otherwise I'm wasting a lot of great<br />strokes on a guy that's already busted."
+    }, 
+    {
+        "start": "00:15:11,920", 
+        "num": 293, 
+        "end": "00:15:16,369", 
+        "text": "Unless you can hotswap dicks in and out.<br />So on a downstroke, you get a new one in."
+    }, 
+    {
+        "start": "00:15:16,440", 
+        "num": 294, 
+        "end": "00:15:18,480", 
+        "text": "So when you stroke up<br />you're not wasting any energy."
+    }, 
+    {
+        "start": "00:15:18,560", 
+        "num": 295, 
+        "end": "00:15:21,325", 
+        "text": "Even so. I think this is<br />the most reliable metric for stamina."
+    }, 
+    {
+        "start": "00:15:21,440", 
+        "num": 296, 
+        "end": "00:15:26,924", 
+        "text": "Guys? Richard's been locked in here for<br />almost two hours. Do we think he's okay?"
+    }, 
+    {
+        "start": "00:15:27,840", 
+        "num": 297, 
+        "end": "00:15:29,330", 
+        "text": "ERLICH: Hmm, you don't think he'd..."
+    }, 
+    {
+        "start": "00:15:29,400", 
+        "num": 298, 
+        "end": "00:15:30,686", 
+        "text": "He did seem pretty bummed out."
+    }, 
+    {
+        "start": "00:15:33,640", 
+        "num": 299, 
+        "end": "00:15:35,165", 
+        "text": "(HOUSE MUSIC BLARES)"
+    }, 
+    {
+        "start": "00:15:44,560", 
+        "num": 300, 
+        "end": "00:15:45,971", 
+        "text": "(INAUDIBLE)"
+    }, 
+    {
+        "start": "00:16:07,680", 
+        "num": 301, 
+        "end": "00:16:08,681", 
+        "text": "(DOOR OPENS)"
+    }, 
+    {
+        "start": "00:16:09,160", 
+        "num": 302, 
+        "end": "00:16:10,161", 
+        "text": "(SIGHS)"
+    }, 
+    {
+        "start": "00:16:10,560", 
+        "num": 303, 
+        "end": "00:16:11,607", 
+        "text": "All right, guys, let's go."
+    }, 
+    {
+        "start": "00:16:11,680", 
+        "num": 304, 
+        "end": "00:16:13,284", 
+        "text": "The finals are starting.<br />(CLEARS THROAT) Up!"
+    }, 
+    {
+        "start": "00:16:13,360", 
+        "num": 305, 
+        "end": "00:16:14,407", 
+        "text": "Gilfoyle!"
+    }, 
+    {
+        "start": "00:16:14,960", 
+        "num": 306, 
+        "end": "00:16:16,007", 
+        "text": "RICHARD: Jesus!"
+    }, 
+    {
+        "start": "00:16:17,760", 
+        "num": 307, 
+        "end": "00:16:20,161", 
+        "text": "What happened to the door?"
+    }, 
+    {
+        "start": "00:16:20,240", 
+        "num": 308, 
+        "end": "00:16:22,163", 
+        "text": "Don't worry about it, Richard.<br />Ls the platform up and running?"
+    }, 
+    {
+        "start": "00:16:22,240", 
+        "num": 309, 
+        "end": "00:16:25,164", 
+        "text": "I made a few changes, but yeah..."
+    }, 
+    {
+        "start": "00:16:25,240", 
+        "num": 310, 
+        "end": "00:16:28,164", 
+        "text": "Okay, tell me on the walk.<br />All right, you dildos, let's go!"
+    }, 
+    {
+        "start": "00:16:28,480", 
+        "num": 311, 
+        "end": "00:16:30,847", 
+        "text": "All right, talk to me, Richard.<br />What were you working on last night?"
+    }, 
+    {
+        "start": "00:16:30,920", 
+        "num": 312, 
+        "end": "00:16:32,763", 
+        "text": "RICHARD: Well, uh,<br />I might've made a breakthrough."
+    }, 
+    {
+        "start": "00:16:32,840", 
+        "num": 313, 
+        "end": "00:16:34,126", 
+        "text": "ERLICH: Really, so everything is working?"
+    }, 
+    {
+        "start": "00:16:34,200", 
+        "num": 314, 
+        "end": "00:16:35,884", 
+        "text": "RICHARD: Uh, technically, no."
+    }, 
+    {
+        "start": "00:16:35,960", 
+        "num": 315, 
+        "end": "00:16:36,961", 
+        "text": "(DOOR CLOSES)"
+    }, 
+    {
+        "start": "00:16:37,280", 
+        "num": 316, 
+        "end": "00:16:38,281", 
+        "text": "(SNORING)"
+    }, 
+    {
+        "start": "00:17:06,600", 
+        "num": 317, 
+        "end": "00:17:09,604", 
+        "text": "Let's face it, ladies,<br />is there anything less sexy"
+    }, 
+    {
+        "start": "00:17:09,680", 
+        "num": 318, 
+        "end": "00:17:13,480", 
+        "text": "than when a user's visualization UX<br />is completely sub-optimal?"
+    }, 
+    {
+        "start": "00:17:13,800", 
+        "num": 319, 
+        "end": "00:17:15,802", 
+        "text": "I mean, it's the worst, right?"
+    }, 
+    {
+        "start": "00:17:15,880", 
+        "num": 320, 
+        "end": "00:17:18,121", 
+        "text": "So we've gone through all the research<br />and all the steps."
+    }, 
+    {
+        "start": "00:17:18,160", 
+        "num": 321, 
+        "end": "00:17:21,960", 
+        "text": "We have a solution for these problems and Zenella<br />is ready to bring it to the marketplace."
+    }, 
+    {
+        "start": "00:17:22,040", 
+        "num": 322, 
+        "end": "00:17:24,168", 
+        "text": "Yeah, I get it, Richard. You changed a lot."
+    }, 
+    {
+        "start": "00:17:24,240", 
+        "num": 323, 
+        "end": "00:17:25,969", 
+        "text": "Now, just give me the basics<br />and I can roll with it."
+    }, 
+    {
+        "start": "00:17:26,040", 
+        "num": 324, 
+        "end": "00:17:27,565", 
+        "text": "I need to know what I'm presenting here."
+    }, 
+    {
+        "start": "00:17:27,640", 
+        "num": 325, 
+        "end": "00:17:29,400", 
+        "text": "I don't think I have<br />time to explain it all."
+    }, 
+    {
+        "start": "00:17:30,000", 
+        "num": 326, 
+        "end": "00:17:31,047", 
+        "text": "What the hell does that mean?"
+    }, 
+    {
+        "start": "00:17:31,120", 
+        "num": 327, 
+        "end": "00:17:33,930", 
+        "text": "Richard? Is this the right build?<br />I can't find the mobile suite here."
+    }, 
+    {
+        "start": "00:17:34,000", 
+        "num": 328, 
+        "end": "00:17:36,685", 
+        "text": "Uh, it is nowhere. I deleted it."
+    }, 
+    {
+        "start": "00:17:36,960", 
+        "num": 329, 
+        "end": "00:17:38,325", 
+        "text": "- DINESH: What?<br />- Here they are."
+    }, 
+    {
+        "start": "00:17:38,680", 
+        "num": 330, 
+        "end": "00:17:40,444", 
+        "text": "- Pied Piper's here.<br />- Sorry, we're late."
+    }, 
+    {
+        "start": "00:17:40,840", 
+        "num": 331, 
+        "end": "00:17:42,126", 
+        "text": "Richard, talk to me."
+    }, 
+    {
+        "start": "00:17:42,240", 
+        "num": 332, 
+        "end": "00:17:44,447", 
+        "text": "I can't front a band without<br />knowing what we're playing?"
+    }, 
+    {
+        "start": "00:17:44,640", 
+        "num": 333, 
+        "end": "00:17:48,770", 
+        "text": "Uh, I think I'm just going<br />to do the presentation myself."
+    }, 
+    {
+        "start": "00:17:49,040", 
+        "num": 334, 
+        "end": "00:17:51,088", 
+        "text": "Wait, what? No, no, no,<br />Richard, Richard, Richard, Richard."
+    }, 
+    {
+        "start": "00:17:51,160", 
+        "num": 335, 
+        "end": "00:17:53,811", 
+        "text": "Respectfully... Respectfully,<br />you're terrible."
+    }, 
+    {
+        "start": "00:17:54,040", 
+        "num": 336, 
+        "end": "00:17:56,122", 
+        "text": "You have a world-class showman<br />standing right in front of you"
+    }, 
+    {
+        "start": "00:17:56,200", 
+        "num": 337, 
+        "end": "00:17:57,361", 
+        "text": "and you're going to pass on that?"
+    }, 
+    {
+        "start": "00:17:57,440", 
+        "num": 338, 
+        "end": "00:17:59,966", 
+        "text": "Release me, Richard. Release the Kraken!"
+    }, 
+    {
+        "start": "00:18:00,040", 
+        "num": 339, 
+        "end": "00:18:03,283", 
+        "text": "- Pied Piper. You're on.<br />- This is it!"
+    }, 
+    {
+        "start": "00:18:03,360", 
+        "num": 340, 
+        "end": "00:18:06,523", 
+        "text": "DINESH: I don't know what you did, Richard,<br />but I hope it works."
+    }, 
+    {
+        "start": "00:18:06,600", 
+        "num": 341, 
+        "end": "00:18:07,601", 
+        "text": "RICHARD: Me, 1100."
+    }, 
+    {
+        "start": "00:18:07,960", 
+        "num": 342, 
+        "end": "00:18:10,770", 
+        "text": "<i>All right, let's welcome<br />our final team to the finals</i>"
+    }, 
+    {
+        "start": "00:18:10,840", 
+        "num": 343, 
+        "end": "00:18:14,128", 
+        "text": "<i>of this year's<br />TechCrunch Disrupt Startup Battlefield.</i>"
+    }, 
+    {
+        "start": "00:18:14,200", 
+        "num": 344, 
+        "end": "00:18:17,568", 
+        "text": "<i>- Presenting for Pied Piper is Erlich Bachman.<br />- (APPLAUSE)</i>"
+    }, 
+    {
+        "start": "00:18:23,360", 
+        "num": 345, 
+        "end": "00:18:26,443", 
+        "text": "<i>Uh, actually there has<br />been a change of plans.</i>"
+    }, 
+    {
+        "start": "00:18:26,520", 
+        "num": 346, 
+        "end": "00:18:29,967", 
+        "text": "<i>Presenting for Pied Piper<br />will be Richard Hendricks.</i>"
+    }, 
+    {
+        "start": "00:18:30,040", 
+        "num": 347, 
+        "end": "00:18:31,041", 
+        "text": "(APPLAUSE)"
+    }, 
+    {
+        "start": "00:18:36,360", 
+        "num": 348, 
+        "end": "00:18:37,646", 
+        "text": "<i>Richard?</i>"
+    }, 
+    {
+        "start": "00:18:40,440", 
+        "num": 349, 
+        "end": "00:18:43,125", 
+        "text": "Ah, sorry. Got a little<br />light-headed there for a second."
+    }, 
+    {
+        "start": "00:18:43,200", 
+        "num": 350, 
+        "end": "00:18:45,567", 
+        "text": "I set 'em up for you, now knock 'em down."
+    }, 
+    {
+        "start": "00:18:46,960", 
+        "num": 351, 
+        "end": "00:18:49,804", 
+        "text": "GILFOYLE: I don't understand.<br />I thought he made the platform better."
+    }, 
+    {
+        "start": "00:18:49,880", 
+        "num": 352, 
+        "end": "00:18:52,690", 
+        "text": "- He just deleted everything.<br />- DINESH: Maybe he moved it to the cloud?"
+    }, 
+    {
+        "start": "00:18:52,760", 
+        "num": 353, 
+        "end": "00:18:55,809", 
+        "text": "No. All The Carver's work is gone."
+    }, 
+    {
+        "start": "00:18:56,040", 
+        "num": 354, 
+        "end": "00:18:59,726", 
+        "text": "Pied Piper is a cloud-based compression.<br />Without the cloud, nothing's left."
+    }, 
+    {
+        "start": "00:18:59,800", 
+        "num": 355, 
+        "end": "00:19:01,768", 
+        "text": "Uh, gentlemen,<br />this is likely the last 10 minutes"
+    }, 
+    {
+        "start": "00:19:01,840", 
+        "num": 356, 
+        "end": "00:19:04,286", 
+        "text": "of Pied Piper, so let's enjoy it."
+    }, 
+    {
+        "start": "00:19:04,360", 
+        "num": 357, 
+        "end": "00:19:06,488", 
+        "text": "DINESH: Has he lost his mind?<br />GILFOYLE: He's lost his fucking mind."
+    }, 
+    {
+        "start": "00:19:06,560", 
+        "num": 358, 
+        "end": "00:19:09,166", 
+        "text": "<i>Hello... Hello. Hello.</i>"
+    }, 
+    {
+        "start": "00:19:09,440", 
+        "num": 359, 
+        "end": "00:19:12,683", 
+        "text": "<i>Um, I am... My name is Richard Hendricks,</i>"
+    }, 
+    {
+        "start": "00:19:12,760", 
+        "num": 360, 
+        "end": "00:19:17,482", 
+        "text": "<i>and I am, along with,<br />uh, this guy, him, him,</i>"
+    }, 
+    {
+        "start": "00:19:18,160", 
+        "num": 361, 
+        "end": "00:19:21,801", 
+        "text": "<i>and another guy that has disappeared,</i> uh..."
+    }, 
+    {
+        "start": "00:19:23,840", 
+        "num": 362, 
+        "end": "00:19:24,841", 
+        "text": "Um..."
+    }, 
+    {
+        "start": "00:19:24,920", 
+        "num": 363, 
+        "end": "00:19:27,571", 
+        "text": "<i>We are Pied Piper. A compression company.</i>"
+    }, 
+    {
+        "start": "00:19:27,640", 
+        "num": 364, 
+        "end": "00:19:29,210", 
+        "text": "<i>Well, you know, in your pamphlets</i>"
+    }, 
+    {
+        "start": "00:19:29,280", 
+        "num": 365, 
+        "end": "00:19:30,850", 
+        "text": "<i>it says that we are a cloud-based</i>"
+    }, 
+    {
+        "start": "00:19:30,920", 
+        "num": 366, 
+        "end": "00:19:34,049", 
+        "text": "<i>multi-platform solution<br />for user-focused compression.</i>"
+    }, 
+    {
+        "start": "00:19:34,240", 
+        "num": 367, 
+        "end": "00:19:37,642", 
+        "text": "<i>Uh, and we were. Until yesterday.</i>"
+    }, 
+    {
+        "start": "00:19:38,040", 
+        "num": 368, 
+        "end": "00:19:39,963", 
+        "text": "<i>But now we are not.</i>"
+    }, 
+    {
+        "start": "00:19:41,920", 
+        "num": 369, 
+        "end": "00:19:44,002", 
+        "text": "<i>Uh, because you see, Hooli</i>"
+    }, 
+    {
+        "start": "00:19:44,120", 
+        "num": 370, 
+        "end": "00:19:47,408", 
+        "text": "<i>did everything that we were trying<br />to do, uh, better, way better.</i>"
+    }, 
+    {
+        "start": "00:19:47,720", 
+        "num": 371, 
+        "end": "00:19:48,926", 
+        "text": "Um..."
+    }, 
+    {
+        "start": "00:19:49,600", 
+        "num": 372, 
+        "end": "00:19:55,084", 
+        "text": "<i>Nucleus is built on the same engine<br />as ours, like exactly the same,</i>"
+    }, 
+    {
+        "start": "00:19:55,160", 
+        "num": 373, 
+        "end": "00:19:59,006", 
+        "text": "<i>and their Weissman score was 2.89,<br />same as ours.</i>"
+    }, 
+    {
+        "start": "00:19:59,320", 
+        "num": 374, 
+        "end": "00:20:03,245", 
+        "text": "<i>But the thing is, they built a ton<br />of really great stuff up on top of that.</i>"
+    }, 
+    {
+        "start": "00:20:03,320", 
+        "num": 375, 
+        "end": "00:20:07,325", 
+        "text": "<i>And we can't compete,<br />so now we have to be something else.</i>"
+    }, 
+    {
+        "start": "00:20:07,640", 
+        "num": 376, 
+        "end": "00:20:09,802", 
+        "text": "<i>Um, well-played, Hooli.<br />(CHUCKLES</i> AWKWARDLY)"
+    }, 
+    {
+        "start": "00:20:09,880", 
+        "num": 377, 
+        "end": "00:20:15,569", 
+        "text": "<i>Uh, okay, so anyway, we all know<br />that the most obvious way</i>"
+    }, 
+    {
+        "start": "00:20:16,480", 
+        "num": 378, 
+        "end": "00:20:19,404", 
+        "text": "<i>to compress files is with<br />Shannon coding, right? Top down.</i>"
+    }, 
+    {
+        "start": "00:20:19,480", 
+        "num": 379, 
+        "end": "00:20:22,131", 
+        "text": "(CLEARS THROAT) Richard, they<br />can't see that, it's too small."
+    }, 
+    {
+        "start": "00:20:22,800", 
+        "num": 380, 
+        "end": "00:20:24,245", 
+        "text": "- Okay.<br />- Literally, hundreds of people here."
+    }, 
+    {
+        "start": "00:20:24,320", 
+        "num": 381, 
+        "end": "00:20:25,446", 
+        "text": "<i>Oh, no, but I need...</i>"
+    }, 
+    {
+        "start": "00:20:25,960", 
+        "num": 382, 
+        "end": "00:20:26,961", 
+        "text": "(SIGHS)"
+    }, 
+    {
+        "start": "00:20:27,400", 
+        "num": 383, 
+        "end": "00:20:28,811", 
+        "text": "<i>Shit,</i> okay."
+    }, 
+    {
+        "start": "00:20:28,920", 
+        "num": 384, 
+        "end": "00:20:29,921", 
+        "text": "Um..."
+    }, 
+    {
+        "start": "00:20:31,000", 
+        "num": 385, 
+        "end": "00:20:32,331", 
+        "text": "<i>Right, oh.</i>"
+    }, 
+    {
+        "start": "00:20:32,480", 
+        "num": 386, 
+        "end": "00:20:36,201", 
+        "text": "<i>Uh, so Shannon coding<br />and then David Huffman came along,</i>"
+    }, 
+    {
+        "start": "00:20:36,280", 
+        "num": 387, 
+        "end": "00:20:40,968", 
+        "text": "<i>and he pioneered bottom-up, and<br />Lempel-Ziv with left-to-right, obviously.</i>"
+    }, 
+    {
+        "start": "00:20:41,040", 
+        "num": 388, 
+        "end": "00:20:43,850", 
+        "text": "<i>And for decades,<br />we used these codes to compress,</i>"
+    }, 
+    {
+        "start": "00:20:43,920", 
+        "num": 389, 
+        "end": "00:20:47,447", 
+        "text": "<i>you know, JPEGs, MPEGs,<br />MP3s, Zips, all that stuff.</i>"
+    }, 
+    {
+        "start": "00:20:47,800", 
+        "num": 390, 
+        "end": "00:20:51,691", 
+        "text": "<i>Uh, but we all know that,<br />so there's no point in talking about it.</i>"
+    }, 
+    {
+        "start": "00:20:52,400", 
+        "num": 391, 
+        "end": "00:20:54,243", 
+        "text": "<i>But, uh, what happened was,</i>"
+    }, 
+    {
+        "start": "00:20:54,320", 
+        "num": 392, 
+        "end": "00:20:58,530", 
+        "text": "<i>last night, um, I was watching my<br />friends here have this argument</i>"
+    }, 
+    {
+        "start": "00:20:58,880", 
+        "num": 393, 
+        "end": "00:21:02,327", 
+        "text": "<i>about, you know, uh, manipulating d...<br />Uh, data.</i>"
+    }, 
+    {
+        "start": "00:21:03,000", 
+        "num": 394, 
+        "end": "00:21:08,928", 
+        "text": "<i>And, you know, how many datas<br />could one guy manipulate at once and...</i>"
+    }, 
+    {
+        "start": "00:21:09,320", 
+        "num": 395, 
+        "end": "00:21:10,321", 
+        "text": "(CHUCKLES)"
+    }, 
+    {
+        "start": "00:21:11,320", 
+        "num": 396, 
+        "end": "00:21:12,765", 
+        "text": "<i>And I was just... I was thinking.</i>"
+    }, 
+    {
+        "start": "00:21:12,840", 
+        "num": 397, 
+        "end": "00:21:14,560", 
+        "text": "<i>Uh, maybe it could be<br />another way, you know?</i>"
+    }, 
+    {
+        "start": "00:21:14,640", 
+        "num": 398, 
+        "end": "00:21:16,927", 
+        "text": "<i>Uh, something that I would<br />call, \"middle-out.\"</i>"
+    }, 
+    {
+        "start": "00:21:17,520", 
+        "num": 399, 
+        "end": "00:21:21,605", 
+        "text": "<i>It's up-and-down, back-and-forth all<br />at the same time going on at once.</i>"
+    }, 
+    {
+        "start": "00:21:22,840", 
+        "num": 400, 
+        "end": "00:21:26,003", 
+        "text": "<i>Okay, well, anyway,<br />I deleted all our modules last night,</i>"
+    }, 
+    {
+        "start": "00:21:26,080", 
+        "num": 401, 
+        "end": "00:21:29,448", 
+        "text": "<i>and I completely rebuilt our engine,<br />from scratch last night.</i>"
+    }, 
+    {
+        "start": "00:21:29,680", 
+        "num": 402, 
+        "end": "00:21:34,641", 
+        "text": "<i>Um, now, this morning I really only<br />had enough time to do one test,</i>"
+    }, 
+    {
+        "start": "00:21:34,720", 
+        "num": 403, 
+        "end": "00:21:40,124", 
+        "text": "<i>and when I did,<br />we hit a Weissman score of 3.8.</i>"
+    }, 
+    {
+        "start": "00:21:41,120", 
+        "num": 404, 
+        "end": "00:21:42,167", 
+        "text": "(CROWD GASPS)"
+    }, 
+    {
+        "start": "00:21:42,240", 
+        "num": 405, 
+        "end": "00:21:45,801", 
+        "text": "<i>Now, I know the theoretical limit was 2.9,</i>"
+    }, 
+    {
+        "start": "00:21:45,880", 
+        "num": 406, 
+        "end": "00:21:51,842", 
+        "text": "<i>- but as you can see here...<br />- I'm sorry. You scored a 3.8?</i>"
+    }, 
+    {
+        "start": "00:21:52,480", 
+        "num": 407, 
+        "end": "00:21:53,925", 
+        "text": "<i>Uh, yes, sir.</i>"
+    }, 
+    {
+        "start": "00:21:54,040", 
+        "num": 408, 
+        "end": "00:21:56,168", 
+        "text": "<i>And this is a universal lossless<br />compression engine?</i>"
+    }, 
+    {
+        "start": "00:21:56,240", 
+        "num": 409, 
+        "end": "00:21:59,687", 
+        "text": "<i>- Text? Audio? Video?<br />- Yes, that is correct.</i>"
+    }, 
+    {
+        "start": "00:21:59,920", 
+        "num": 410, 
+        "end": "00:22:03,402", 
+        "text": "<i>Well, I'm sorry to interrupt<br />your eloquent presentation, Richard.</i>"
+    }, 
+    {
+        "start": "00:22:03,800", 
+        "num": 411, 
+        "end": "00:22:06,849", 
+        "text": "<i>But, rather than say anything more,<br />why don't we just give you a file</i>"
+    }, 
+    {
+        "start": "00:22:06,920", 
+        "num": 412, 
+        "end": "00:22:09,048", 
+        "text": "<i>and we'll see whether this thing<br />can do what you say it does.</i>"
+    }, 
+    {
+        "start": "00:22:09,120", 
+        "num": 413, 
+        "end": "00:22:12,886", 
+        "text": "<i>Because if it can't,<br />then we're done here, right?</i>"
+    }, 
+    {
+        "start": "00:22:13,120", 
+        "num": 414, 
+        "end": "00:22:14,645", 
+        "text": "<i>Yeah. Yeah, that's fair.</i>"
+    }, 
+    {
+        "start": "00:22:14,760", 
+        "num": 415, 
+        "end": "00:22:16,842", 
+        "text": "<i>So we can give you any kind of file<br />and you can compress it,</i>"
+    }, 
+    {
+        "start": "00:22:16,920", 
+        "num": 416, 
+        "end": "00:22:20,447", 
+        "text": "<i>without degradation, at this standard?<br />Three-eight?</i>"
+    }, 
+    {
+        "start": "00:22:20,960", 
+        "num": 417, 
+        "end": "00:22:23,008", 
+        "text": "<i>Yes... Yep.</i>"
+    }, 
+    {
+        "start": "00:22:23,080", 
+        "num": 418, 
+        "end": "00:22:24,605", 
+        "text": "<i>All right, give us a minute, please.</i>"
+    }, 
+    {
+        "start": "00:22:26,280", 
+        "num": 419, 
+        "end": "00:22:28,521", 
+        "text": "- What do we got?<br />- MAN: Does anyone have anything?"
+    }, 
+    {
+        "start": "00:22:33,760", 
+        "num": 420, 
+        "end": "00:22:35,760", 
+        "text": "- Do you have something?<br />- I've got a file for him."
+    }, 
+    {
+        "start": "00:22:36,040", 
+        "num": 421, 
+        "end": "00:22:38,646", 
+        "text": "<i>Okay. Andy Stafford here,<br />has a file for you.</i>"
+    }, 
+    {
+        "start": "00:22:38,880", 
+        "num": 422, 
+        "end": "00:22:41,690", 
+        "text": "<i>- Okay.<br />- ANDY: It's 132 gigabytes uncompressed,</i>"
+    }, 
+    {
+        "start": "00:22:41,760", 
+        "num": 423, 
+        "end": "00:22:43,444", 
+        "text": "<i>and it's a 3-D video file.</i>"
+    }, 
+    {
+        "start": "00:22:47,320", 
+        "num": 424, 
+        "end": "00:22:48,560", 
+        "text": "<i>Okay-</i>"
+    }, 
+    {
+        "start": "00:22:50,560", 
+        "num": 425, 
+        "end": "00:22:51,971", 
+        "text": "Shit..."
+    }, 
+    {
+        "start": "00:22:52,040", 
+        "num": 426, 
+        "end": "00:22:54,042", 
+        "text": "- ERLICH: A fucking 3-D file?<br />- Yes."
+    }, 
+    {
+        "start": "00:22:54,120", 
+        "num": 427, 
+        "end": "00:22:56,930", 
+        "text": "- Are you fucking kidding me?<br />- God damn it."
+    }, 
+    {
+        "start": "00:22:57,880", 
+        "num": 428, 
+        "end": "00:23:00,531", 
+        "text": "- ERLICH: Can we handle this?<br />- I guess we'll find out."
+    }, 
+    {
+        "start": "00:23:01,120", 
+        "num": 429, 
+        "end": "00:23:02,849", 
+        "text": "ERLICH: Damn it, I hope this works."
+    }, 
+    {
+        "start": "00:23:12,640", 
+        "num": 430, 
+        "end": "00:23:13,880", 
+        "text": "Shit, it's hung."
+    }, 
+    {
+        "start": "00:23:14,960", 
+        "num": 431, 
+        "end": "00:23:16,610", 
+        "text": "RICHARD: Oh, no."
+    }, 
+    {
+        "start": "00:23:17,680", 
+        "num": 432, 
+        "end": "00:23:19,250", 
+        "text": "<i>Is it stuck?</i>"
+    }, 
+    {
+        "start": "00:23:19,320", 
+        "num": 433, 
+        "end": "00:23:21,766", 
+        "text": "<i>There is a time limit,<br />you have two minutes remaining.</i>"
+    }, 
+    {
+        "start": "00:23:23,200", 
+        "num": 434, 
+        "end": "00:23:24,920", 
+        "text": "Come on, come on, come on,<br />come on, come on."
+    }, 
+    {
+        "start": "00:23:27,600", 
+        "num": 435, 
+        "end": "00:23:28,806", 
+        "text": "(COMPUTER BEEPS)"
+    }, 
+    {
+        "start": "00:23:28,880", 
+        "num": 436, 
+        "end": "00:23:30,120", 
+        "text": "<i>It looks like it's done.</i>"
+    }, 
+    {
+        "start": "00:23:30,720", 
+        "num": 437, 
+        "end": "00:23:32,882", 
+        "text": "GILFOYLE: Wait, 24 gigs? What happened?"
+    }, 
+    {
+        "start": "00:23:32,960", 
+        "num": 438, 
+        "end": "00:23:35,930", 
+        "text": "Oh, shit, there's no way."
+    }, 
+    {
+        "start": "00:23:36,280", 
+        "num": 439, 
+        "end": "00:23:38,965", 
+        "text": "It didn't compress the whole thing.<br />It should be twice that size."
+    }, 
+    {
+        "start": "00:23:39,040", 
+        "num": 440, 
+        "end": "00:23:42,567", 
+        "text": "<i>I mean, 24 gigs, that's less<br />than a fourth the file size.</i>"
+    }, 
+    {
+        "start": "00:23:42,840", 
+        "num": 441, 
+        "end": "00:23:44,569", 
+        "text": "<i>That seems dubious, Richard.</i>"
+    }, 
+    {
+        "start": "00:23:44,840", 
+        "num": 442, 
+        "end": "00:23:48,128", 
+        "text": "<i>Why don't we run a Weissman test<br />for verification, see where we went wrong.</i>"
+    }, 
+    {
+        "start": "00:23:48,360", 
+        "num": 443, 
+        "end": "00:23:51,601", 
+        "text": "<i>Okay, I mean it shouldn't take too long,<br />it only compressed half the fucking file.</i>"
+    }, 
+    {
+        "start": "00:23:53,640", 
+        "num": 444, 
+        "end": "00:23:54,687", 
+        "text": "(COMPUTER BEEPS)"
+    }, 
+    {
+        "start": "00:23:55,000", 
+        "num": 445, 
+        "end": "00:23:56,001", 
+        "text": "(MAN CLEARS THROAT)"
+    }, 
+    {
+        "start": "00:23:57,800", 
+        "num": 446, 
+        "end": "00:23:59,848", 
+        "text": "I'm sorry.<br />I shouldn't have rewritten all this code."
+    }, 
+    {
+        "start": "00:24:00,000", 
+        "num": 447, 
+        "end": "00:24:01,764", 
+        "text": "I mean, what we had before worked."
+    }, 
+    {
+        "start": "00:24:02,000", 
+        "num": 448, 
+        "end": "00:24:05,129", 
+        "text": "I'm sorry, guys. Gavin won. We lost."
+    }, 
+    {
+        "start": "00:24:05,240", 
+        "num": 449, 
+        "end": "00:24:10,201", 
+        "text": "At least it didn't happen in a public<br />and brutally embarrassing way."
+    }, 
+    {
+        "start": "00:24:11,120", 
+        "num": 450, 
+        "end": "00:24:13,168", 
+        "text": "- Thanks, Gilfoyle.<br />- Yeah."
+    }, 
+    {
+        "start": "00:24:17,360", 
+        "num": 451, 
+        "end": "00:24:19,886", 
+        "text": "RICHARD: Wait a second. What's happening?"
+    }, 
+    {
+        "start": "00:24:20,040", 
+        "num": 452, 
+        "end": "00:24:22,566", 
+        "text": "There's no errors, look!"
+    }, 
+    {
+        "start": "00:24:23,720", 
+        "num": 453, 
+        "end": "00:24:24,721", 
+        "text": "(COMPUTER BEEPS)"
+    }, 
+    {
+        "start": "00:24:24,840", 
+        "num": 454, 
+        "end": "00:24:26,285", 
+        "text": "(CROWD MURMURING)"
+    }, 
+    {
+        "start": "00:24:27,040", 
+        "num": 455, 
+        "end": "00:24:29,771", 
+        "text": "- 5.2? How, how...<br />- Wait, what?"
+    }, 
+    {
+        "start": "00:24:30,040", 
+        "num": 456, 
+        "end": "00:24:32,247", 
+        "text": "- Wait, it compressed the whole file?<br />- Whoa!"
+    }, 
+    {
+        "start": "00:24:32,720", 
+        "num": 457, 
+        "end": "00:24:34,085", 
+        "text": "That's the whole file."
+    }, 
+    {
+        "start": "00:24:34,200", 
+        "num": 458, 
+        "end": "00:24:36,771", 
+        "text": "It's just half the size<br />I thought it would be."
+    }, 
+    {
+        "start": "00:24:37,200", 
+        "num": 459, 
+        "end": "00:24:40,921", 
+        "text": "<i>Ladies and gentlemen, obviously we're<br />going to keep looking at this to verify,</i>"
+    }, 
+    {
+        "start": "00:24:41,160", 
+        "num": 460, 
+        "end": "00:24:43,561", 
+        "text": "<i>but with a confirmed score of 5.2,</i>"
+    }, 
+    {
+        "start": "00:24:43,640", 
+        "num": 461, 
+        "end": "00:24:47,850", 
+        "text": "<i>Pied Piper appears to have just doubled<br />the best Weissman score ever measured.</i>"
+    }, 
+    {
+        "start": "00:24:47,920", 
+        "num": 462, 
+        "end": "00:24:48,967", 
+        "text": "<i>- Doubled it!<br />- (APPLAUSE)</i>"
+    }, 
+    {
+        "start": "00:24:49,040", 
+        "num": 463, 
+        "end": "00:24:50,724", 
+        "text": "<i>Pied Piper, ladies and gentlemen!</i>"
+    }, 
+    {
+        "start": "00:24:50,840", 
+        "num": 464, 
+        "end": "00:24:52,649", 
+        "text": "<i>Let's hear it for them!</i>"
+    }, 
+    {
+        "start": "00:24:54,240", 
+        "num": 465, 
+        "end": "00:24:55,571", 
+        "text": "Holy shit!"
+    }, 
+    {
+        "start": "00:24:56,160", 
+        "num": 466, 
+        "end": "00:24:58,242", 
+        "text": "Hey, I'm at TechCrunch."
+    }, 
+    {
+        "start": "00:24:58,480", 
+        "num": 467, 
+        "end": "00:25:01,324", 
+        "text": "This kid, Hendricks, and Pied Piper<br />just ran a two-minute mile."
+    }, 
+    {
+        "start": "00:25:01,400", 
+        "num": 468, 
+        "end": "00:25:02,890", 
+        "text": "We should get on this, now."
+    }, 
+    {
+        "start": "00:25:03,400", 
+        "num": 469, 
+        "end": "00:25:05,482", 
+        "text": "Suck it, Gavin Belson!"
+    }, 
+    {
+        "start": "00:25:05,560", 
+        "num": 470, 
+        "end": "00:25:06,561", 
+        "text": "(MOUTHING)"
+    }, 
+    {
+        "start": "00:25:08,240", 
+        "num": 471, 
+        "end": "00:25:09,561", 
+        "text": "Hendricks, you beautiful bastard!"
+    }, 
+    {
+        "start": "00:25:09,600", 
+        "num": 472, 
+        "end": "00:25:12,410", 
+        "text": "- I told you we'd do it! Come on!<br />- (LAUGHING)"
+    }, 
+    {
+        "start": "00:25:12,480", 
+        "num": 473, 
+        "end": "00:25:14,323", 
+        "text": "We're not going to be poor!"
+    }, 
+    {
+        "start": "00:25:14,520", 
+        "num": 474, 
+        "end": "00:25:17,205", 
+        "text": "What happened? What happened?<br />What happened? What happened?"
+    }, 
+    {
+        "start": "00:25:17,280", 
+        "num": 475, 
+        "end": "00:25:18,884", 
+        "text": "Ah, we just won the cup!"
+    }, 
+    {
+        "start": "00:25:18,960", 
+        "num": 476, 
+        "end": "00:25:19,961", 
+        "text": "(SCREAMS)"
+    }, 
+    {
+        "start": "00:25:20,120", 
+        "num": 477, 
+        "end": "00:25:21,281", 
+        "text": "Whoo!"
+    }, 
+    {
+        "start": "00:25:22,440", 
+        "num": 478, 
+        "end": "00:25:26,729", 
+        "text": "<i>And I don't think it comes as any shock<br />that the winner of this year's Disrupt Cup</i>"
+    }, 
+    {
+        "start": "00:25:26,800", 
+        "num": 479, 
+        "end": "00:25:32,364", 
+        "text": "<i>and $50,000, like they're going to need it,<br />is Pied Piper.</i>"
+    }, 
+    {
+        "start": "00:25:32,440", 
+        "num": 480, 
+        "end": "00:25:33,601", 
+        "text": "(CHEERING)"
+    }, 
+    {
+        "start": "00:25:34,920", 
+        "num": 481, 
+        "end": "00:25:36,410", 
+        "text": "So Richard wrote the code?"
+    }, 
+    {
+        "start": "00:25:36,480", 
+        "num": 482, 
+        "end": "00:25:40,326", 
+        "text": "Richard wrote the code, yes,<br />but the inspiration was clear."
+    }, 
+    {
+        "start": "00:25:40,760", 
+        "num": 483, 
+        "end": "00:25:41,921", 
+        "text": "- Let me ask you something.<br />- Mmm-hmm."
+    }, 
+    {
+        "start": "00:25:42,000", 
+        "num": 484, 
+        "end": "00:25:45,322", 
+        "text": "How fast do you think<br />you could jack off every guy in this room?"
+    }, 
+    {
+        "start": "00:25:46,520", 
+        "num": 485, 
+        "end": "00:25:48,121", 
+        "text": "'Cause I know how long it would take me."
+    }, 
+    {
+        "start": "00:25:48,800", 
+        "num": 486, 
+        "end": "00:25:49,926", 
+        "text": "And I can prove it."
+    }, 
+    {
+        "start": "00:25:50,000", 
+        "num": 487, 
+        "end": "00:25:51,570", 
+        "text": "- Nice.<br />- Thank you so much."
+    }, 
+    {
+        "start": "00:25:51,640", 
+        "num": 488, 
+        "end": "00:25:54,086", 
+        "text": "I don't fully understand it<br />but I would definitely like to invest."
+    }, 
+    {
+        "start": "00:25:54,160", 
+        "num": 489, 
+        "end": "00:25:55,650", 
+        "text": "- Oh, great.<br />- Really impressed."
+    }, 
+    {
+        "start": "00:25:55,720", 
+        "num": 490, 
+        "end": "00:25:57,085", 
+        "text": "I really want to get you<br />in front of my partners."
+    }, 
+    {
+        "start": "00:25:57,200", 
+        "num": 491, 
+        "end": "00:25:58,964", 
+        "text": "- Really soon.<br />- Oh, wow. I appreciate that, guys."
+    }, 
+    {
+        "start": "00:25:59,040", 
+        "num": 492, 
+        "end": "00:26:01,088", 
+        "text": "Well, hopefully we'll<br />talk to each other soon."
+    }, 
+    {
+        "start": "00:26:01,160", 
+        "num": 493, 
+        "end": "00:26:02,241", 
+        "text": "- Thanks.<br />- Thanks."
+    }, 
+    {
+        "start": "00:26:02,560", 
+        "num": 494, 
+        "end": "00:26:04,403", 
+        "text": "- MONICA: Hey!<br />- Monica!"
+    }, 
+    {
+        "start": "00:26:04,480", 
+        "num": 495, 
+        "end": "00:26:07,563", 
+        "text": "Congratulations! You were amazing up there."
+    }, 
+    {
+        "start": "00:26:07,640", 
+        "num": 496, 
+        "end": "00:26:09,529", 
+        "text": "- Thank you.<br />- I just spoke with Peter."
+    }, 
+    {
+        "start": "00:26:09,600", 
+        "num": 497, 
+        "end": "00:26:13,685", 
+        "text": "He watched the live-stream via satellite<br />and said he was \"not unpleased.\""
+    }, 
+    {
+        "start": "00:26:13,840", 
+        "num": 498, 
+        "end": "00:26:15,604", 
+        "text": "Oh, yeah, that's great. (CHUCKLES)"
+    }, 
+    {
+        "start": "00:26:16,160", 
+        "num": 499, 
+        "end": "00:26:19,482", 
+        "text": "Uh, so I guess<br />we're back to working together, huh?"
+    }, 
+    {
+        "start": "00:26:20,240", 
+        "num": 500, 
+        "end": "00:26:22,720", 
+        "text": "Yeah. Yeah, I guess so."
+    }, 
+    {
+        "start": "00:26:25,800", 
+        "num": 501, 
+        "end": "00:26:27,848", 
+        "text": "It's gonna get pretty<br />insane for you, Richard."
+    }, 
+    {
+        "start": "00:26:27,920", 
+        "num": 502, 
+        "end": "00:26:30,127", 
+        "text": "- Yeah.<br />- You're going to have more offers of funding"
+    }, 
+    {
+        "start": "00:26:30,200", 
+        "num": 503, 
+        "end": "00:26:31,964", 
+        "text": "- than you're going to know what to do with.<br />- Yeah."
+    }, 
+    {
+        "start": "00:26:32,040", 
+        "num": 504, 
+        "end": "00:26:33,530", 
+        "text": "You're going to have to grow a business,"
+    }, 
+    {
+        "start": "00:26:33,600", 
+        "num": 505, 
+        "end": "00:26:36,490", 
+        "text": "- hire a staff, rent offices, get an assistant.<br />- Mmm-hmm."
+    }, 
+    {
+        "start": "00:26:36,560", 
+        "num": 506, 
+        "end": "00:26:39,530", 
+        "text": "Peter is going to be a lot more hands-on<br />and a lot tougher on you."
+    }, 
+    {
+        "start": "00:26:39,840", 
+        "num": 507, 
+        "end": "00:26:42,969", 
+        "text": "People may take credit for your idea<br />and try and sue you."
+    }, 
+    {
+        "start": "00:26:43,080", 
+        "num": 508, 
+        "end": "00:26:45,924", 
+        "text": "- How awesome is that?<br />- Ah, yeah, that's awesome."
+    }, 
+    {
+        "start": "00:26:46,040", 
+        "num": 509, 
+        "end": "00:26:48,122", 
+        "text": "I mean, if you thought it was crazy<br />getting to this point,"
+    }, 
+    {
+        "start": "00:26:48,200", 
+        "num": 510, 
+        "end": "00:26:50,282", 
+        "text": "you're not going to believe<br />what it turns into from here."
+    }, 
+    {
+        "start": "00:26:50,360", 
+        "num": 511, 
+        "end": "00:26:51,361", 
+        "text": "Right."
+    }, 
+    {
+        "start": "00:26:51,440", 
+        "num": 512, 
+        "end": "00:26:53,442", 
+        "text": "I mean pretty soon, you could be<br />managing thousands of employees"
+    }, 
+    {
+        "start": "00:26:53,520", 
+        "num": 513, 
+        "end": "00:26:55,329", 
+        "text": "- who are all looking up to you.<br />- Mmm."
+    }, 
+    {
+        "start": "00:26:55,520", 
+        "num": 514, 
+        "end": "00:26:58,126", 
+        "text": "And Gavin Belson,<br />he's not going away anytime soon."
+    }, 
+    {
+        "start": "00:26:58,200", 
+        "num": 515, 
+        "end": "00:26:59,929", 
+        "text": "- Mmm.<br />- But it's going to be amazing."
+    }, 
+    {
+        "start": "00:27:01,200", 
+        "num": 516, 
+        "end": "00:27:02,725", 
+        "text": "Excuse me a second."
+    }, 
+    {
+        "start": "00:27:12,400", 
+        "num": 517, 
+        "end": "00:27:13,447", 
+        "text": "(BURPS)"
+    }, 
+    {
+        "start": "00:27:13,520", 
+        "num": 518, 
+        "end": "00:27:15,124", 
+        "text": "Oh, Jesus."
+    }, 
+    {
+        "start": "00:27:15,920", 
+        "num": 519, 
+        "end": "00:27:17,684", 
+        "text": "(ROCK MUSIC PLAYING)"
+    }
 ]
