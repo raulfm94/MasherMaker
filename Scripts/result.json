@@ -1,3116 +1,3943 @@
 [
     {
-        "start": "00:00:06,480", 
+        "end": "00:00:11,681", 
+        "start": "00:00:09,440", 
         "num": 1, 
-        "end": "00:00:07,481", 
-        "text": "(INDISTINCT YELLING)"
+        "episode": "S01E02", 
+        "text": "- (POP MUSIC PLAYING)<br />- (INDISTINCT CHATTER)"
     }, 
     {
-        "start": "00:00:07,600", 
+        "end": "00:00:15,367", 
+        "start": "00:00:14,320", 
         "num": 2, 
-        "end": "00:00:10,331", 
-        "text": "DAN: <i>I'll rip your dick<br />off, you son of</i> a <i>bitch!</i>"
+        "episode": "S01E02", 
+        "text": "- (KNOCKING)<br />- Holy shit."
     }, 
     {
-        "start": "00:00:10,440", 
+        "end": "00:00:18,121", 
+        "start": "00:00:17,040", 
         "num": 3, 
-        "end": "00:00:11,726", 
-        "text": "<i>My eye!</i>"
+        "episode": "S01E02", 
+        "text": "What the fuck is that?"
     }, 
     {
-        "start": "00:00:12,440", 
+        "end": "00:00:21,369", 
+        "start": "00:00:18,320", 
         "num": 4, 
-        "end": "00:00:14,647", 
-        "text": "On behalf of the entire Disrupt conference,"
+        "episode": "S01E02", 
+        "text": "Uh, that is Jared Dunn."
     }, 
     {
-        "start": "00:00:14,720", 
+        "end": "00:00:23,044", 
+        "start": "00:00:21,440", 
         "num": 5, 
-        "end": "00:00:19,442", 
-        "text": "I would like to apologize<br />for what happened out there this afternoon."
+        "episode": "S01E02", 
+        "text": "He works for Gavin Belson."
     }, 
     {
-        "start": "00:00:19,560", 
+        "end": "00:00:28,491", 
+        "start": "00:00:25,760", 
         "num": 6, 
-        "end": "00:00:22,530", 
-        "text": "This man will never be<br />asked to judge again."
+        "episode": "S01E02", 
+        "text": "Hey. Sorry if I scared you."
     }, 
     {
-        "start": "00:00:22,720", 
+        "end": "00:00:31,882", 
+        "start": "00:00:28,560", 
         "num": 7, 
-        "end": "00:00:25,929", 
-        "text": "I've just learned he's been, uh,<br />fired from Oracle,"
+        "episode": "S01E02", 
+        "text": "I know I have somewhat ghost-like features."
     }, 
     {
-        "start": "00:00:26,000", 
+        "end": "00:00:35,328", 
+        "start": "00:00:31,960", 
         "num": 8, 
-        "end": "00:00:27,525", 
-        "text": "and apparently his wife left him."
+        "episode": "S01E02", 
+        "text": "My uncle used to say, \"You look like<br />someone starved a virgin to death.\""
     }, 
     {
-        "start": "00:00:27,880", 
+        "end": "00:00:37,490", 
+        "start": "00:00:36,000", 
         "num": 9, 
-        "end": "00:00:32,363", 
-        "text": "Anyway, I just got a call from<br />your attorney, Mr. LaFlamme,"
+        "episode": "S01E02", 
+        "text": "It's... Yeah. I can see it."
     }, 
     {
-        "start": "00:00:32,440", 
+        "end": "00:00:38,607", 
+        "start": "00:00:37,560", 
         "num": 10, 
-        "end": "00:00:37,731", 
-        "text": "informing me that in his view, this<br />incident is actionable. (CLEARS THROAT)"
+        "episode": "S01E02", 
+        "text": "- Mmm.<br />- Mmm-hmm."
     }, 
     {
-        "start": "00:00:37,960", 
+        "end": "00:00:42,849", 
+        "start": "00:00:41,120", 
         "num": 11, 
-        "end": "00:00:41,965", 
-        "text": "Uh, and in addition to<br />holding TechCrunch liable for any damages,"
+        "episode": "S01E02", 
+        "text": "I heard you were having a launch party."
     }, 
     {
-        "start": "00:00:42,040", 
+        "end": "00:00:45,682", 
+        "start": "00:00:43,520", 
         "num": 12, 
-        "end": "00:00:44,008", 
-        "text": "which may include the loss to Pied Piper"
+        "episode": "S01E02", 
+        "text": "- Yeah.<br />- Am I early?"
     }, 
     {
-        "start": "00:00:44,080", 
+        "end": "00:00:47,201", 
+        "start": "00:00:46,200", 
         "num": 13, 
-        "end": "00:00:47,721", 
-        "text": "of potentially billions<br />in revenue and share value, uh,"
+        "episode": "S01E02", 
+        "text": "No."
     }, 
     {
-        "start": "00:00:47,800", 
+        "end": "00:00:52,764", 
+        "start": "00:00:49,920", 
         "num": 14, 
-        "end": "00:00:52,442", 
-        "text": "he may be naming me<br />personally in a lawsuit."
+        "episode": "S01E02", 
+        "text": "Well, then a gift of congratulations."
     }, 
     {
-        "start": "00:00:52,800", 
+        "end": "00:00:54,280", 
+        "start": "00:00:53,040", 
         "num": 15, 
-        "end": "00:00:57,727", 
-        "text": "So, I would like to propose that we,<br />uh, put this incident behind us,"
+        "episode": "S01E02", 
+        "text": "Now if Gavin sent you here,"
     }, 
     {
-        "start": "00:00:57,800", 
+        "end": "00:00:55,805", 
+        "start": "00:00:54,360", 
         "num": 16, 
-        "end": "00:01:03,125", 
-        "text": "legally speaking, uh, by sending Pied Piper<br />directly through to the finals"
+        "episode": "S01E02", 
+        "text": "you should know that I've turned him down."
     }, 
     {
-        "start": "00:01:03,200", 
+        "end": "00:00:56,881", 
+        "start": "00:00:55,880", 
         "num": 17, 
-        "end": "00:01:07,603", 
-        "text": "of Startup Battlefield,<br />where you will compete for the grand prize."
+        "episode": "S01E02", 
+        "text": "I'm going with Peter Gregory."
     }, 
     {
-        "start": "00:01:08,280", 
+        "end": "00:00:58,485", 
+        "start": "00:00:56,960", 
         "num": 18, 
-        "end": "00:01:10,248", 
-        "text": "- How does that sound?<br />- I think that's..."
+        "episode": "S01E02", 
+        "text": "I'm actually picking up my check tomorrow."
     }, 
     {
-        "start": "00:01:10,320", 
+        "end": "00:00:59,846", 
+        "start": "00:00:58,560", 
         "num": 19, 
-        "end": "00:01:15,008", 
-        "text": "One question, uh,<br />regarding our hotel accommodations?"
+        "episode": "S01E02", 
+        "text": "So I've made my decision."
     }, 
     {
-        "start": "00:01:21,680", 
+        "end": "00:01:02,491", 
+        "start": "00:00:59,920", 
         "num": 20, 
-        "end": "00:01:24,251", 
-        "text": "Barn! Am I right, guys?"
+        "episode": "S01E02", 
+        "text": "That's not why I'm here.<br />It's just... (SIGHS)"
     }, 
     {
-        "start": "00:01:24,840", 
+        "end": "00:01:06,647", 
+        "start": "00:01:03,200", 
         "num": 21, 
-        "end": "00:01:25,966", 
-        "text": "(CHUCKLES)"
+        "episode": "S01E02", 
+        "text": "Watching you say no to $10 million<br />to build your own thing,"
     }, 
     {
-        "start": "00:01:26,040", 
+        "end": "00:01:09,371", 
+        "start": "00:01:06,720", 
         "num": 22, 
-        "end": "00:01:28,805", 
-        "text": "I was just happy<br />you got punched in the face, Erlich,"
+        "episode": "S01E02", 
+        "text": "there's just something<br />very exciting about that."
     }, 
     {
-        "start": "00:01:28,880", 
+        "end": "00:01:12,006", 
+        "start": "00:01:09,480", 
         "num": 23, 
-        "end": "00:01:32,566", 
-        "text": "but now I'm super happy.<br />I feel like I won twice."
+        "episode": "S01E02", 
+        "text": "Whoa. Whoa, whoa! What is he doing here?"
     }, 
     {
-        "start": "00:01:32,760", 
+        "end": "00:01:14,846", 
+        "start": "00:01:12,320", 
         "num": 24, 
-        "end": "00:01:34,842", 
-        "text": "I'm gonna disrupt this bathroom."
+        "episode": "S01E02", 
+        "text": "Hey, this is a private party, buddy.<br />I'm gonna have to ask you to leave."
     }, 
     {
-        "start": "00:01:37,080", 
+        "end": "00:01:17,367", 
+        "start": "00:01:15,080", 
         "num": 25, 
-        "end": "00:01:40,289", 
-        "text": "I don't think this couch pulls out.<br />I guess I'll get myself a roll-away bed."
+        "episode": "S01E02", 
+        "text": "- Oh, I didn't mean to...<br />- You know, in the state of California"
     }, 
     {
-        "start": "00:01:40,600", 
+        "end": "00:01:20,330", 
+        "start": "00:01:17,440", 
         "num": 26, 
-        "end": "00:01:44,321", 
-        "text": "I mean, you're welcome, guys.<br />I had to fuck a wife and take a punch,"
+        "episode": "S01E02", 
+        "text": "you can kill a man for entering<br />your house without permission."
     }, 
     {
-        "start": "00:01:44,400", 
+        "end": "00:01:23,006", 
+        "start": "00:01:20,400", 
         "num": 27, 
-        "end": "00:01:46,721", 
-        "text": "but now we get to go<br />into the finals tomorrow"
+        "episode": "S01E02", 
+        "text": "Okay. I understand. Thank you."
     }, 
     {
-        "start": "00:01:46,800", 
+        "end": "00:01:24,281", 
+        "start": "00:01:23,280", 
         "num": 28, 
-        "end": "00:01:48,848", 
-        "text": "without having blown our<br />wad in the prelims."
+        "episode": "S01E02", 
+        "text": "Oh."
     }, 
     {
-        "start": "00:01:49,520", 
+        "end": "00:01:28,160", 
+        "start": "00:01:25,680", 
         "num": 29, 
-        "end": "00:01:51,966", 
-        "text": "We're trending up, boys.<br />We are trending up."
+        "episode": "S01E02", 
+        "text": "Richard, I just wanna say,<br />I really respect what you're doing here."
     }, 
     {
-        "start": "00:01:52,040", 
+        "end": "00:01:32,086", 
+        "start": "00:01:28,320", 
         "num": 30, 
-        "end": "00:01:54,247", 
-        "text": "Maybe you're right.<br />But, uh, we should probably"
+        "episode": "S01E02", 
+        "text": "And if you could ever use someone<br />with my business-development skill set,"
     }, 
     {
-        "start": "00:01:54,320", 
+        "end": "00:01:34,731", 
+        "start": "00:01:32,160", 
         "num": 31, 
-        "end": "00:01:56,721", 
-        "text": "get back down there<br />and check out the competition."
+        "episode": "S01E02", 
+        "text": "- I would love to be a part of this.<br />- The fuck you will be."
     }, 
     {
-        "start": "00:01:57,160", 
+        "end": "00:01:37,328", 
+        "start": "00:01:35,280", 
         "num": 32, 
-        "end": "00:02:00,209", 
-        "text": "- MAN: <i>Ladies and gentlemen, Gavin Belson.<br />- (APPLAUSE)</i>"
+        "episode": "S01E02", 
+        "text": "We'll call you when we want pleated khakis."
     }, 
     {
-        "start": "00:02:03,200", 
+        "end": "00:01:44,447", 
+        "start": "00:01:42,160", 
         "num": 33, 
-        "end": "00:02:06,727", 
-        "text": "<i>No matter what you may have heard,<br />size matters.</i>"
+        "episode": "S01E02", 
+        "text": "You know this is a fucking domestic?"
     }, 
     {
-        "start": "00:02:07,320", 
+        "end": "00:01:46,204", 
+        "start": "00:01:44,520", 
         "num": 34, 
-        "end": "00:02:11,041", 
-        "text": "<i>Welcome, everyone,<br />to a journey into the Nucleus.</i>"
+        "episode": "S01E02", 
+        "text": "Why were you so mean to him?"
     }, 
     {
-        "start": "00:02:11,120", 
+        "end": "00:01:48,567", 
+        "start": "00:01:46,360", 
         "num": 35, 
-        "end": "00:02:12,360", 
-        "text": "I hope this sucks."
+        "episode": "S01E02", 
+        "text": "He wasn't spying on us.<br />He just said he likes us."
     }, 
     {
-        "start": "00:02:12,440", 
+        "end": "00:01:50,768", 
+        "start": "00:01:48,640", 
         "num": 36, 
-        "end": "00:02:15,046", 
-        "text": "<i>Nucleus will provide the<br />most diverse features</i>"
+        "episode": "S01E02", 
+        "text": "- He wants to join the company.<br />- Of course he does, Richard."
     }, 
     {
-        "start": "00:02:15,120", 
+        "end": "00:01:52,166", 
+        "start": "00:01:50,880", 
         "num": 37, 
-        "end": "00:02:17,726", 
-        "text": "<i>ever assembled in<br />a cloud-based compression suite.</i>"
+        "episode": "S01E02", 
+        "text": "Let me explain something to you."
     }, 
     {
-        "start": "00:02:17,960", 
+        "end": "00:01:54,641", 
+        "start": "00:01:52,240", 
         "num": 38, 
-        "end": "00:02:21,043", 
-        "text": "<i>Massive functionality, inter-connectivity,</i>"
+        "episode": "S01E02", 
+        "text": "Your whole life you've been an ugly chick,"
     }, 
     {
-        "start": "00:02:21,160", 
+        "end": "00:01:56,967", 
+        "start": "00:01:54,760", 
         "num": 39, 
-        "end": "00:02:24,403", 
-        "text": "<i>and the simplicity one has come<br />to expect from the Hooli family.</i>"
+        "episode": "S01E02", 
+        "text": "but now suddenly you're a hot chick,"
     }, 
     {
-        "start": "00:02:24,480", 
+        "end": "00:01:58,963", 
+        "start": "00:01:57,040", 
         "num": 40, 
-        "end": "00:02:28,883", 
-        "text": "<i>We're making all your files available<br />for lightning-fast download.</i>"
+        "episode": "S01E02", 
+        "text": "with big tits and small nipples."
     }, 
     {
-        "start": "00:02:29,160", 
+        "end": "00:02:00,883", 
+        "start": "00:01:59,040", 
         "num": 41, 
-        "end": "00:02:30,969", 
-        "text": "<i>Accessible from any device.</i>"
+        "episode": "S01E02", 
+        "text": "So guys like that<br />are gonna keep coming around."
     }, 
     {
-        "start": "00:02:31,240", 
+        "end": "00:02:02,485", 
+        "start": "00:02:01,040", 
         "num": 42, 
-        "end": "00:02:35,484", 
-        "text": "<i>AH these features will be<br />seamlessly synced to Hooli-mail,</i>"
+        "episode": "S01E02", 
+        "text": "Don't be a slut, Richard."
     }, 
     {
-        "start": "00:02:35,560", 
+        "end": "00:02:04,200", 
+        "start": "00:02:02,920", 
         "num": 43, 
-        "end": "00:02:39,770", 
-        "text": "<i>Hooli-search and the full suite<br />of Hooli computing power.</i>"
+        "episode": "S01E02", 
+        "text": "- I don't...<br />- (DOORBELL RINGING)"
     }, 
     {
-        "start": "00:02:39,840", 
+        "end": "00:02:06,808", 
+        "start": "00:02:04,680", 
         "num": 44, 
-        "end": "00:02:41,649", 
-        "text": "That's a lot of functionality."
+        "episode": "S01E02", 
+        "text": "Now speaking of such things,"
     }, 
     {
-        "start": "00:02:41,720", 
+        "end": "00:02:09,121", 
+        "start": "00:02:06,880", 
         "num": 45, 
-        "end": "00:02:44,401", 
-        "text": "(WHISPERING) Don't worry,<br />he can't come close to our Weissman score."
+        "episode": "S01E02", 
+        "text": "Dinesh, change the lighting<br />to something erotic"
     }, 
     {
-        "start": "00:02:44,640", 
+        "end": "00:02:12,761", 
+        "start": "00:02:09,200", 
         "num": 46, 
-        "end": "00:02:48,167", 
-        "text": "Even with all this extra shit,<br />it's like a fancy car with a crappy engine."
+        "episode": "S01E02", 
+        "text": "because it's about to get<br />pretty fucking erotic in here."
     }, 
     {
-        "start": "00:02:48,240", 
+        "end": "00:02:16,566", 
+        "start": "00:02:12,880", 
         "num": 47, 
-        "end": "00:02:50,527", 
-        "text": "<i>And now, for the moment of truth.</i>"
+        "episode": "S01E02", 
+        "text": "License to Kill-9. IBAction-dot-Erotica."
     }, 
     {
-        "start": "00:02:50,920", 
+        "end": "00:02:19,130", 
+        "start": "00:02:17,480", 
         "num": 48, 
-        "end": "00:02:56,927", 
-        "text": "<i>As you will now see, our Weissman score<br />is the best in the history of compression.</i>"
+        "episode": "S01E02", 
+        "text": "What... What's going on?"
     }, 
     {
-        "start": "00:02:57,920", 
+        "end": "00:02:22,449", 
+        "start": "00:02:19,320", 
         "num": 49, 
-        "end": "00:02:58,921", 
-        "text": "(CROWD GASPING)"
+        "episode": "S01E02", 
+        "text": "- What's happening?<br />- Gentlemen, I present to you"
     }, 
     {
-        "start": "00:02:59,440", 
+        "end": "00:02:25,130", 
+        "start": "00:02:23,560", 
         "num": 50, 
-        "end": "00:03:00,487", 
+        "episode": "S01E02", 
+        "text": "Mochacino."
+    }, 
+    {
+        "end": "00:02:26,806", 
+        "start": "00:02:25,520", 
+        "num": 51, 
+        "episode": "S01E02", 
+        "text": "Not this guy."
+    }, 
+    {
+        "end": "00:02:28,761", 
+        "start": "00:02:27,600", 
+        "num": 52, 
+        "episode": "S01E02", 
+        "text": "Mochacino."
+    }, 
+    {
+        "end": "00:02:32,084", 
+        "start": "00:02:30,400", 
+        "num": 53, 
+        "episode": "S01E02", 
+        "text": "She's my gift to you."
+    }, 
+    {
+        "end": "00:02:37,523", 
+        "start": "00:02:35,680", 
+        "num": 54, 
+        "episode": "S01E02", 
+        "text": "You wanna smoke weed?"
+    }, 
+    {
+        "end": "00:02:42,841", 
+        "start": "00:02:41,840", 
+        "num": 55, 
+        "episode": "S01E02", 
+        "text": "(SIGHS)"
+    }, 
+    {
+        "end": "00:02:44,761", 
+        "start": "00:02:43,760", 
+        "num": 56, 
+        "episode": "S01E02", 
+        "text": "Um..."
+    }, 
+    {
+        "end": "00:02:48,281", 
+        "start": "00:02:47,120", 
+        "num": 57, 
+        "episode": "S01E02", 
+        "text": "MOCHACINO: Hey."
+    }, 
+    {
+        "end": "00:02:50,568", 
+        "start": "00:02:48,520", 
+        "num": 58, 
+        "episode": "S01E02", 
+        "text": "Can somebody play something<br />with a beat, please?"
+    }, 
+    {
+        "end": "00:02:52,768", 
+        "start": "00:02:50,720", 
+        "num": 59, 
+        "episode": "S01E02", 
+        "text": "I'll go make a playlist."
+    }, 
+    {
+        "end": "00:02:56,208", 
+        "start": "00:02:52,840", 
+        "num": 60, 
+        "episode": "S01E02", 
+        "text": "Yeah. I actually have<br />some water cooking, I think."
+    }, 
+    {
+        "end": "00:02:59,289", 
+        "start": "00:02:57,560", 
+        "num": 61, 
+        "episode": "S01E02", 
+        "text": "(SPEAKING HINDI)"
+    }, 
+    {
+        "end": "00:03:06,163", 
+        "start": "00:03:04,240", 
+        "num": 62, 
+        "episode": "S01E02", 
+        "text": "Yeah, I don't pay for it, so"
+    }, 
+    {
+        "end": "00:03:09,087", 
+        "start": "00:03:06,720", 
+        "num": 63, 
+        "episode": "S01E02", 
+        "text": "barking up the wrong tree here."
+    }, 
+    {
+        "end": "00:03:11,801", 
+        "start": "00:03:10,640", 
+        "num": 64, 
+        "episode": "S01E02", 
+        "text": "God, I hate Palo Alto."
+    }, 
+    {
+        "end": "00:03:14,362", 
+        "start": "00:03:12,360", 
+        "num": 65, 
+        "episode": "S01E02", 
+        "text": "(THEME MUSIC PLAYING)"
+    }, 
+    {
+        "end": "00:03:24,641", 
+        "start": "00:03:23,640", 
+        "num": 66, 
+        "episode": "S01E02", 
+        "text": "<i>(CLEARS THROAT)</i>"
+    }, 
+    {
+        "end": "00:03:26,371", 
+        "start": "00:03:24,960", 
+        "num": 67, 
+        "episode": "S01E02", 
+        "text": "Hello again."
+    }, 
+    {
+        "end": "00:03:28,124", 
+        "start": "00:03:26,440", 
+        "num": 68, 
+        "episode": "S01E02", 
+        "text": "You know, I don't actually have<br />a ton of dance music,"
+    }, 
+    {
+        "end": "00:03:29,360", 
+        "start": "00:03:28,200", 
+        "num": 69, 
+        "episode": "S01E02", 
+        "text": "but I turned the bass way up."
+    }, 
+    {
+        "end": "00:03:31,051", 
+        "start": "00:03:29,640", 
+        "num": 70, 
+        "episode": "S01E02", 
+        "text": "Baby,"
+    }, 
+    {
+        "end": "00:03:32,645", 
+        "start": "00:03:31,120", 
+        "num": 71, 
+        "episode": "S01E02", 
+        "text": "you're getting a private show."
+    }, 
+    {
+        "end": "00:03:35,204", 
+        "start": "00:03:33,520", 
+        "num": 72, 
+        "episode": "S01E02", 
+        "text": "Hey-"
+    }, 
+    {
+        "end": "00:03:36,964", 
+        "start": "00:03:35,280", 
+        "num": 73, 
+        "episode": "S01E02", 
         "text": "What the fuck?"
     }, 
     {
-        "start": "00:03:00,560", 
-        "num": 51, 
-        "end": "00:03:02,528", 
-        "text": "That's exactly the same score as us."
-    }, 
-    {
-        "start": "00:03:02,760", 
-        "num": 52, 
-        "end": "00:03:06,446", 
-        "text": "<i>2.89. That is not an error.</i>"
-    }, 
-    {
-        "start": "00:03:07,080", 
-        "num": 53, 
-        "end": "00:03:12,086", 
-        "text": "<i>We are breathing rare air here, operating<br />at the limit for lossless compression</i>"
-    }, 
-    {
-        "start": "00:03:12,560", 
-        "num": 54, 
-        "end": "00:03:14,961", 
-        "text": "<i>in audio, video and</i> data."
-    }, 
-    {
-        "start": "00:03:15,440", 
-        "num": 55, 
-        "end": "00:03:20,048", 
-        "text": "<i>Anyone who tells you that their platform is<br />faster than ours better have good lawyers.</i>"
-    }, 
-    {
-        "start": "00:03:21,080", 
-        "num": 56, 
-        "end": "00:03:23,401", 
-        "text": "<i>I hope you've enjoyed your journey<br />into the Nucleus.</i>"
-    }, 
-    {
-        "start": "00:03:23,720", 
-        "num": 57, 
-        "end": "00:03:28,442", 
-        "text": "<i>We have the speed. We have the features.<br />And we have...</i>"
-    }, 
-    {
-        "start": "00:03:28,560", 
-        "num": 58, 
-        "end": "00:03:29,561", 
-        "text": "Shakira!"
-    }, 
-    {
-        "start": "00:03:29,640", 
-        "num": 59, 
-        "end": "00:03:31,324", 
-        "text": "- (HIPS DON'T LIE PLAYING)<br />- (APPLAUSE)"
-    }, 
-    {
-        "start": "00:03:31,440", 
-        "num": 60, 
-        "end": "00:03:33,010", 
-        "text": "(CHEERING)"
-    }, 
-    {
-        "start": "00:03:33,920", 
-        "num": 61, 
-        "end": "00:03:35,365", 
-        "text": "SHAKIRA: Hola, TechCrunch!"
-    }, 
-    {
-        "start": "00:03:48,240", 
-        "num": 62, 
-        "end": "00:03:50,561", 
-        "text": "I mean, they just completely"
-    }, 
-    {
-        "start": "00:03:50,640", 
-        "num": 63, 
-        "end": "00:03:53,484", 
-        "text": "reverse-engineered<br />our entire compression engine."
-    }, 
-    {
-        "start": "00:03:53,560", 
-        "num": 64, 
-        "end": "00:03:55,130", 
-        "text": "He totally sniped us."
-    }, 
-    {
-        "start": "00:03:55,360", 
-        "num": 65, 
-        "end": "00:03:57,010", 
-        "text": "- We'll be fine.<br />- What?"
-    }, 
-    {
-        "start": "00:03:57,560", 
-        "num": 66, 
-        "end": "00:04:00,643", 
-        "text": "They judge this contest<br />on viability in the marketplace."
-    }, 
-    {
-        "start": "00:04:01,080", 
-        "num": 67, 
-        "end": "00:04:04,402", 
-        "text": "I mean, at best,<br />we're a worse version of Nucleus."
-    }, 
-    {
-        "start": "00:04:04,680", 
-        "num": 68, 
-        "end": "00:04:07,047", 
-        "text": "I mean, they have 50 modules,<br />and they're all awesome."
-    }, 
-    {
-        "start": "00:04:07,120", 
-        "num": 69, 
-        "end": "00:04:08,770", 
-        "text": "We have five that barely work."
-    }, 
-    {
-        "start": "00:04:08,840", 
-        "num": 70, 
-        "end": "00:04:12,765", 
-        "text": "I mean, we're still having trouble compressing 3-D files.<br />Who's lining up to buy that?"
-    }, 
-    {
-        "start": "00:04:12,840", 
-        "num": 71, 
-        "end": "00:04:14,251", 
-        "text": "Who the fuck cares?"
-    }, 
-    {
-        "start": "00:04:14,320", 
-        "num": 72, 
-        "end": "00:04:18,644", 
-        "text": "So the platform can't handle 3-D files.<br />You know what, 3-D movies suck anyway."
-    }, 
-    {
-        "start": "00:04:18,840", 
-        "num": 73, 
-        "end": "00:04:21,650", 
-        "text": "I could actually argue this Gavin nonsense<br />is a positive."
-    }, 
-    {
-        "start": "00:04:21,720", 
+        "end": "00:03:38,929", 
+        "start": "00:03:37,040", 
         "num": 74, 
-        "end": "00:04:22,721", 
-        "text": "Please don't."
+        "episode": "S01E02", 
+        "text": "Okay. There's the butt time."
     }, 
     {
-        "start": "00:04:22,800", 
+        "end": "00:03:43,089", 
+        "start": "00:03:41,280", 
         "num": 75, 
-        "end": "00:04:25,007", 
-        "text": "We just need to really dial it up<br />for the big show tomorrow."
+        "episode": "S01E02", 
+        "text": "Should we have left him<br />in there by himself?"
     }, 
     {
-        "start": "00:04:25,080", 
+        "end": "00:03:44,440", 
+        "start": "00:03:43,200", 
         "num": 76, 
-        "end": "00:04:26,684", 
-        "text": "Dial what up? He just ruined us."
+        "episode": "S01E02", 
+        "text": "Should we go back in there?"
     }, 
     {
-        "start": "00:04:26,760", 
+        "end": "00:03:47,091", 
+        "start": "00:03:44,520", 
         "num": 77, 
-        "end": "00:04:30,128", 
-        "text": "And until then, we need to do what any<br />animal in nature does when it's cornered,"
+        "episode": "S01E02", 
+        "text": "No interest. I entice the flesh,<br />I don't pay for it."
     }, 
     {
-        "start": "00:04:30,200", 
+        "end": "00:03:48,844", 
+        "start": "00:03:47,160", 
         "num": 78, 
-        "end": "00:04:33,568", 
-        "text": "act erratically, and blindly lash<br />out at everything around us."
+        "episode": "S01E02", 
+        "text": "Plus, Tara's coming into town<br />in a couple of weeks."
     }, 
     {
-        "start": "00:04:33,640", 
+        "end": "00:03:50,649", 
+        "start": "00:03:48,920", 
         "num": 79, 
-        "end": "00:04:35,210", 
-        "text": "I'm gonna go get in Gavin's head."
+        "episode": "S01E02", 
+        "text": "I'm saving up all my humors for her."
     }, 
     {
-        "start": "00:04:35,480", 
+        "end": "00:03:52,051", 
+        "start": "00:03:50,720", 
         "num": 80, 
-        "end": "00:04:39,451", 
-        "text": "Hey, guys, I just had a thought.<br />Okay, so this is it, right?"
+        "episode": "S01E02", 
+        "text": "You know what I mean?"
     }, 
     {
-        "start": "00:04:39,520", 
+        "end": "00:03:53,963", 
+        "start": "00:03:52,120", 
         "num": 81, 
-        "end": "00:04:42,808", 
-        "text": "A lot of successful start-ups launched<br />with a different business model,"
+        "episode": "S01E02", 
+        "text": "- What's your excuse?<br />- I didn't even shake"
     }, 
     {
-        "start": "00:04:42,880", 
+        "end": "00:03:56,725", 
+        "start": "00:03:54,040", 
         "num": 82, 
-        "end": "00:04:45,804", 
-        "text": "and when they ran into trouble,<br />they pivoted to something new, right?"
+        "episode": "S01E02", 
+        "text": "a woman's hand until I was 17 years old."
     }, 
     {
-        "start": "00:04:45,880", 
+        "end": "00:04:00,242", 
+        "start": "00:03:56,840", 
         "num": 83, 
-        "end": "00:04:49,771", 
-        "text": "Like lnstagram. That was a location-based<br />check-in service when it started,"
+        "episode": "S01E02", 
+        "text": "The idea of getting an erection<br />around men I live and work with,"
     }, 
     {
-        "start": "00:04:49,840", 
+        "end": "00:04:03,369", 
+        "start": "00:04:00,320", 
         "num": 84, 
-        "end": "00:04:50,887", 
-        "text": "and then they pivoted."
+        "episode": "S01E02", 
+        "text": "it's just not something I can handle."
     }, 
     {
-        "start": "00:04:51,040", 
+        "end": "00:04:05,568", 
+        "start": "00:04:03,440", 
         "num": 85, 
-        "end": "00:04:53,520", 
-        "text": "Or Chatroulette, okay,<br />that was social media,"
+        "episode": "S01E02", 
+        "text": "The idea that I have a boner<br />and you have a boner"
     }, 
     {
-        "start": "00:04:53,600", 
+        "end": "00:04:06,966", 
+        "start": "00:04:05,680", 
         "num": 86, 
-        "end": "00:04:57,685", 
-        "text": "and then they pivoted to become<br />a playground for the sexually monstrous."
+        "episode": "S01E02", 
+        "text": "and he has a boner and<br />we're all sitting there"
     }, 
     {
-        "start": "00:04:58,120", 
+        "end": "00:04:08,565", 
+        "start": "00:04:07,040", 
         "num": 87, 
-        "end": "00:05:01,488", 
-        "text": "We just need a new idea, something that<br />people want. Right? We can pivot, too."
+        "episode": "S01E02", 
+        "text": "with boners in our pants..."
     }, 
     {
-        "start": "00:05:01,880", 
+        "end": "00:04:10,764", 
+        "start": "00:04:09,000", 
         "num": 88, 
-        "end": "00:05:05,601", 
-        "text": "- Dude, you are fucked up right now.<br />- Yeah, you're pinning bad."
+        "episode": "S01E02", 
+        "text": "I wonder if he's okay in there."
     }, 
     {
-        "start": "00:05:05,680", 
+        "end": "00:04:13,640", 
+        "start": "00:04:11,160", 
         "num": 89, 
-        "end": "00:05:07,330", 
-        "text": "Well, I'll admit, I'm sleep-challenged."
+        "episode": "S01E02", 
+        "text": "So what do you guys do here?"
     }, 
     {
-        "start": "00:05:07,400", 
+        "end": "00:04:17,088", 
+        "start": "00:04:13,720", 
         "num": 90, 
-        "end": "00:05:10,483", 
-        "text": "I just spent four days<br />trapped in a steel box out on an oil rig"
+        "episode": "S01E02", 
+        "text": "Oh, we're mostly working on<br />a lossless compression algorithm."
     }, 
     {
-        "start": "00:05:10,560", 
+        "end": "00:04:20,084", 
+        "start": "00:04:18,480", 
         "num": 91, 
-        "end": "00:05:12,050", 
-        "text": "full of robot-forklifts."
+        "episode": "S01E02", 
+        "text": "- A what?<br />- It makes files smaller."
     }, 
     {
-        "start": "00:05:12,120", 
+        "end": "00:04:21,810", 
+        "start": "00:04:20,160", 
         "num": 92, 
-        "end": "00:05:14,441", 
-        "text": "So, that was hard, but I'm back."
+        "episode": "S01E02", 
+        "text": "Doesn't matter. It's called Pied Piper."
     }, 
     {
-        "start": "00:05:14,520", 
+        "end": "00:04:24,360", 
+        "start": "00:04:21,880", 
         "num": 93, 
-        "end": "00:05:18,809", 
-        "text": "I am recovering and I am focused and we're<br />gonna pivot. Don't lose faith, guys."
+        "episode": "S01E02", 
+        "text": "It's gonna be famous.<br />You'll know it, eventually."
     }, 
     {
-        "start": "00:05:18,960", 
+        "end": "00:04:28,320", 
+        "start": "00:04:25,800", 
         "num": 94, 
-        "end": "00:05:21,167", 
-        "text": "All right, look at me. Look at me.<br />Look at me."
+        "episode": "S01E02", 
+        "text": "Who was this woman that you shook<br />hands with for the first time?"
     }, 
     {
-        "start": "00:05:22,240", 
+        "end": "00:04:29,847", 
+        "start": "00:04:28,800", 
         "num": 95, 
-        "end": "00:05:24,720", 
-        "text": "We've got a great name.<br />We've got a great team."
+        "episode": "S01E02", 
+        "text": "The postman lady."
     }, 
     {
-        "start": "00:05:24,800", 
+        "end": "00:04:32,128", 
+        "start": "00:04:30,160", 
         "num": 96, 
-        "end": "00:05:27,246", 
-        "text": "We've got a great logo,<br />and we've got a great name."
+        "episode": "S01E02", 
+        "text": "- What?<br />- A woman that was a man?"
     }, 
     {
-        "start": "00:05:27,400", 
+        "end": "00:04:34,328", 
+        "start": "00:04:32,200", 
         "num": 97, 
-        "end": "00:05:28,925", 
-        "text": "Now we just need an idea."
+        "episode": "S01E02", 
+        "text": "Not a post-man lady."
     }, 
     {
-        "start": "00:05:29,080", 
+        "end": "00:04:36,607", 
+        "start": "00:04:34,400", 
         "num": 98, 
-        "end": "00:05:31,560", 
-        "text": "Let's pivot! Let's pivot!"
+        "episode": "S01E02", 
+        "text": "- A lady who was a post...<br />- Let me ask you another question."
     }, 
     {
-        "start": "00:05:34,600", 
+        "end": "00:04:38,648", 
+        "start": "00:04:36,680", 
         "num": 99, 
-        "end": "00:05:36,602", 
-        "text": "That might be the last<br />time we see him alive."
+        "episode": "S01E02", 
+        "text": "Who was the second woman<br />you shook hands with?"
     }, 
     {
-        "start": "00:05:36,680", 
+        "end": "00:04:39,846", 
+        "start": "00:04:38,720", 
         "num": 100, 
-        "end": "00:05:39,843", 
-        "text": "Ah, I think I'm just gonna take a walk<br />and, you know, try and clear my head."
+        "episode": "S01E02", 
+        "text": "BIG HEAD: I didn't even know<br />you were coming."
     }, 
     {
-        "start": "00:05:39,920", 
+        "end": "00:04:41,331", 
+        "start": "00:04:39,920", 
         "num": 101, 
-        "end": "00:05:44,767", 
-        "text": "I'll see you guys back at the hotel room<br />and we'll figure out what to do."
+        "episode": "S01E02", 
+        "text": "- MOCHACINO: Stop. Doug!<br />- Oh, boy."
     }, 
     {
-        "start": "00:05:46,920", 
+        "end": "00:04:43,041", 
+        "start": "00:04:42,040", 
         "num": 102, 
-        "end": "00:05:48,445", 
-        "text": "We're going to be poor."
+        "episode": "S01E02", 
+        "text": "- Stop.<br />- I'm the one..."
     }, 
     {
-        "start": "00:05:49,760", 
+        "end": "00:04:45,122", 
+        "start": "00:04:43,120", 
         "num": 103, 
-        "end": "00:05:53,810", 
-        "text": "Hi! I'd like to talk to you<br />about a company called Pied Piper."
+        "episode": "S01E02", 
+        "text": "Someone is paying me. Okay? I didn't come"
     }, 
     {
-        "start": "00:05:53,880", 
+        "end": "00:04:47,487", 
+        "start": "00:04:45,200", 
         "num": 104, 
-        "end": "00:05:55,450", 
-        "text": "What does it do? Good question."
+        "episode": "S01E02", 
+        "text": "just to dance on your<br />boner all night for free."
     }, 
     {
-        "start": "00:05:55,600", 
+        "end": "00:04:50,962", 
+        "start": "00:04:47,560", 
         "num": 105, 
-        "end": "00:05:57,170", 
-        "text": "Maybe you can help us find an answer."
+        "episode": "S01E02", 
+        "text": "I was not erect. That was...<br />I was only being polite."
     }, 
     {
-        "start": "00:05:57,560", 
+        "end": "00:04:52,690", 
+        "start": "00:04:51,120", 
         "num": 106, 
-        "end": "00:06:01,406", 
-        "text": "What if Pied Piper was an app<br />that could attract rodents?"
+        "episode": "S01E02", 
+        "text": "So you were being polite when<br />you said that you loved me?"
     }, 
     {
-        "start": "00:06:01,480", 
+        "end": "00:04:55,525", 
+        "start": "00:04:52,760", 
         "num": 107, 
-        "end": "00:06:02,925", 
-        "text": "You know, like the fairy tale?"
+        "episode": "S01E02", 
+        "text": "First off, I said you seemed<br />like someone I could fall in love with."
     }, 
     {
-        "start": "00:06:03,000", 
+        "end": "00:04:57,204", 
+        "start": "00:04:55,600", 
         "num": 108, 
-        "end": "00:06:06,368", 
-        "text": "For purposes of extermination<br />or to feed your pet snake."
+        "episode": "S01E02", 
+        "text": "And, yes, also politeness."
     }, 
     {
-        "start": "00:06:06,440", 
+        "end": "00:04:58,686", 
+        "start": "00:04:57,400", 
         "num": 109, 
-        "end": "00:06:09,284", 
-        "text": "We're not here to tell you<br />what to do with your rats,"
+        "episode": "S01E02", 
+        "text": "Richie, pay the lady."
     }, 
     {
-        "start": "00:06:09,360", 
+        "end": "00:05:01,328", 
+        "start": "00:04:59,360", 
         "num": 110, 
-        "end": "00:06:11,522", 
-        "text": "we're here to get you rats, stat."
+        "episode": "S01E02", 
+        "text": "What? Why should I pay her?"
     }, 
     {
-        "start": "00:06:11,640", 
+        "end": "00:05:03,360", 
+        "start": "00:05:01,400", 
         "num": 111, 
-        "end": "00:06:14,928", 
-        "text": "Would you be very interested,<br />somewhat interested or not interested?"
+        "episode": "S01E02", 
+        "text": "I didn't hire her. I didn't<br />even get a lap dance."
     }, 
     {
-        "start": "00:06:15,000", 
+        "end": "00:05:05,641", 
+        "start": "00:05:03,400", 
         "num": 112, 
-        "end": "00:06:18,721", 
-        "text": "Which one? Which one? Which one?"
+        "episode": "S01E02", 
+        "text": "This is a company party<br />and you're the CEO, so pony up."
     }, 
     {
-        "start": "00:06:21,680", 
+        "end": "00:05:07,882", 
+        "start": "00:05:05,720", 
         "num": 113, 
-        "end": "00:06:25,765", 
-        "text": "Look at them, all full of hope. Pricks."
+        "episode": "S01E02", 
+        "text": "No. If anyone should pay her,<br />it should be you."
     }, 
     {
-        "start": "00:06:26,000", 
+        "end": "00:05:10,960", 
+        "start": "00:05:08,480", 
         "num": 114, 
-        "end": "00:06:28,321", 
-        "text": "GILFOYLE: Oh, look,<br />Kwerpy's here recruiting."
+        "episode": "S01E02", 
+        "text": "Doug, help the CEO find his money."
     }, 
     {
-        "start": "00:06:28,560", 
+        "end": "00:05:13,367", 
+        "start": "00:05:11,080", 
         "num": 115, 
-        "end": "00:06:33,248", 
-        "text": "They just got 20 million in Series A<br />at a $280 million dollar valuation."
+        "episode": "S01E02", 
+        "text": "No. No, no. We don't need help."
     }, 
     {
-        "start": "00:06:33,320", 
+        "end": "00:05:14,680", 
+        "start": "00:05:13,440", 
         "num": 116, 
-        "end": "00:06:35,721", 
-        "text": "- Wow.<br />- That could have been us."
+        "episode": "S01E02", 
+        "text": "I know where it is. It's here."
     }, 
     {
-        "start": "00:06:37,160", 
+        "end": "00:05:16,120", 
+        "start": "00:05:14,880", 
         "num": 117, 
-        "end": "00:06:40,482", 
-        "text": "It's too bad we already have jobs,<br />we could easily go work there."
+        "episode": "S01E02", 
+        "text": "- It's all here.<br />- MOCHACINO: Mmm-hmm."
     }, 
     {
-        "start": "00:06:40,800", 
+        "end": "00:05:17,725", 
+        "start": "00:05:16,200", 
         "num": 118, 
-        "end": "00:06:42,165", 
-        "text": "Yeah."
+        "episode": "S01E02", 
+        "text": "I don't know... Do you accept AMEX?"
     }, 
     {
-        "start": "00:06:43,000", 
+        "end": "00:05:20,531", 
+        "start": "00:05:17,800", 
         "num": 119, 
-        "end": "00:06:46,800", 
-        "text": "It'd be a real dickhead move<br />to bail on Richard now, right?"
+        "episode": "S01E02", 
+        "text": "- You damn right I do.<br />- Put 100 on there for yourself, Mocha."
     }, 
     {
-        "start": "00:06:46,880", 
+        "end": "00:05:22,364", 
+        "start": "00:05:20,680", 
         "num": 120, 
-        "end": "00:06:49,850", 
-        "text": "I mean, before we officially go under."
+        "episode": "S01E02", 
+        "text": "Oh. Well, that's an expensive boner."
     }, 
     {
-        "start": "00:06:50,280", 
+        "end": "00:05:23,441", 
+        "start": "00:05:22,440", 
         "num": 121, 
-        "end": "00:06:53,489", 
-        "text": "- Yeah. Yeah. Total dickhead move.<br />- Yeah. Yeah."
+        "episode": "S01E02", 
+        "text": "Not a boner."
     }, 
     {
-        "start": "00:06:55,800", 
+        "end": "00:05:27,730", 
+        "start": "00:05:26,080", 
         "num": 122, 
-        "end": "00:06:58,690", 
-        "text": "Yeah, even though it is<br />just a matter of days."
+        "episode": "S01E02", 
+        "text": "Thanks for coming in, guys."
     }, 
     {
-        "start": "00:06:58,760", 
+        "end": "00:05:31,768", 
+        "start": "00:05:28,400", 
         "num": 123, 
-        "end": "00:07:02,685", 
-        "text": "- And we are so close.<br />- DINESH: I mean, he is standing right there."
+        "episode": "S01E02", 
+        "text": "We have a lot to do, so let's get started."
     }, 
     {
-        "start": "00:07:03,440", 
+        "end": "00:05:33,361", 
+        "start": "00:05:32,200", 
         "num": 124, 
-        "end": "00:07:05,329", 
-        "text": "- But I'm not a dickhead.<br />- No. Neither am I."
+        "episode": "S01E02", 
+        "text": "Sounds great."
     }, 
     {
-        "start": "00:07:05,400", 
+        "end": "00:05:43,651", 
+        "start": "00:05:42,240", 
         "num": 125, 
-        "end": "00:07:06,840", 
-        "text": "Yep, just a couple of non-dickheads."
+        "episode": "S01E02", 
+        "text": "Me? Okay."
     }, 
     {
-        "start": "00:07:06,880", 
+        "end": "00:05:45,081", 
+        "start": "00:05:44,080", 
         "num": 126, 
-        "end": "00:07:08,086", 
-        "text": "My dick and my head, totally separate."
-    }, 
-    {
-        "start": "00:07:08,160", 
-        "num": 127, 
-        "end": "00:07:10,925", 
-        "text": "You've heard the phrase,<br />\"Time to pay the piper,\" right?"
-    }, 
-    {
-        "start": "00:07:11,680", 
-        "num": 128, 
-        "end": "00:07:15,287", 
-        "text": "What if there was an app<br />called Pied Piper that could tell you,"
-    }, 
-    {
-        "start": "00:07:15,360", 
-        "num": 129, 
-        "end": "00:07:19,160", 
-        "text": "to a statistical degree of certainty,<br />whether you were going to heaven or hell?"
-    }, 
-    {
-        "start": "00:07:19,760", 
-        "num": 130, 
-        "end": "00:07:22,604", 
-        "text": "Very interested, somewhat interested,<br />not interested?"
-    }, 
-    {
-        "start": "00:07:23,280", 
-        "num": 131, 
-        "end": "00:07:26,045", 
-        "text": "Which one? Which one? Which one?"
-    }, 
-    {
-        "start": "00:07:27,120", 
-        "num": 132, 
-        "end": "00:07:29,646", 
-        "text": "So you made some really<br />over-the-top promises about Nucleus."
-    }, 
-    {
-        "start": "00:07:29,760", 
-        "num": 133, 
-        "end": "00:07:31,569", 
-        "text": "- Can you deliver?<br />- Absolutely."
-    }, 
-    {
-        "start": "00:07:32,040", 
-        "num": 134, 
-        "end": "00:07:36,170", 
-        "text": "For me, Kara, goodness, greatness,<br />these are not simply catchphrases,"
-    }, 
-    {
-        "start": "00:07:36,240", 
-        "num": 135, 
-        "end": "00:07:38,527", 
-        "text": "but, in fact, really the intention of Hooli<br />from the beginning."
-    }, 
-    {
-        "start": "00:07:38,600", 
-        "num": 136, 
-        "end": "00:07:41,888", 
-        "text": "Gavin, you do not need<br />to dignify any of this with a response!"
-    }, 
-    {
-        "start": "00:07:41,960", 
-        "num": 137, 
-        "end": "00:07:45,009", 
-        "text": "I can speak for myself.<br />Erlich Bachman, Pied Piper."
-    }, 
-    {
-        "start": "00:07:45,080", 
-        "num": 138, 
-        "end": "00:07:47,208", 
-        "text": "Was I brutally assaulted? Yes."
-    }, 
-    {
-        "start": "00:07:47,520", 
-        "num": 139, 
-        "end": "00:07:50,364", 
-        "text": "Did Gavin Belson here have<br />anything to do with it? Unclear."
-    }, 
-    {
-        "start": "00:07:50,440", 
-        "num": 140, 
-        "end": "00:07:55,367", 
-        "text": "All I know is that the rumor that<br />TechCrunch is all abuzz about is unproven."
-    }, 
-    {
-        "start": "00:07:55,720", 
-        "num": 141, 
-        "end": "00:07:57,210", 
-        "text": "- Wait, what rumor?<br />- Thank you."
-    }, 
-    {
-        "start": "00:07:57,280", 
-        "num": 142, 
-        "end": "00:07:59,601", 
-        "text": "Why would Gavin<br />have anything to do with this?"
-    }, 
-    {
-        "start": "00:07:59,680", 
-        "num": 143, 
-        "end": "00:08:04,811", 
-        "text": "Unless he had some reason to be frightened<br />by Pied Piper and its superior technology?"
-    }, 
-    {
-        "start": "00:08:05,040", 
-        "num": 144, 
-        "end": "00:08:09,364", 
-        "text": "This and all other Gavin Belson rumors<br />are unsubstantiated."
-    }, 
-    {
-        "start": "00:08:09,440", 
-        "num": 145, 
-        "end": "00:08:12,842", 
-        "text": "Okay, the alcoholism,<br />the sexual impropriety at work,"
-    }, 
-    {
-        "start": "00:08:13,160", 
-        "num": 146, 
-        "end": "00:08:15,891", 
-        "text": "the impending crash of Hooli's stock..."
-    }, 
-    {
-        "start": "00:08:16,000", 
-        "num": 147, 
-        "end": "00:08:17,604", 
-        "text": "(CHUCKLES AWKWARDLY)<br />This is the most ridiculous..."
-    }, 
-    {
-        "start": "00:08:17,680", 
-        "num": 148, 
-        "end": "00:08:20,604", 
-        "text": "Exactly. So why repeat<br />the lascivious details,"
-    }, 
-    {
-        "start": "00:08:20,720", 
-        "num": 149, 
-        "end": "00:08:23,485", 
-        "text": "with which all of us<br />are undoubtedly already familiar?"
-    }, 
-    {
-        "start": "00:08:23,560", 
-        "num": 150, 
-        "end": "00:08:26,325", 
-        "text": "Guilty or not, Gavin, I stand with you."
-    }, 
-    {
-        "start": "00:08:27,040", 
-        "num": 151, 
-        "end": "00:08:28,041", 
-        "text": "Care to comment?"
-    }, 
-    {
-        "start": "00:08:32,080", 
-        "num": 152, 
-        "end": "00:08:33,320", 
-        "text": "Let's keep moving, shall we?"
-    }, 
-    {
-        "start": "00:08:33,400", 
-        "num": 153, 
-        "end": "00:08:36,085", 
-        "text": "Yes, let's all keep moving.<br />Let's move on from this."
-    }, 
-    {
-        "start": "00:08:36,200", 
-        "num": 154, 
-        "end": "00:08:40,046", 
-        "text": "I forgive you, Gavin.<br />No matter how brutally I was assaulted."
-    }, 
-    {
-        "start": "00:08:40,680", 
-        "num": 155, 
-        "end": "00:08:43,286", 
-        "text": "Wow, Pied Piper sounds like<br />a great place to work."
-    }, 
-    {
-        "start": "00:08:43,360", 
-        "num": 156, 
-        "end": "00:08:44,441", 
-        "text": "Oh, yeah, it is."
-    }, 
-    {
-        "start": "00:08:44,600", 
-        "num": 157, 
-        "end": "00:08:46,762", 
-        "text": "Pied Piper is the best, right?"
-    }, 
-    {
-        "start": "00:08:46,880", 
-        "num": 158, 
-        "end": "00:08:49,770", 
-        "text": "Oh, my God, every day feels like<br />I've died and gone to hell."
-    }, 
-    {
-        "start": "00:08:50,160", 
-        "num": 159, 
-        "end": "00:08:51,161", 
-        "text": "I'm sorry."
-    }, 
-    {
-        "start": "00:08:51,240", 
-        "num": 160, 
-        "end": "00:08:53,083", 
-        "text": "- He's a Satanist, so it's good.<br />- Mmm-hmm."
-    }, 
-    {
-        "start": "00:08:53,240", 
-        "num": 161, 
-        "end": "00:08:56,050", 
-        "text": "- Oh, fun.<br />- The point is, we love our company,"
-    }, 
-    {
-        "start": "00:08:56,120", 
-        "num": 162, 
-        "end": "00:08:57,724", 
-        "text": "and I don't have a problem<br />saying that out loud."
-    }, 
-    {
-        "start": "00:08:57,800", 
-        "num": 163, 
-        "end": "00:08:59,131", 
-        "text": "- You...<br />- Love it"
-    }, 
-    {
-        "start": "00:08:59,200", 
-        "num": 164, 
-        "end": "00:09:01,441", 
-        "text": "We both say it out loud<br />and I think that fact,"
-    }, 
-    {
-        "start": "00:09:01,560", 
-        "num": 165, 
-        "end": "00:09:03,801", 
-        "text": "proves that we're not dickheads."
-    }, 
-    {
-        "start": "00:09:05,800", 
-        "num": 166, 
-        "end": "00:09:07,962", 
-        "text": "So what we wanted to ask you was..."
-    }, 
-    {
-        "start": "00:09:08,040", 
-        "num": 167, 
-        "end": "00:09:09,121", 
-        "text": "Guys?"
-    }, 
-    {
-        "start": "00:09:10,480", 
-        "num": 168, 
-        "end": "00:09:13,563", 
-        "text": "Totally between us, our beta crapped out."
-    }, 
-    {
-        "start": "00:09:14,400", 
-        "num": 169, 
-        "end": "00:09:17,609", 
-        "text": "The VCs did a full claw back<br />and our Series A is DOA."
-    }, 
-    {
-        "start": "00:09:17,680", 
-        "num": 170, 
-        "end": "00:09:22,083", 
-        "text": "We're going down. We have enough runway<br />for maybe two, three weeks max."
-    }, 
-    {
-        "start": "00:09:22,640", 
-        "num": 171, 
-        "end": "00:09:23,801", 
-        "text": "So..."
-    }, 
-    {
-        "start": "00:09:25,360", 
-        "num": 172, 
-        "end": "00:09:26,930", 
-        "text": "Do you guys think you could hire me?"
-    }, 
-    {
-        "start": "00:09:32,800", 
-        "num": 173, 
-        "end": "00:09:37,044", 
-        "text": "How much would it be worth to you if I told<br />you I had a GPS app called Pied Piper,"
-    }, 
-    {
-        "start": "00:09:37,120", 
-        "num": 174, 
-        "end": "00:09:38,804", 
-        "text": "tracking the location of your child?"
-    }, 
-    {
-        "start": "00:09:39,040", 
-        "num": 175, 
-        "end": "00:09:40,610", 
-        "text": "I can follow your child anywhere,"
-    }, 
-    {
-        "start": "00:09:40,680", 
-        "num": 176, 
-        "end": "00:09:42,728", 
-        "text": "and there is nothing you can do to stop me."
-    }, 
-    {
-        "start": "00:09:43,160", 
-        "num": 177, 
-        "end": "00:09:45,527", 
-        "text": "Most missing children are never found."
-    }, 
-    {
-        "start": "00:09:45,920", 
-        "num": 178, 
-        "end": "00:09:48,161", 
-        "text": "Interested, very interested,<br />or very interested?"
-    }, 
-    {
-        "start": "00:09:48,240", 
-        "num": 179, 
-        "end": "00:09:49,651", 
-        "text": "(ELEVATOR BELL DINGS)"
-    }, 
-    {
-        "start": "00:09:52,520", 
-        "num": 180, 
-        "end": "00:09:54,443", 
-        "text": "Richard. Hi..."
-    }, 
-    {
-        "start": "00:09:54,520", 
-        "num": 181, 
-        "end": "00:09:57,251", 
-        "text": "- Hey... Uh, suitcase. Yeah.<br />- Yeah."
-    }, 
-    {
-        "start": "00:09:57,320", 
-        "num": 182, 
-        "end": "00:09:59,084", 
-        "text": "(CLEARS THROAT) So you're, uh..."
-    }, 
-    {
-        "start": "00:09:59,480", 
-        "num": 183, 
-        "end": "00:10:00,720", 
-        "text": "Peter called."
-    }, 
-    {
-        "start": "00:10:00,800", 
-        "num": 184, 
-        "end": "00:10:04,441", 
-        "text": "- He saw Erlich's presentation, such as it was.<br />- Ah."
-    }, 
-    {
-        "start": "00:10:04,520", 
-        "num": 185, 
-        "end": "00:10:05,851", 
-        "text": "And Gavin's."
-    }, 
-    {
-        "start": "00:10:06,000", 
-        "num": 186, 
-        "end": "00:10:07,001", 
-        "text": "(INHALES SHARPLY)"
-    }, 
-    {
-        "start": "00:10:07,080", 
-        "num": 187, 
-        "end": "00:10:08,969", 
-        "text": "So he wants me to go back to Palo Alto."
-    }, 
-    {
-        "start": "00:10:09,320", 
-        "num": 188, 
-        "end": "00:10:12,051", 
-        "text": "There's just a few other things<br />that he wants me working on."
-    }, 
-    {
-        "start": "00:10:12,400", 
-        "num": 189, 
-        "end": "00:10:14,880", 
-        "text": "Now that we're, you know,<br />dead in the water."
-    }, 
-    {
-        "start": "00:10:15,200", 
-        "num": 190, 
-        "end": "00:10:18,602", 
-        "text": "Listen, I'm sorry you walked away<br />from the money like you did."
-    }, 
-    {
-        "start": "00:10:18,720", 
-        "num": 191, 
-        "end": "00:10:20,802", 
-        "text": "But I swear I only wanted Peter to seed you"
-    }, 
-    {
-        "start": "00:10:20,880", 
-        "num": 192, 
-        "end": "00:10:23,000", 
-        "text": "because I thought<br />that you had a really great company."
-    }, 
-    {
-        "start": "00:10:23,040", 
-        "num": 193, 
-        "end": "00:10:25,884", 
-        "text": "- Mmm.<br />- It just didn't work out for you this time."
-    }, 
-    {
-        "start": "00:10:25,960", 
-        "num": 194, 
-        "end": "00:10:27,530", 
-        "text": "Uh... (CLEARS THROAT)<br />Can I be honest with you?"
-    }, 
-    {
-        "start": "00:10:27,600", 
-        "num": 195, 
-        "end": "00:10:31,286", 
-        "text": "I haven't had more than<br />two straight hours of sleep in months."
-    }, 
-    {
-        "start": "00:10:31,400", 
-        "num": 196, 
-        "end": "00:10:33,562", 
-        "text": "I've had a cold for, like, a year.<br />(CHUCKLES AWKWARDLY)"
-    }, 
-    {
-        "start": "00:10:33,960", 
-        "num": 197, 
-        "end": "00:10:36,611", 
-        "text": "My stomach cramps up so much<br />I feel like I'm menstruating."
-    }, 
-    {
-        "start": "00:10:37,720", 
-        "num": 198, 
-        "end": "00:10:39,006", 
-        "text": "Maybe this is for the better."
-    }, 
-    {
-        "start": "00:10:40,720", 
-        "num": 199, 
-        "end": "00:10:43,007", 
-        "text": "Look, I gotta go. Um..."
-    }, 
-    {
-        "start": "00:10:43,360", 
-        "num": 200, 
-        "end": "00:10:45,806", 
-        "text": "I'm really sorry that we're not gonna<br />be working together anymore."
-    }, 
-    {
-        "start": "00:10:45,880", 
-        "num": 201, 
-        "end": "00:10:47,530", 
-        "text": "Yeah, me too. (SIGHS)"
-    }, 
-    {
-        "start": "00:10:48,440", 
-        "num": 202, 
-        "end": "00:10:51,489", 
-        "text": "I guess...<br />I guess we won't see each other again."
-    }, 
-    {
-        "start": "00:10:52,040", 
-        "num": 203, 
-        "end": "00:10:55,522", 
-        "text": "Well, I mean, now that the rules<br />about socializing with coworkers"
-    }, 
-    {
-        "start": "00:10:55,600", 
-        "num": 204, 
-        "end": "00:10:59,286", 
-        "text": "aren't in effect anymore, let me know<br />if you want to grab a drink sometime."
-    }, 
-    {
-        "start": "00:11:00,320", 
-        "num": 205, 
-        "end": "00:11:02,129", 
-        "text": "What, like a \"drink\"? A \"drink-drink\"?"
-    }, 
-    {
-        "start": "00:11:03,400", 
-        "num": 206, 
-        "end": "00:11:05,400", 
-        "text": "You go on dates with failures?<br />(CHUCKLES AWKWARDLY)"
-    }, 
-    {
-        "start": "00:11:06,400", 
-        "num": 207, 
-        "end": "00:11:08,687", 
-        "text": "- Constantly.<br />- Okay."
-    }, 
-    {
-        "start": "00:11:08,760", 
-        "num": 208, 
-        "end": "00:11:09,761", 
-        "text": "(CHUCKLES)"
-    }, 
-    {
-        "start": "00:11:09,920", 
-        "num": 209, 
-        "end": "00:11:10,921", 
+        "episode": "S01E02", 
         "text": "Uh..."
     }, 
     {
-        "start": "00:11:11,000", 
+        "end": "00:05:51,130", 
+        "start": "00:05:45,760", 
+        "num": 127, 
+        "episode": "S01E02", 
+        "text": "Well, we're just really excited<br />to get going, Mr. Gregory."
+    }, 
+    {
+        "end": "00:05:53,521", 
+        "start": "00:05:51,200", 
+        "num": 128, 
+        "episode": "S01E02", 
+        "text": "Yes. Who-S \"We\"?"
+    }, 
+    {
+        "end": "00:05:55,691", 
+        "start": "00:05:54,280", 
+        "num": 129, 
+        "episode": "S01E02", 
+        "text": "Myself, him,"
+    }, 
+    {
+        "end": "00:05:58,322", 
+        "start": "00:05:56,160", 
+        "num": 130, 
+        "episode": "S01E02", 
+        "text": "- uh, the guys back at the house.<br />- Guys?"
+    }, 
+    {
+        "end": "00:06:00,966", 
+        "start": "00:05:59,760", 
+        "num": 131, 
+        "episode": "S01E02", 
+        "text": "What guys?"
+    }, 
+    {
+        "end": "00:06:03,445", 
+        "start": "00:06:01,920", 
+        "num": 132, 
+        "episode": "S01E02", 
+        "text": "Who is this?"
+    }, 
+    {
+        "end": "00:06:05,802", 
+        "start": "00:06:03,640", 
+        "num": 133, 
+        "episode": "S01E02", 
+        "text": "Erlich Bachman. I'm an entrepreneur,"
+    }, 
+    {
+        "end": "00:06:07,126", 
+        "start": "00:06:05,920", 
+        "num": 134, 
+        "episode": "S01E02", 
+        "text": "much like yourself."
+    }, 
+    {
+        "end": "00:06:08,321", 
+        "start": "00:06:07,320", 
+        "num": 135, 
+        "episode": "S01E02", 
+        "text": "Uh..."
+    }, 
+    {
+        "end": "00:06:11,408", 
+        "start": "00:06:09,280", 
+        "num": 136, 
+        "episode": "S01E02", 
+        "text": "Richard actually developed Pied Piper"
+    }, 
+    {
+        "end": "00:06:13,005", 
+        "start": "00:06:11,480", 
+        "num": 137, 
+        "episode": "S01E02", 
+        "text": "while residing in my incubator,"
+    }, 
+    {
+        "end": "00:06:16,761", 
+        "start": "00:06:13,120", 
+        "num": 138, 
+        "episode": "S01E02", 
+        "text": "so as per our agreement,<br />I own 10% of the company."
+    }, 
+    {
+        "end": "00:06:19,168", 
+        "start": "00:06:17,120", 
+        "num": 139, 
+        "episode": "S01E02", 
+        "text": "I'm paying you $200,000 for 5%,"
+    }, 
+    {
+        "end": "00:06:20,480", 
+        "start": "00:06:19,240", 
+        "num": 140, 
+        "episode": "S01E02", 
+        "text": "yet you're giving this man"
+    }, 
+    {
+        "end": "00:06:24,447", 
+        "start": "00:06:21,000", 
+        "num": 141, 
+        "episode": "S01E02", 
+        "text": "twice that in exchange for a futon"
+    }, 
+    {
+        "end": "00:06:26,963", 
+        "start": "00:06:25,120", 
+        "num": 142, 
+        "episode": "S01E02", 
+        "text": "and some sandwiches?"
+    }, 
+    {
+        "end": "00:06:29,886", 
+        "start": "00:06:27,360", 
+        "num": 143, 
+        "episode": "S01E02", 
+        "text": "Actually, sir, my tenants<br />provide their own food."
+    }, 
+    {
+        "end": "00:06:31,680", 
+        "start": "00:06:29,960", 
+        "num": 144, 
+        "episode": "S01E02", 
+        "text": "What other percentages<br />have you apportioned?"
+    }, 
+    {
+        "end": "00:06:35,802", 
+        "start": "00:06:32,320", 
+        "num": 145, 
+        "episode": "S01E02", 
+        "text": "(SIGHS) Can I see your cap table,<br />investment deck,"
+    }, 
+    {
+        "end": "00:06:38,770", 
+        "start": "00:06:35,880", 
+        "num": 146, 
+        "episode": "S01E02", 
+        "text": "business plan,<br />or any other relevant paperwork"
+    }, 
+    {
+        "end": "00:06:40,729", 
+        "start": "00:06:39,000", 
+        "num": 147, 
+        "episode": "S01E02", 
+        "text": "you may have prepared?"
+    }, 
+    {
+        "end": "00:06:44,249", 
+        "start": "00:06:41,200", 
+        "num": 148, 
+        "episode": "S01E02", 
+        "text": "I just was under the impression that"
+    }, 
+    {
+        "end": "00:06:47,769", 
+        "start": "00:06:44,640", 
+        "num": 149, 
+        "episode": "S01E02", 
+        "text": "we would just be coming by<br />and saying, \"Hi,\" you know, uh,"
+    }, 
+    {
+        "end": "00:06:49,445", 
+        "start": "00:06:48,000", 
+        "num": 150, 
+        "episode": "S01E02", 
+        "text": "to pick up the check."
+    }, 
+    {
+        "end": "00:06:52,643", 
+        "start": "00:06:49,560", 
+        "num": 151, 
+        "episode": "S01E02", 
+        "text": "And I just didn't know that<br />any of that stuff was due yet."
+    }, 
+    {
+        "end": "00:06:53,847", 
+        "start": "00:06:52,800", 
+        "num": 152, 
+        "episode": "S01E02", 
+        "text": "\"Due\"?"
+    }, 
+    {
+        "end": "00:06:55,841", 
+        "start": "00:06:54,840", 
+        "num": 153, 
+        "episode": "S01E02", 
+        "text": "(LAUGHS)"
+    }, 
+    {
+        "end": "00:06:58,724", 
+        "start": "00:06:57,120", 
+        "num": 154, 
+        "episode": "S01E02", 
+        "text": "This is not college, Richard."
+    }, 
+    {
+        "end": "00:07:01,610", 
+        "start": "00:06:58,800", 
+        "num": 155, 
+        "episode": "S01E02", 
+        "text": "I am not going to be<br />giving you a course syllabus."
+    }, 
+    {
+        "end": "00:07:05,686", 
+        "start": "00:07:01,920", 
+        "num": 156, 
+        "episode": "S01E02", 
+        "text": "You turned down $10 million<br />to keep Pied Piper."
+    }, 
+    {
+        "end": "00:07:09,965", 
+        "start": "00:07:05,960", 
+        "num": 157, 
+        "episode": "S01E02", 
+        "text": "What did you give up that money for?<br />What is this company?"
+    }, 
+    {
+        "end": "00:07:12,160", 
+        "start": "00:07:10,920", 
+        "num": 158, 
+        "episode": "S01E02", 
+        "text": "What did I buy?"
+    }, 
+    {
+        "end": "00:07:14,726", 
+        "start": "00:07:12,280", 
+        "num": 159, 
+        "episode": "S01E02", 
+        "text": "- You bought the algorithm, which...<br />- No."
+    }, 
+    {
+        "end": "00:07:19,443", 
+        "start": "00:07:16,280", 
+        "num": 160, 
+        "episode": "S01E02", 
+        "text": "The algorithm is the<br />product of the company."
+    }, 
+    {
+        "end": "00:07:20,487", 
+        "start": "00:07:19,520", 
+        "num": 161, 
+        "episode": "S01E02", 
+        "text": "I know that."
+    }, 
+    {
+        "end": "00:07:23,086", 
+        "start": "00:07:20,560", 
+        "num": 162, 
+        "episode": "S01E02", 
+        "text": "What I'm asking about<br />is the company itself."
+    }, 
+    {
+        "end": "00:07:25,481", 
+        "start": "00:07:23,160", 
+        "num": 163, 
+        "episode": "S01E02", 
+        "text": "Who is it? What do they do?"
+    }, 
+    {
+        "end": "00:07:27,331", 
+        "start": "00:07:26,000", 
+        "num": 164, 
+        "episode": "S01E02", 
+        "text": "Are they essential?"
+    }, 
+    {
+        "end": "00:07:30,968", 
+        "start": "00:07:27,680", 
+        "num": 165, 
+        "episode": "S01E02", 
+        "text": "Or do you just throw a percentage at them,<br />like you did with this..."
+    }, 
+    {
+        "end": "00:07:39,762", 
+        "start": "00:07:36,360", 
+        "num": 166, 
+        "episode": "S01E02", 
+        "text": "This all must be worked out."
+    }, 
+    {
+        "end": "00:07:41,241", 
+        "start": "00:07:40,240", 
+        "num": 167, 
+        "episode": "S01E02", 
+        "text": "Now."
+    }, 
+    {
+        "end": "00:07:45,921", 
+        "start": "00:07:43,520", 
+        "num": 168, 
+        "episode": "S01E02", 
+        "text": "When you said you'd guide us"
+    }, 
+    {
+        "end": "00:07:48,048", 
+        "start": "00:07:46,000", 
+        "num": 169, 
+        "episode": "S01E02", 
+        "text": "through some of this stuff,<br />I thought that this was"
+    }, 
+    {
+        "end": "00:07:49,770", 
+        "start": "00:07:48,120", 
+        "num": 170, 
+        "episode": "S01E02", 
+        "text": "the stuff you'd be guiding us through."
+    }, 
+    {
+        "end": "00:07:53,567", 
+        "start": "00:07:50,040", 
+        "num": 171, 
+        "episode": "S01E02", 
+        "text": "I cannot guide you until you give me"
+    }, 
+    {
+        "end": "00:07:56,882", 
+        "start": "00:07:54,880", 
+        "num": 172, 
+        "episode": "S01E02", 
+        "text": "something to guide."
+    }, 
+    {
+        "end": "00:08:01,084", 
+        "start": "00:07:59,400", 
+        "num": 173, 
+        "episode": "S01E02", 
+        "text": "This is going very poorly."
+    }, 
+    {
+        "end": "00:08:04,404", 
+        "start": "00:08:01,480", 
+        "num": 174, 
+        "episode": "S01E02", 
+        "text": "- I know.<br />- He doesn't seem to know what he's doing."
+    }, 
+    {
+        "end": "00:08:11,362", 
+        "start": "00:08:09,280", 
+        "num": 175, 
+        "episode": "S01E02", 
+        "text": "Did you just take a sip from an empty cup?"
+    }, 
+    {
+        "end": "00:08:13,681", 
+        "start": "00:08:12,600", 
+        "num": 176, 
+        "episode": "S01E02", 
+        "text": "Yes."
+    }, 
+    {
+        "end": "00:08:14,921", 
+        "start": "00:08:13,840", 
+        "num": 177, 
+        "episode": "S01E02", 
+        "text": "Why did you do that?"
+    }, 
+    {
+        "end": "00:08:19,403", 
+        "start": "00:08:16,240", 
+        "num": 178, 
+        "episode": "S01E02", 
+        "text": "- Just something to do.<br />- Come back in 48 hours"
+    }, 
+    {
+        "end": "00:08:21,164", 
+        "start": "00:08:19,560", 
+        "num": 179, 
+        "episode": "S01E02", 
+        "text": "with an airtight business plan,"
+    }, 
+    {
+        "end": "00:08:23,481", 
+        "start": "00:08:21,240", 
+        "num": 180, 
+        "episode": "S01E02", 
+        "text": "a clear go-to-market strategy,"
+    }, 
+    {
+        "end": "00:08:27,891", 
+        "start": "00:08:23,920", 
+        "num": 181, 
+        "episode": "S01E02", 
+        "text": "and three-year summary P&L,<br />or there will be no check."
+    }, 
+    {
+        "end": "00:08:33,726", 
+        "start": "00:08:32,440", 
+        "num": 182, 
+        "episode": "S01E02", 
+        "text": "That's it."
+    }, 
+    {
+        "end": "00:08:36,283", 
+        "start": "00:08:34,440", 
+        "num": 183, 
+        "episode": "S01E02", 
+        "text": "MONICA: Thanks for coming in, guys."
+    }, 
+    {
+        "end": "00:08:39,401", 
+        "start": "00:08:38,400", 
+        "num": 184, 
+        "episode": "S01E02", 
+        "text": "Um..."
+    }, 
+    {
+        "end": "00:08:41,801", 
+        "start": "00:08:39,480", 
+        "num": 185, 
+        "episode": "S01E02", 
+        "text": "Are there any water<br />fountains in your offices?"
+    }, 
+    {
+        "end": "00:08:43,761", 
+        "start": "00:08:42,680", 
+        "num": 186, 
+        "episode": "S01E02", 
+        "text": "I assume."
+    }, 
+    {
+        "end": "00:08:47,447", 
+        "start": "00:08:43,840", 
+        "num": 187, 
+        "episode": "S01E02", 
+        "text": "I own 10% of an app<br />that locates all nearby water fountains."
+    }, 
+    {
+        "end": "00:08:48,840", 
+        "start": "00:08:47,600", 
+        "num": 188, 
+        "episode": "S01E02", 
+        "text": "I'd be happy to discuss it with you."
+    }, 
+    {
+        "end": "00:08:50,649", 
+        "start": "00:08:48,920", 
+        "num": 189, 
+        "episode": "S01E02", 
+        "text": "Good day, gentlemen."
+    }, 
+    {
+        "end": "00:08:53,001", 
+        "start": "00:08:51,920", 
+        "num": 190, 
+        "episode": "S01E02", 
+        "text": "You smoke weed?"
+    }, 
+    {
+        "end": "00:08:59,366", 
+        "start": "00:08:58,160", 
+        "num": 191, 
+        "episode": "S01E02", 
+        "text": "You really embarrassed me in there."
+    }, 
+    {
+        "end": "00:09:01,966", 
+        "start": "00:08:59,440", 
+        "num": 192, 
+        "episode": "S01E02", 
+        "text": "You didn't say shit about<br />any business plan before today."
+    }, 
+    {
+        "end": "00:09:04,681", 
+        "start": "00:09:02,040", 
+        "num": 193, 
+        "episode": "S01E02", 
+        "text": "And neither did he. And he was<br />kind of being an asshole back there."
+    }, 
+    {
+        "end": "00:09:06,051", 
+        "start": "00:09:04,720", 
+        "num": 194, 
+        "episode": "S01E02", 
+        "text": "Yeah, that's why he's a billionaire."
+    }, 
+    {
+        "end": "00:09:07,921", 
+        "start": "00:09:06,120", 
+        "num": 195, 
+        "episode": "S01E02", 
+        "text": "'Cause he knows how<br />and when to be an asshole."
+    }, 
+    {
+        "end": "00:09:09,001", 
+        "start": "00:09:08,000", 
+        "num": 196, 
+        "episode": "S01E02", 
+        "text": "That's what you need to be like."
+    }, 
+    {
+        "end": "00:09:10,889", 
+        "start": "00:09:09,080", 
+        "num": 197, 
+        "episode": "S01E02", 
+        "text": "- You do, Richard.<br />- Whatever."
+    }, 
+    {
+        "end": "00:09:14,646", 
+        "start": "00:09:10,960", 
+        "num": 198, 
+        "episode": "S01E02", 
+        "text": "If you continue to mismanage this company,<br />giving 10% to whoever..."
+    }, 
+    {
+        "end": "00:09:17,041", 
+        "start": "00:09:14,800", 
+        "num": 199, 
+        "episode": "S01E02", 
+        "text": "Obviously, you know,<br />we can't go back on my shares."
+    }, 
+    {
+        "end": "00:09:19,367", 
+        "start": "00:09:17,160", 
+        "num": 200, 
+        "episode": "S01E02", 
+        "text": "That ship has sailed,<br />but from here on out..."
+    }, 
+    {
+        "end": "00:09:21,170", 
+        "start": "00:09:19,520", 
+        "num": 201, 
+        "episode": "S01E02", 
+        "text": "Now you're being an asshole."
+    }, 
+    {
+        "end": "00:09:22,810", 
+        "start": "00:09:21,240", 
+        "num": 202, 
+        "episode": "S01E02", 
+        "text": "You say that like it's a bad thing."
+    }, 
+    {
+        "end": "00:09:25,247", 
+        "start": "00:09:22,960", 
+        "num": 203, 
+        "episode": "S01E02", 
+        "text": "Richard, if you're not an asshole,<br />it creates this kind of"
+    }, 
+    {
+        "end": "00:09:29,723", 
+        "start": "00:09:25,320", 
+        "num": 204, 
+        "episode": "S01E02", 
+        "text": "asshole vacuum and that void<br />is filled by other assholes, like Jared."
+    }, 
+    {
+        "end": "00:09:31,484", 
+        "start": "00:09:29,800", 
+        "num": 205, 
+        "episode": "S01E02", 
+        "text": "I mean, you almost gave him shares."
+    }, 
+    {
+        "end": "00:09:34,766", 
+        "start": "00:09:32,320", 
+        "num": 206, 
+        "episode": "S01E02", 
+        "text": "You need to completely<br />change who you are, Richard."
+    }, 
+    {
+        "end": "00:09:37,207", 
+        "start": "00:09:34,840", 
+        "num": 207, 
+        "episode": "S01E02", 
+        "text": "A complete Teutonic shift has to happen."
+    }, 
+    {
+        "end": "00:09:40,321", 
+        "start": "00:09:37,920", 
+        "num": 208, 
+        "episode": "S01E02", 
+        "text": "- Tectonic.<br />- What?"
+    }, 
+    {
+        "end": "00:09:43,849", 
+        "start": "00:09:40,720", 
+        "num": 209, 
+        "episode": "S01E02", 
+        "text": "A \"tectonic\" shift is<br />the Earth's crust moving around."
+    }, 
+    {
+        "end": "00:09:46,082", 
+        "start": "00:09:44,080", 
         "num": 210, 
-        "end": "00:11:13,367", 
-        "text": "- Bye. Okay.<br />- Bye. (CHUCKLES)"
+        "episode": "S01E02", 
+        "text": "\"Teutonic,\" which is what you just said,"
     }, 
     {
-        "start": "00:11:16,160", 
+        "end": "00:09:48,891", 
+        "start": "00:09:46,160", 
         "num": 211, 
-        "end": "00:11:18,970", 
-        "text": "You have any weapons or drugs<br />on your person at this time?"
+        "episode": "S01E02", 
+        "text": "is an ancient Germanic tribe<br />that fought the Romans."
     }, 
     {
-        "start": "00:11:19,760", 
+        "end": "00:09:51,611", 
+        "start": "00:09:50,280", 
         "num": 212, 
-        "end": "00:11:22,047", 
-        "text": "- Why, yes. Yes, I do.<br />- Huh."
+        "episode": "S01E02", 
+        "text": "They were originally from Scandinavia..."
     }, 
     {
-        "start": "00:11:22,160", 
+        "end": "00:09:53,603", 
+        "start": "00:09:51,680", 
         "num": 213, 
-        "end": "00:11:23,161", 
-        "text": "(CHUCKLES)"
+        "episode": "S01E02", 
+        "text": "Stop it! Stop it."
     }, 
     {
-        "start": "00:11:23,760", 
+        "end": "00:09:56,602", 
+        "start": "00:09:54,440", 
         "num": 214, 
-        "end": "00:11:24,761", 
-        "text": "Let's go."
+        "episode": "S01E02", 
+        "text": "You're being a complete tool right now."
     }, 
     {
-        "start": "00:11:26,480", 
+        "end": "00:09:59,047", 
+        "start": "00:09:56,760", 
         "num": 215, 
-        "end": "00:11:29,643", 
-        "text": "Adderall. This is a highly controlled<br />substance. Are these yours?"
+        "episode": "S01E02", 
+        "text": "I need you to be a complete asshole."
     }, 
     {
-        "start": "00:11:29,720", 
+        "end": "00:10:00,881", 
+        "start": "00:09:59,720", 
         "num": 216, 
-        "end": "00:11:32,963", 
-        "text": "No! Those belong to an underage kid<br />that I brought to my house."
+        "episode": "S01E02", 
+        "text": "Do you understand the difference?"
     }, 
     {
-        "start": "00:11:33,760", 
+        "end": "00:10:03,002", 
+        "start": "00:10:01,000", 
         "num": 217, 
-        "end": "00:11:36,366", 
-        "text": "Yeah, sir, I'm going to have<br />to ask you to come with me."
+        "episode": "S01E02", 
+        "text": "If you're not an asshole,<br />this company dies."
     }, 
     {
-        "start": "00:11:36,440", 
+        "end": "00:10:05,289", 
+        "start": "00:10:03,400", 
         "num": 218, 
-        "end": "00:11:39,364", 
-        "text": "That's a kind invitation,<br />but I have too much to do. I'm pivoting!"
+        "episode": "S01E02", 
+        "text": "Erlich, I have 48 hours."
     }, 
     {
-        "start": "00:11:39,480", 
+        "end": "00:10:07,601", 
+        "start": "00:10:05,400", 
         "num": 219, 
-        "end": "00:11:41,608", 
-        "text": "- Let's go now!<br />- No. I'm pivoting! I'm pivoting!"
+        "episode": "S01E02", 
+        "text": "Are you going to help me<br />with this business plan or not?"
     }, 
     {
-        "start": "00:11:41,720", 
+        "end": "00:10:11,283", 
+        "start": "00:10:08,040", 
         "num": 220, 
-        "end": "00:11:42,721", 
-        "text": "I'm pivoting!"
+        "episode": "S01E02", 
+        "text": "I believe in you, Richard.<br />That's why I'm not."
     }, 
     {
-        "start": "00:11:44,800", 
+        "end": "00:10:19,042", 
+        "start": "00:10:15,640", 
         "num": 221, 
-        "end": "00:11:48,202", 
-        "text": "I mean, what do we even present tomorrow?"
+        "episode": "S01E02", 
+        "text": "\"Business plans that are created<br />in support of new ventures"
     }, 
     {
-        "start": "00:11:48,280", 
+        "end": "00:10:22,727", 
+        "start": "00:10:19,120", 
         "num": 222, 
-        "end": "00:11:49,691", 
-        "text": "Honestly, anyone?"
+        "episode": "S01E02", 
+        "text": "\"or to implement profound<br />changes in existing venture.\""
     }, 
     {
-        "start": "00:11:49,760", 
+        "end": "00:10:25,321", 
+        "start": "00:10:24,320", 
         "num": 223, 
-        "end": "00:11:51,250", 
-        "text": "Why do we have to present at all?"
+        "episode": "S01E02", 
+        "text": "(GROANS)"
     }, 
     {
-        "start": "00:11:51,480", 
+        "end": "00:10:34,010", 
+        "start": "00:10:32,440", 
         "num": 224, 
-        "end": "00:11:52,641", 
-        "text": "What's that supposed to mean?"
+        "episode": "S01E02", 
+        "text": "(LINE RINGING)"
     }, 
     {
-        "start": "00:11:52,720", 
+        "end": "00:10:37,242", 
+        "start": "00:10:35,160", 
         "num": 225, 
-        "end": "00:11:54,245", 
-        "text": "If we are going to fail and be humiliated,"
+        "episode": "S01E02", 
+        "text": "Hi, this is Richard Hendricks."
     }, 
     {
-        "start": "00:11:54,320", 
+        "end": "00:10:39,290", 
+        "start": "00:10:37,800", 
         "num": 226, 
-        "end": "00:11:57,403", 
-        "text": "why do it on stage in front of 1,000 people<br />and a live-streamed audience?"
+        "episode": "S01E02", 
+        "text": "Is now a good time?"
     }, 
     {
-        "start": "00:11:57,680", 
+        "end": "00:10:42,125", 
+        "start": "00:10:40,680", 
         "num": 227, 
-        "end": "00:11:59,603", 
-        "text": "Are you saying we shouldn't even show up?"
+        "episode": "S01E02", 
+        "text": "Uh, I need some help."
     }, 
     {
-        "start": "00:11:59,720", 
+        "end": "00:10:48,284", 
+        "start": "00:10:46,600", 
         "num": 228, 
-        "end": "00:12:03,088", 
-        "text": "No offense, but it's basically<br />going to be a public execution."
+        "episode": "S01E02", 
+        "text": "Whose Chevy Volt is that out front?"
     }, 
     {
-        "start": "00:12:03,200", 
+        "end": "00:10:50,006", 
+        "start": "00:10:48,720", 
         "num": 229, 
-        "end": "00:12:05,487", 
-        "text": "Yes, and public executions<br />are very popular."
+        "episode": "S01E02", 
+        "text": "Jared Dunn's."
     }, 
     {
-        "start": "00:12:05,720", 
+        "end": "00:10:52,242", 
+        "start": "00:10:50,240", 
         "num": 230, 
-        "end": "00:12:08,291", 
-        "text": "It's show business.<br />We are not quitting, Richard."
+        "episode": "S01E02", 
+        "text": "What? Why? Why is he here?"
     }, 
     {
-        "start": "00:12:08,480", 
+        "end": "00:10:56,081", 
+        "start": "00:10:52,360", 
         "num": 231, 
-        "end": "00:12:11,723", 
-        "text": "Look, Erlich, I want to<br />present, I do, it's just..."
+        "episode": "S01E02", 
+        "text": "Well, because, as you know,<br />I need some advice on the business plan."
     }, 
     {
-        "start": "00:12:11,800", 
+        "end": "00:10:57,401", 
+        "start": "00:10:56,400", 
         "num": 232, 
-        "end": "00:12:13,529", 
-        "text": "- (DOOR LOCK CLICKING)<br />- I don't know."
+        "episode": "S01E02", 
+        "text": "You're cutting him in?"
     }, 
     {
-        "start": "00:12:15,720", 
+        "end": "00:10:59,561", 
+        "start": "00:10:58,560", 
         "num": 233, 
-        "end": "00:12:16,721", 
-        "text": "(DOOR OPENS)"
+        "episode": "S01E02", 
+        "text": "Um..."
     }, 
     {
-        "start": "00:12:18,320", 
+        "end": "00:11:05,961", 
+        "start": "00:11:02,400", 
         "num": 234, 
-        "end": "00:12:20,129", 
-        "text": "Jesus, are you okay?"
+        "episode": "S01E02", 
+        "text": "Good morning. Whoops, that was weird."
     }, 
     {
-        "start": "00:12:20,200", 
+        "end": "00:11:07,889", 
+        "start": "00:11:06,080", 
         "num": 235, 
-        "end": "00:12:22,771", 
-        "text": "What? Yeah, I... Okay."
+        "episode": "S01E02", 
+        "text": "I don't know why I did that."
     }, 
     {
-        "start": "00:12:22,840", 
+        "end": "00:11:11,085", 
+        "start": "00:11:08,320", 
         "num": 236, 
-        "end": "00:12:24,524", 
-        "text": "Yeah, all good. They let me go."
+        "episode": "S01E02", 
+        "text": "You kind of have a...<br />Like a king-ish feeling to you."
     }, 
     {
-        "start": "00:12:24,880", 
+        "end": "00:11:13,925", 
+        "start": "00:11:11,160", 
         "num": 237, 
-        "end": "00:12:27,406", 
-        "text": "- GILFOYLE: Who let you go?<br />- When was the last time you slept, Jared?"
+        "episode": "S01E02", 
+        "text": "You're like a Norse hero from Valhalla."
     }, 
     {
-        "start": "00:12:27,480", 
+        "end": "00:11:15,207", 
+        "start": "00:11:14,160", 
         "num": 238, 
-        "end": "00:12:30,131", 
-        "text": "Yeah, absolutely, David."
+        "episode": "S01E02", 
+        "text": "Don't pander to me."
     }, 
     {
-        "start": "00:12:30,200", 
+        "end": "00:11:17,766", 
+        "start": "00:11:15,320", 
         "num": 239, 
-        "end": "00:12:31,840", 
-        "text": "What are we talking about, gents? (SIGHS)"
+        "episode": "S01E02", 
+        "text": "Peter Gregory said<br />specifically to trim the fat."
     }, 
     {
-        "start": "00:12:31,880", 
+        "end": "00:11:20,606", 
+        "start": "00:11:18,080", 
         "num": 240, 
-        "end": "00:12:34,850", 
-        "text": "We're talking about<br />how I didn't get to present in the prelims,"
+        "episode": "S01E02", 
+        "text": "They actually tried to diagnose me<br />with a wasting disease"
     }, 
     {
-        "start": "00:12:34,920", 
+        "end": "00:11:22,364", 
+        "start": "00:11:20,680", 
         "num": 241, 
-        "end": "00:12:36,888", 
-        "text": "because I was too busy<br />getting my face pummeled"
+        "episode": "S01E02", 
+        "text": "because of my slender frame."
     }, 
     {
-        "start": "00:12:36,960", 
+        "end": "00:11:27,282", 
+        "start": "00:11:22,720", 
         "num": 242, 
-        "end": "00:12:38,450", 
-        "text": "so that our team could move forward."
+        "episode": "S01E02", 
+        "text": "So, um, I ironed out<br />our customer acquisition strategy,"
     }, 
     {
-        "start": "00:12:38,520", 
+        "end": "00:11:31,331", 
+        "start": "00:11:27,360", 
         "num": 243, 
-        "end": "00:12:40,124", 
-        "text": "That's why we're presenting tomorrow."
+        "episode": "S01E02", 
+        "text": "and I wrapped our financials.<br />I did a DCF valuation."
     }, 
     {
-        "start": "00:12:40,320", 
+        "end": "00:11:35,246", 
+        "start": "00:11:31,400", 
         "num": 244, 
-        "end": "00:12:42,322", 
-        "text": "And you know what? We're going to win."
+        "episode": "S01E02", 
+        "text": "Most VCs can't even do that math,<br />but something tells me Peter is different."
     }, 
     {
-        "start": "00:12:42,400", 
+        "end": "00:11:38,440", 
+        "start": "00:11:35,960", 
         "num": 245, 
-        "end": "00:12:46,485", 
-        "text": "Yeah, we're gonna win even if I have to go<br />into the auditorium and personally jerk off"
+        "episode": "S01E02", 
+        "text": "I think we can jump into<br />the one-on-ones with each team member"
     }, 
     {
-        "start": "00:12:46,560", 
+        "end": "00:11:40,602", 
+        "start": "00:11:38,520", 
         "num": 246, 
-        "end": "00:12:47,846", 
-        "text": "every guy in the audience."
+        "episode": "S01E02", 
+        "text": "- to see if I can defend our cap table.<br />- Okay."
     }, 
     {
-        "start": "00:12:48,360", 
+        "end": "00:11:44,050", 
+        "start": "00:11:41,240", 
         "num": 247, 
-        "end": "00:12:49,930", 
-        "text": "That's a lot of jerking."
+        "episode": "S01E02", 
+        "text": "But first, if you don't mind,<br />I'd like to use the restroom."
     }, 
     {
-        "start": "00:12:50,840", 
+        "end": "00:11:46,971", 
+        "start": "00:11:44,400", 
         "num": 248, 
-        "end": "00:12:53,605", 
-        "text": "And we only have 10<br />minutes to present. So..."
+        "episode": "S01E02", 
+        "text": "Uh, yeah. You don't have to<br />ask permission to do that."
     }, 
     {
-        "start": "00:12:54,040", 
+        "end": "00:11:48,883", 
+        "start": "00:11:47,040", 
         "num": 249, 
-        "end": "00:12:56,441", 
-        "text": "So, we're fucked, aren't we?"
+        "episode": "S01E02", 
+        "text": "Why, have you not gone<br />since you've been here?"
     }, 
     {
-        "start": "00:12:58,480", 
+        "end": "00:11:50,167", 
+        "start": "00:11:49,120", 
         "num": 250, 
-        "end": "00:13:02,804", 
-        "text": "Yeah, even if he's jerking two at a time,<br />there are, what, 800 guys in that room?"
+        "episode": "S01E02", 
+        "text": "I have not."
     }, 
     {
-        "start": "00:13:02,880", 
+        "end": "00:11:54,921", 
+        "start": "00:11:52,680", 
         "num": 251, 
-        "end": "00:13:05,929", 
-        "text": "So that's 400 times<br />whatever the mean jerk-time is."
+        "episode": "S01E02", 
+        "text": "Well... Well, go. I mean, go."
     }, 
     {
-        "start": "00:13:06,040", 
+        "end": "00:11:56,401", 
+        "start": "00:11:55,240", 
         "num": 252, 
-        "end": "00:13:07,929", 
-        "text": "- The what?<br />- DINESH: Mean jerk-time."
+        "episode": "S01E02", 
+        "text": "(SOOTHING MUSIC PLAYING)"
     }, 
     {
-        "start": "00:13:08,000", 
+        "end": "00:11:59,051", 
+        "start": "00:11:56,480", 
         "num": 253, 
-        "end": "00:13:10,207", 
-        "text": "I mean, it doesn't matter,<br />but, hypothetically,"
+        "episode": "S01E02", 
+        "text": "Denpok, I know you were in Aspen.<br />Thank you for coming."
     }, 
     {
-        "start": "00:13:10,280", 
+        "end": "00:12:00,725", 
+        "start": "00:11:59,280", 
         "num": 254, 
-        "end": "00:13:13,568", 
-        "text": "time is equal to 400 total jerks<br />at a two-dick rate."
+        "episode": "S01E02", 
+        "text": "Please, have a seat."
     }, 
     {
-        "start": "00:13:14,320", 
+        "end": "00:12:04,445", 
+        "start": "00:12:02,920", 
         "num": 255, 
-        "end": "00:13:17,767", 
-        "text": "Unless Erlich jerks off four guys at a<br />time, and then we can cut that in half."
+        "episode": "S01E02", 
+        "text": "I'm not sitting this summer."
     }, 
     {
-        "start": "00:13:18,000", 
+        "end": "00:12:07,726", 
+        "start": "00:12:05,200", 
         "num": 256, 
-        "end": "00:13:19,411", 
-        "text": "How would he do four guys..."
+        "episode": "S01E02", 
+        "text": "Of course. Incredible."
     }, 
     {
-        "start": "00:13:19,480", 
+        "end": "00:12:14,126", 
+        "start": "00:12:11,680", 
         "num": 257, 
-        "end": "00:13:22,211", 
-        "text": "He's got two hands,<br />so that's two dicks at a time, right?"
+        "episode": "S01E02", 
+        "text": "What's weighing on you, Gavin?"
     }, 
     {
-        "start": "00:13:22,320", 
+        "end": "00:12:16,481", 
+        "start": "00:12:14,240", 
         "num": 258, 
-        "end": "00:13:25,881", 
-        "text": "Look, you have two guys on either side<br />with their dicks, tip to tip,"
+        "episode": "S01E02", 
+        "text": "Jared Dunn quit today to join Pied Piper."
     }, 
     {
-        "start": "00:13:25,960", 
+        "end": "00:12:20,326", 
+        "start": "00:12:16,640", 
         "num": 259, 
-        "end": "00:13:29,362", 
-        "text": "so you're going full-length. Four, see?"
+        "episode": "S01E02", 
+        "text": "I hate Richard Hendricks,<br />that little Pied Piper prick."
     }, 
     {
-        "start": "00:13:29,440", 
+        "end": "00:12:22,001", 
+        "start": "00:12:21,000", 
         "num": 260, 
-        "end": "00:13:30,441", 
-        "text": "Oh..."
+        "episode": "S01E02", 
+        "text": "(SIGHS)"
     }, 
     {
-        "start": "00:13:30,720", 
+        "end": "00:12:23,844", 
+        "start": "00:12:22,080", 
         "num": 261, 
-        "end": "00:13:32,449", 
-        "text": "From the middle out. That does make sense."
+        "episode": "S01E02", 
+        "text": "ls... Is that wrong?"
     }, 
     {
-        "start": "00:13:32,520", 
+        "end": "00:12:26,970", 
+        "start": "00:12:24,160", 
         "num": 262, 
-        "end": "00:13:33,487", 
-        "text": "GILFOYLE: Like two Shake Weights?"
+        "episode": "S01E02", 
+        "text": "In the hands of a lesser person, perhaps."
     }, 
     {
-        "start": "00:13:33,560", 
+        "end": "00:12:30,845", 
+        "start": "00:12:28,160", 
         "num": 263, 
-        "end": "00:13:35,847", 
-        "text": "DINESH: Yeah, so what we're trying to do,<br />hypothetically,"
+        "episode": "S01E02", 
+        "text": "But in the hands of the enlightened,"
     }, 
     {
-        "start": "00:13:35,960", 
+        "end": "00:12:33,810", 
+        "start": "00:12:30,920", 
         "num": 264, 
-        "end": "00:13:39,487", 
-        "text": "is minimize time, which is 800 dudes,"
+        "episode": "S01E02", 
+        "text": "hate can be a tool for great change."
     }, 
     {
-        "start": "00:13:39,560", 
+        "end": "00:12:37,641", 
+        "start": "00:12:35,320", 
         "num": 265, 
-        "end": "00:13:43,326", 
-        "text": "multiplied by mean-jerk time,<br />divided by four dicks at a time."
+        "episode": "S01E02", 
+        "text": "You're right once again."
     }, 
     {
-        "start": "00:13:43,400", 
+        "end": "00:12:38,841", 
+        "start": "00:12:37,760", 
         "num": 266, 
-        "end": "00:13:47,769", 
-        "text": "Of course, Erlich would have to pre-sort guys<br />by height, so that their dicks lined up."
+        "episode": "S01E02", 
+        "text": "(BREATHING DEEPLY)"
     }, 
     {
-        "start": "00:13:47,840", 
+        "end": "00:12:45,202", 
+        "start": "00:12:41,880", 
         "num": 267, 
-        "end": "00:13:49,365", 
-        "text": "GILFOYLE: Not by height, technically."
+        "episode": "S01E02", 
+        "text": "Audious, play John Lennon's Imagine."
     }, 
     {
-        "start": "00:13:49,480", 
+        "end": "00:12:47,404", 
+        "start": "00:12:45,720", 
         "num": 268, 
-        "end": "00:13:53,007", 
-        "text": "The measurement that we're looking<br />for, really, is dick-to-floor."
+        "episode": "S01E02", 
+        "text": "- (MACHINE BEEPING)<br />- AUTOMATED VOICE: Cueing John Wayne"
     }, 
     {
-        "start": "00:13:53,520", 
+        "end": "00:12:49,687", 
+        "start": "00:12:47,480", 
         "num": 269, 
-        "end": "00:13:55,682", 
-        "text": "- Call that D2F.<br />- DINESH: Huh."
+        "episode": "S01E02", 
+        "text": "In A Mansion. Not found."
     }, 
     {
-        "start": "00:13:56,240", 
+        "end": "00:12:52,680", 
+        "start": "00:12:50,200", 
         "num": 270, 
-        "end": "00:13:57,366", 
-        "text": "Oh, my God."
+        "episode": "S01E02", 
+        "text": "- Fuck! Fuck!<br />- Invalid command."
     }, 
     {
-        "start": "00:13:57,480", 
+        "end": "00:12:57,130", 
+        "start": "00:12:52,920", 
         "num": 271, 
-        "end": "00:13:59,767", 
-        "text": "You know, if a guy's dick was long enough,"
+        "episode": "S01E02", 
+        "text": "Use the anger, Chela. Use it."
     }, 
     {
-        "start": "00:13:59,840", 
+        "end": "00:13:00,881", 
+        "start": "00:12:59,720", 
         "num": 272, 
-        "end": "00:14:03,890", 
-        "text": "it would be able to reach up or down<br />to another guy with a different D2F."
+        "episode": "S01E02", 
+        "text": "(EXHALING)"
     }, 
     {
-        "start": "00:14:03,960", 
+        "end": "00:13:06,888", 
+        "start": "00:13:02,360", 
         "num": 273, 
-        "end": "00:14:07,487", 
-        "text": "The longer the dick,<br />the greater the D2F bridge,"
+        "episode": "S01E02", 
+        "text": "Uh, thanks for sitting down like this, Gilfoyle.<br />We know it's kind of a little weird."
     }, 
     {
-        "start": "00:14:07,560", 
+        "end": "00:13:12,327", 
+        "start": "00:13:07,400", 
         "num": 274, 
-        "end": "00:14:11,451", 
-        "text": "but I would still be able<br />to jerk it off in one smooth motion."
+        "episode": "S01E02", 
+        "text": "So, um, can you kind of catch me up on<br />what you see as your role in the company?"
     }, 
     {
-        "start": "00:14:11,760", 
+        "end": "00:13:15,246", 
+        "start": "00:13:12,640", 
         "num": 275, 
-        "end": "00:14:13,410", 
-        "text": "I would just have to jerk it on an angle."
+        "episode": "S01E02", 
+        "text": "- What do you do?<br />- What do I do?"
     }, 
     {
-        "start": "00:14:13,480", 
+        "end": "00:13:20,565", 
+        "start": "00:13:17,800", 
         "num": 276, 
-        "end": "00:14:15,801", 
-        "text": "GILFOYLE: So D2F sub-1 needs<br />to equal D2F sub-2,"
+        "episode": "S01E02", 
+        "text": "System architecture.<br />Networking and security."
     }, 
     {
-        "start": "00:14:15,880", 
+        "end": "00:13:23,609", 
+        "start": "00:13:21,720", 
         "num": 277, 
-        "end": "00:14:18,121", 
-        "text": "and D2F sub-3 needs to equal D2F sub-4,"
+        "episode": "S01E02", 
+        "text": "No one in this house can touch me on that."
     }, 
     {
-        "start": "00:14:18,200", 
+        "end": "00:13:25,490", 
+        "start": "00:13:23,920", 
         "num": 278, 
-        "end": "00:14:23,240", 
-        "text": "where length, L, creates<br />a complementary shaft angle."
+        "episode": "S01E02", 
+        "text": "Okay, that's good to know."
     }, 
     {
-        "start": "00:14:23,320", 
+        "end": "00:13:27,210", 
+        "start": "00:13:25,720", 
         "num": 279, 
-        "end": "00:14:24,651", 
-        "text": "Call that theta D."
+        "episode": "S01E02", 
+        "text": "But does anyone appreciate that?"
     }, 
     {
-        "start": "00:14:24,960", 
+        "end": "00:13:30,409", 
+        "start": "00:13:27,280", 
         "num": 280, 
-        "end": "00:14:27,440", 
-        "text": "- Now, the orgasm threshold...<br />- Holy shit. Oh, my God."
+        "episode": "S01E02", 
+        "text": "While you were busy<br />minoring in gender studies"
     }, 
     {
-        "start": "00:14:28,600", 
+        "end": "00:13:32,323", 
+        "start": "00:13:30,480", 
         "num": 281, 
-        "end": "00:14:30,489", 
-        "text": "I'm such an idiot. Middle out!"
+        "episode": "S01E02", 
+        "text": "and singing a capella at Sarah Lawrence,"
     }, 
     {
-        "start": "00:14:30,680", 
+        "end": "00:13:35,244", 
+        "start": "00:13:32,400", 
         "num": 282, 
-        "end": "00:14:33,809", 
-        "text": "Middle out! Middle out! Oh, my God."
+        "episode": "S01E02", 
+        "text": "I was gaining root access to NSA servers."
     }, 
     {
-        "start": "00:14:33,880", 
+        "end": "00:13:38,643", 
+        "start": "00:13:35,480", 
         "num": 283, 
-        "end": "00:14:35,211", 
-        "text": "HOW could I... (GRUNTS)"
+        "episode": "S01E02", 
+        "text": "I was one click away<br />from starting a second Iranian Revolution."
     }, 
     {
-        "start": "00:14:35,280", 
+        "end": "00:13:40,086", 
+        "start": "00:13:38,880", 
         "num": 284, 
-        "end": "00:14:36,281", 
-        "text": "(DOOR CLOSES)"
+        "episode": "S01E02", 
+        "text": "I actually went to Vassar."
     }, 
     {
-        "start": "00:14:37,920", 
+        "end": "00:13:43,767", 
+        "start": "00:13:40,160", 
         "num": 285, 
-        "end": "00:14:40,810", 
-        "text": "Guys, does girth-similarity<br />affect Erlich's ability"
+        "episode": "S01E02", 
+        "text": "I prevent cross-site scripting.<br />I monitor for DDOS attacks,"
     }, 
     {
-        "start": "00:14:40,880", 
+        "end": "00:13:47,526", 
+        "start": "00:13:43,840", 
         "num": 286, 
-        "end": "00:14:43,486", 
-        "text": "to jerk different dicks simultaneously?"
+        "episode": "S01E02", 
+        "text": "emergency database rollbacks,<br />and faulty transaction handlings."
     }, 
     {
-        "start": "00:14:47,760", 
+        "end": "00:13:49,205", 
+        "start": "00:13:47,760", 
         "num": 287, 
-        "end": "00:14:49,603", 
-        "text": "Shit. Yeah, I think it would."
+        "episode": "S01E02", 
+        "text": "The Internet... Heard of it?"
     }, 
     {
-        "start": "00:14:49,800", 
+        "end": "00:13:51,482", 
+        "start": "00:13:49,320", 
         "num": 288, 
-        "end": "00:14:51,370", 
-        "text": "(RAPID TAPPING ON KEYBOARD)"
+        "episode": "S01E02", 
+        "text": "Transfers half a petabyte<br />of data every minute."
     }, 
     {
-        "start": "00:14:51,560", 
+        "end": "00:13:54,251", 
+        "start": "00:13:51,600", 
         "num": 289, 
-        "end": "00:14:52,766", 
-        "text": "(SIGHS)"
+        "episode": "S01E02", 
+        "text": "Do you have any idea how that happens?"
     }, 
     {
-        "start": "00:15:01,760", 
+        "end": "00:13:56,887", 
+        "start": "00:13:54,520", 
         "num": 290, 
-        "end": "00:15:06,561", 
-        "text": "Of course, it does. Time to orgasm, or T20,"
+        "episode": "S01E02", 
+        "text": "All those YouPorn ones and zeroes<br />streaming directly"
     }, 
     {
-        "start": "00:15:07,000", 
+        "end": "00:13:59,327", 
+        "start": "00:13:56,960", 
         "num": 291, 
-        "end": "00:15:08,809", 
-        "text": "has to be the same for each<br />matching pair of dicks,"
+        "episode": "S01E02", 
+        "text": "to your shitty little smart<br />phone day after day?"
     }, 
     {
-        "start": "00:15:08,880", 
+        "end": "00:14:01,920", 
+        "start": "00:13:59,440", 
         "num": 292, 
-        "end": "00:15:11,880", 
-        "text": "otherwise I'm wasting a lot of great<br />strokes on a guy that's already busted."
+        "episode": "S01E02", 
+        "text": "Every dipshit who shits his pants<br />if he can't get"
     }, 
     {
-        "start": "00:15:11,920", 
+        "end": "00:14:04,401", 
+        "start": "00:14:02,000", 
         "num": 293, 
-        "end": "00:15:16,369", 
-        "text": "Unless you can hotswap dicks in and out.<br />So on a downstroke, you get a new one in."
+        "episode": "S01E02", 
+        "text": "the new dubstep Skrillex remix<br />in under 12 seconds?"
     }, 
     {
-        "start": "00:15:16,440", 
+        "end": "00:14:07,127", 
+        "start": "00:14:04,760", 
         "num": 294, 
-        "end": "00:15:18,480", 
-        "text": "So when you stroke up<br />you're not wasting any energy."
+        "episode": "S01E02", 
+        "text": "It's not magic, it's talent and sweat."
     }, 
     {
-        "start": "00:15:18,560", 
+        "end": "00:14:11,281", 
+        "start": "00:14:07,720", 
         "num": 295, 
-        "end": "00:15:21,325", 
-        "text": "Even so. I think this is<br />the most reliable metric for stamina."
+        "episode": "S01E02", 
+        "text": "People like me ensuring your packets<br />get delivered un-sniffed."
     }, 
     {
-        "start": "00:15:21,440", 
+        "end": "00:14:12,521", 
+        "start": "00:14:11,360", 
         "num": 296, 
-        "end": "00:15:26,924", 
-        "text": "Guys? Richard's been locked in here for<br />almost two hours. Do we think he's okay?"
+        "episode": "S01E02", 
+        "text": "So what do I do?"
     }, 
     {
-        "start": "00:15:27,840", 
+        "end": "00:14:15,651", 
+        "start": "00:14:12,920", 
         "num": 297, 
-        "end": "00:15:29,330", 
-        "text": "ERLICH: Hmm, you don't think he'd..."
+        "episode": "S01E02", 
+        "text": "I make sure that one bad config<br />on one key component"
     }, 
     {
-        "start": "00:15:29,400", 
+        "end": "00:14:17,722", 
+        "start": "00:14:15,720", 
         "num": 298, 
-        "end": "00:15:30,686", 
-        "text": "He did seem pretty bummed out."
+        "episode": "S01E02", 
+        "text": "doesn't bankrupt the<br />entire fucking company."
     }, 
     {
-        "start": "00:15:33,640", 
+        "end": "00:14:19,370", 
+        "start": "00:14:17,800", 
         "num": 299, 
-        "end": "00:15:35,165", 
-        "text": "(HOUSE MUSIC BLARES)"
+        "episode": "S01E02", 
+        "text": "That's what the fuck I do."
     }, 
     {
-        "start": "00:15:44,560", 
+        "end": "00:14:22,608", 
+        "start": "00:14:20,640", 
         "num": 300, 
-        "end": "00:15:45,971", 
-        "text": "(INAUDIBLE)"
+        "episode": "S01E02", 
+        "text": "Um, that's basically what I told him."
     }, 
     {
-        "start": "00:16:07,680", 
+        "end": "00:14:25,122", 
+        "start": "00:14:22,960", 
         "num": 301, 
-        "end": "00:16:08,681", 
-        "text": "(DOOR OPENS)"
+        "episode": "S01E02", 
+        "text": "Listen, wherever we end up here,"
     }, 
     {
-        "start": "00:16:09,160", 
+        "end": "00:14:29,283", 
+        "start": "00:14:26,120", 
         "num": 302, 
-        "end": "00:16:10,161", 
-        "text": "(SIGHS)"
+        "episode": "S01E02", 
+        "text": "I just wanna say that I feel<br />I should get more equity than Dinesh."
     }, 
     {
-        "start": "00:16:10,560", 
+        "end": "00:14:32,007", 
+        "start": "00:14:29,800", 
         "num": 303, 
-        "end": "00:16:11,607", 
-        "text": "All right, guys, let's go."
+        "episode": "S01E02", 
+        "text": "I know Gilfoyle probably<br />came in here and puked out"
     }, 
     {
-        "start": "00:16:11,680", 
+        "end": "00:14:33,241", 
+        "start": "00:14:32,080", 
         "num": 304, 
-        "end": "00:16:13,284", 
-        "text": "The finals are starting.<br />(CLEARS THROAT) Up!"
+        "episode": "S01E02", 
+        "text": "a bunch of tech specs,"
     }, 
     {
-        "start": "00:16:13,360", 
+        "end": "00:14:36,005", 
+        "start": "00:14:33,320", 
         "num": 305, 
-        "end": "00:16:14,407", 
-        "text": "Gilfoyle!"
+        "episode": "S01E02", 
+        "text": "three-fourths of which<br />are total horse-shit."
     }, 
     {
-        "start": "00:16:14,960", 
+        "end": "00:14:38,322", 
+        "start": "00:14:36,160", 
         "num": 306, 
-        "end": "00:16:16,007", 
-        "text": "RICHARD: Jesus!"
+        "episode": "S01E02", 
+        "text": "Did he bring up the<br />Iranian Revolution thing?"
     }, 
     {
-        "start": "00:16:17,760", 
+        "end": "00:14:40,770", 
+        "start": "00:14:39,120", 
         "num": 307, 
-        "end": "00:16:20,161", 
-        "text": "What happened to the door?"
+        "episode": "S01E02", 
+        "text": "Yeah, those words mean nothing."
     }, 
     {
-        "start": "00:16:20,240", 
+        "end": "00:14:42,405", 
+        "start": "00:14:41,040", 
         "num": 308, 
-        "end": "00:16:22,163", 
-        "text": "Don't worry about it, Richard.<br />Ls the platform up and running?"
+        "episode": "S01E02", 
+        "text": "But here's a fact,"
     }, 
     {
-        "start": "00:16:22,240", 
+        "end": "00:14:45,086", 
+        "start": "00:14:42,480", 
         "num": 309, 
-        "end": "00:16:25,164", 
-        "text": "I made a few changes, but yeah..."
+        "episode": "S01E02", 
+        "text": "I'm the only one of these clowns<br />that can code in Java."
     }, 
     {
-        "start": "00:16:25,240", 
+        "end": "00:14:48,131", 
+        "start": "00:14:45,560", 
         "num": 310, 
-        "end": "00:16:28,164", 
-        "text": "Okay, tell me on the walk.<br />All right, you dildos, let's go!"
+        "episode": "S01E02", 
+        "text": "And I write sleek, performant,<br />low-overhead Scala code"
     }, 
     {
-        "start": "00:16:28,480", 
+        "end": "00:14:51,164", 
+        "start": "00:14:48,240", 
         "num": 311, 
-        "end": "00:16:30,847", 
-        "text": "All right, talk to me, Richard.<br />What were you working on last night?"
+        "episode": "S01E02", 
+        "text": "with higher order functions<br />that will run on anything."
     }, 
     {
-        "start": "00:16:30,920", 
+        "end": "00:14:53,602", 
+        "start": "00:14:51,440", 
         "num": 312, 
-        "end": "00:16:32,763", 
-        "text": "RICHARD: Well, uh,<br />I might've made a breakthrough."
+        "episode": "S01E02", 
+        "text": "Period. End of sentence."
     }, 
     {
-        "start": "00:16:32,840", 
+        "end": "00:14:56,684", 
+        "start": "00:14:53,760", 
         "num": 313, 
-        "end": "00:16:34,126", 
-        "text": "ERLICH: Really, so everything is working?"
+        "episode": "S01E02", 
+        "text": "So, basically, I think<br />whatever equity I get,"
     }, 
     {
-        "start": "00:16:34,200", 
+        "end": "00:14:59,811", 
+        "start": "00:14:57,160", 
         "num": 314, 
-        "end": "00:16:35,884", 
-        "text": "RICHARD: Uh, technically, no."
+        "episode": "S01E02", 
+        "text": "it should reflect that<br />I contribute more than Gilfoyle."
     }, 
     {
-        "start": "00:16:35,960", 
+        "end": "00:15:04,730", 
+        "start": "00:15:01,920", 
         "num": 315, 
-        "end": "00:16:36,961", 
+        "episode": "S01E02", 
+        "text": "- This is weird.<br />- I know, right? It's..."
+    }, 
+    {
+        "end": "00:15:07,161", 
+        "start": "00:15:04,840", 
+        "num": 316, 
+        "episode": "S01E02", 
+        "text": "- Everybody's been doing it.<br />- Gilfoyle did this?"
+    }, 
+    {
+        "end": "00:15:09,801", 
+        "start": "00:15:07,480", 
+        "num": 317, 
+        "episode": "S01E02", 
+        "text": "It's just a formality to get me caught up."
+    }, 
+    {
+        "end": "00:15:12,846", 
+        "start": "00:15:10,240", 
+        "num": 318, 
+        "episode": "S01E02", 
+        "text": "So what makes you of value<br />to the Pied Piper team?"
+    }, 
+    {
+        "end": "00:15:14,921", 
+        "start": "00:15:13,920", 
+        "num": 319, 
+        "episode": "S01E02", 
+        "text": "Um..."
+    }, 
+    {
+        "end": "00:15:16,401", 
+        "start": "00:15:15,320", 
+        "num": 320, 
+        "episode": "S01E02", 
+        "text": "Programming, I guess."
+    }, 
+    {
+        "end": "00:15:21,646", 
+        "start": "00:15:16,480", 
+        "num": 321, 
+        "episode": "S01E02", 
+        "text": "Pretty good at code,<br />develop algorithms, so forth."
+    }, 
+    {
+        "end": "00:15:24,530", 
+        "start": "00:15:21,720", 
+        "num": 322, 
+        "episode": "S01E02", 
+        "text": "Different from the type of<br />algorithm Richard created?"
+    }, 
+    {
+        "end": "00:15:27,002", 
+        "start": "00:15:25,000", 
+        "num": 323, 
+        "episode": "S01E02", 
+        "text": "Well, yeah. Like, not as good."
+    }, 
+    {
+        "end": "00:15:30,127", 
+        "start": "00:15:27,920", 
+        "num": 324, 
+        "episode": "S01E02", 
+        "text": "Richard's a 10X-er. I'm,<br />like, barely an X-er."
+    }, 
+    {
+        "end": "00:15:31,566", 
+        "start": "00:15:30,440", 
+        "num": 325, 
+        "episode": "S01E02", 
+        "text": "(BOTH LAUGHING)"
+    }, 
+    {
+        "end": "00:15:33,001", 
+        "start": "00:15:31,920", 
+        "num": 326, 
+        "episode": "S01E02", 
+        "text": "I kinda suck."
+    }, 
+    {
+        "end": "00:15:35,041", 
+        "start": "00:15:33,200", 
+        "num": 327, 
+        "episode": "S01E02", 
+        "text": "- (MAN IN GAME GROANS)<br />- Smoked you. And now..."
+    }, 
+    {
+        "end": "00:15:37,887", 
+        "start": "00:15:35,520", 
+        "num": 328, 
+        "episode": "S01E02", 
+        "text": "- Don't be a dick.<br />- Mushroom stamp!"
+    }, 
+    {
+        "end": "00:15:41,368", 
+        "start": "00:15:38,080", 
+        "num": 329, 
+        "episode": "S01E02", 
+        "text": "- You're being a dick.<br />- Oh, there you go. Show that to your mom."
+    }, 
+    {
+        "end": "00:15:44,131", 
+        "start": "00:15:41,560", 
+        "num": 330, 
+        "episode": "S01E02", 
+        "text": "Mushroom stamp! That's great."
+    }, 
+    {
+        "end": "00:15:47,809", 
+        "start": "00:15:46,000", 
+        "num": 331, 
+        "episode": "S01E02", 
+        "text": "Hey, what do you guys<br />think about this Jared?"
+    }, 
+    {
+        "end": "00:15:48,881", 
+        "start": "00:15:47,880", 
+        "num": 332, 
+        "episode": "S01E02", 
+        "text": "He's shit, right?"
+    }, 
+    {
+        "end": "00:15:50,521", 
+        "start": "00:15:49,360", 
+        "num": 333, 
+        "episode": "S01E02", 
+        "text": "No, he's pretty sharp."
+    }, 
+    {
+        "end": "00:15:53,001", 
+        "start": "00:15:50,760", 
+        "num": 334, 
+        "episode": "S01E02", 
+        "text": "Yeah, he does shit that<br />no one else in the house can do."
+    }, 
+    {
+        "end": "00:15:55,960", 
+        "start": "00:15:53,080", 
+        "num": 335, 
+        "episode": "S01E02", 
+        "text": "Yeah, but he's a know-it-all.<br />I don't think there's room in here for him."
+    }, 
+    {
+        "end": "00:15:58,082", 
+        "start": "00:15:56,000", 
+        "num": 336, 
+        "episode": "S01E02", 
+        "text": "Well, there will be<br />after Richard gets rid of Big Head."
+    }, 
+    {
+        "end": "00:16:00,128", 
+        "start": "00:15:58,160", 
+        "num": 337, 
+        "episode": "S01E02", 
+        "text": "Wait, Richard's getting<br />rid of Big Head? Why?"
+    }, 
+    {
+        "end": "00:16:01,810", 
+        "start": "00:16:00,240", 
+        "num": 338, 
+        "episode": "S01E02", 
+        "text": "Listen, we all love Big Head."
+    }, 
+    {
+        "end": "00:16:04,247", 
+        "start": "00:16:01,880", 
+        "num": 339, 
+        "episode": "S01E02", 
+        "text": "But the truth is, he's not<br />as good of a coder as I am,"
+    }, 
+    {
+        "end": "00:16:06,161", 
+        "start": "00:16:04,320", 
+        "num": 340, 
+        "episode": "S01E02", 
+        "text": "not as good at system architecture<br />as Gilfoyle,"
+    }, 
+    {
+        "end": "00:16:09,171", 
+        "start": "00:16:06,600", 
+        "num": 341, 
+        "episode": "S01E02", 
+        "text": "not as good at being a prick as you,<br />no offense."
+    }, 
+    {
+        "end": "00:16:11,720", 
+        "start": "00:16:09,280", 
+        "num": 342, 
+        "episode": "S01E02", 
+        "text": "He's a lightweight at everything.<br />Brings nothing to the table."
+    }, 
+    {
+        "end": "00:16:15,324", 
+        "start": "00:16:12,320", 
+        "num": 343, 
+        "episode": "S01E02", 
+        "text": "Him getting points would be<br />a big \"fuck you\" to all of us."
+    }, 
+    {
+        "end": "00:16:19,765", 
+        "start": "00:16:15,680", 
+        "num": 344, 
+        "episode": "S01E02", 
+        "text": "- But he's a great guy.<br />- Great guy. But useless."
+    }, 
+    {
+        "end": "00:16:22,562", 
+        "start": "00:16:20,480", 
+        "num": 345, 
+        "episode": "S01E02", 
+        "text": "Yeah, he is a great guy."
+    }, 
+    {
+        "end": "00:16:25,243", 
+        "start": "00:16:23,400", 
+        "num": 346, 
+        "episode": "S01E02", 
+        "text": "Not like that Jared. Huh."
+    }, 
+    {
+        "end": "00:16:27,529", 
+        "start": "00:16:25,640", 
+        "num": 347, 
+        "episode": "S01E02", 
+        "text": "At least we can all agree on that."
+    }, 
+    {
+        "end": "00:16:29,891", 
+        "start": "00:16:28,560", 
+        "num": 348, 
+        "episode": "S01E02", 
+        "text": "Yeah, I don't know."
+    }, 
+    {
+        "end": "00:16:33,009", 
+        "start": "00:16:29,960", 
+        "num": 349, 
+        "episode": "S01E02", 
+        "text": "Me and Richard have just always<br />been in this together, you know?"
+    }, 
+    {
+        "end": "00:16:34,201", 
+        "start": "00:16:33,200", 
+        "num": 350, 
+        "episode": "S01E02", 
+        "text": "Together, right."
+    }, 
+    {
+        "end": "00:16:37,682", 
+        "start": "00:16:34,280", 
+        "num": 351, 
+        "episode": "S01E02", 
+        "text": "But to be clear, Richard created<br />the algorithm on his own, yes?"
+    }, 
+    {
+        "end": "00:16:39,601", 
+        "start": "00:16:38,000", 
+        "num": 352, 
+        "episode": "S01E02", 
+        "text": "Oh, yeah, I had nothing to do with that."
+    }, 
+    {
+        "end": "00:16:43,482", 
+        "start": "00:16:41,320", 
+        "num": 353, 
+        "episode": "S01E02", 
+        "text": "- He's my best friend.<br />- That's true."
+    }, 
+    {
+        "end": "00:16:46,564", 
+        "start": "00:16:43,560", 
+        "num": 354, 
+        "episode": "S01E02", 
+        "text": "Yes. The camaraderie is quite apparent."
+    }, 
+    {
+        "end": "00:16:51,965", 
+        "start": "00:16:46,640", 
+        "num": 355, 
+        "episode": "S01E02", 
+        "text": "But Peter Gregory demanded<br />a lean, ruthless business plan,"
+    }, 
+    {
+        "end": "00:16:56,090", 
+        "start": "00:16:52,040", 
+        "num": 356, 
+        "episode": "S01E02", 
+        "text": "and I don't think that the CEO of Microsoft<br />has a paid best friend."
+    }, 
+    {
+        "end": "00:16:59,410", 
+        "start": "00:16:56,600", 
+        "num": 357, 
+        "episode": "S01E02", 
+        "text": "Sergey Brin does. (CHUCKLES)<br />Larry doesn't do shit."
+    }, 
+    {
+        "end": "00:17:00,481", 
+        "start": "00:16:59,480", 
+        "num": 358, 
+        "episode": "S01E02", 
+        "text": "See."
+    }, 
+    {
+        "end": "00:17:04,810", 
+        "start": "00:17:01,920", 
+        "num": 359, 
+        "episode": "S01E02", 
+        "text": "What if Big Head is sort of<br />like a floating utility player?"
+    }, 
+    {
+        "end": "00:17:06,609", 
+        "start": "00:17:04,880", 
+        "num": 360, 
+        "episode": "S01E02", 
+        "text": "Like a jack of all trades."
+    }, 
+    {
+        "end": "00:17:12,569", 
+        "start": "00:17:08,120", 
+        "num": 361, 
+        "episode": "S01E02", 
+        "text": "But, by his own admission,<br />he's really more like a master of none."
+    }, 
+    {
+        "end": "00:17:14,284", 
+        "start": "00:17:12,680", 
+        "num": 362, 
+        "episode": "S01E02", 
+        "text": "That's true. That is true."
+    }, 
+    {
+        "end": "00:17:17,409", 
+        "start": "00:17:14,360", 
+        "num": 363, 
+        "episode": "S01E02", 
+        "text": "Which is not something<br />you'd generally reward with several points"
+    }, 
+    {
+        "end": "00:17:21,007", 
+        "start": "00:17:17,480", 
+        "num": 364, 
+        "episode": "S01E02", 
+        "text": "in what may someday be<br />a multi-billion dollar company."
+    }, 
+    {
+        "end": "00:17:23,283", 
+        "start": "00:17:21,440", 
+        "num": 365, 
+        "episode": "S01E02", 
+        "text": "This will never fly with Peter Gregory."
+    }, 
+    {
+        "end": "00:17:28,051", 
+        "start": "00:17:25,480", 
+        "num": 366, 
+        "episode": "S01E02", 
+        "text": "I would not want to be Richard right now."
+    }, 
+    {
+        "end": "00:17:30,122", 
+        "start": "00:17:28,120", 
+        "num": 367, 
+        "episode": "S01E02", 
+        "text": "Having to tell Big Head that he's out."
+    }, 
+    {
+        "end": "00:17:32,201", 
+        "start": "00:17:30,640", 
+        "num": 368, 
+        "episode": "S01E02", 
+        "text": "DINESH: This is gonna sound super mean,"
+    }, 
+    {
+        "end": "00:17:34,726", 
+        "start": "00:17:32,280", 
+        "num": 369, 
+        "episode": "S01E02", 
+        "text": "but the other night he was sleeping,<br />I was just staring at his face."
+    }, 
+    {
+        "end": "00:17:38,168", 
+        "start": "00:17:34,800", 
+        "num": 370, 
+        "episode": "S01E02", 
+        "text": "All I could think was,<br />\"He's utterly useless."
+    }, 
+    {
+        "end": "00:17:40,721", 
+        "start": "00:17:38,480", 
+        "num": 371, 
+        "episode": "S01E02", 
+        "text": "\"Big Head is a man with zero purpose.\""
+    }, 
+    {
+        "end": "00:17:42,086", 
+        "start": "00:17:40,800", 
+        "num": 372, 
+        "episode": "S01E02", 
+        "text": "(JARED CLEARS THROAT)"
+    }, 
+    {
+        "end": "00:17:46,801", 
+        "start": "00:17:43,240", 
+        "num": 373, 
+        "episode": "S01E02", 
+        "text": "- Oh, hi. Hi, Big Head.<br />- Hey."
+    }, 
+    {
+        "end": "00:17:47,961", 
+        "start": "00:17:46,960", 
+        "num": 374, 
+        "episode": "S01E02", 
+        "text": "How's it going?"
+    }, 
+    {
+        "end": "00:17:51,331", 
+        "start": "00:17:48,600", 
+        "num": 375, 
+        "episode": "S01E02", 
+        "text": "It's super good right now."
+    }, 
+    {
+        "end": "00:17:54,643", 
+        "start": "00:17:51,560", 
+        "num": 376, 
+        "episode": "S01E02", 
+        "text": "Um, I'm just going to maybe<br />go for a bike ride real fast"
+    }, 
+    {
+        "end": "00:17:58,084", 
+        "start": "00:17:55,240", 
+        "num": 377, 
+        "episode": "S01E02", 
+        "text": "and clear my... head."
+    }, 
+    {
+        "end": "00:18:00,004", 
+        "start": "00:17:58,400", 
+        "num": 378, 
+        "episode": "S01E02", 
+        "text": "I'll see you."
+    }, 
+    {
+        "end": "00:18:02,005", 
+        "start": "00:18:00,480", 
+        "num": 379, 
+        "episode": "S01E02", 
+        "text": "- Bike safe.<br />- Yeah, enjoy it."
+    }, 
+    {
+        "end": "00:18:04,686", 
+        "start": "00:18:02,160", 
+        "num": 380, 
+        "episode": "S01E02", 
+        "text": "That was nice, guys. He heard everything."
+    }, 
+    {
+        "end": "00:18:06,285", 
+        "start": "00:18:04,840", 
+        "num": 381, 
+        "episode": "S01E02", 
+        "text": "That doesn't make it not true."
+    }, 
+    {
+        "end": "00:18:09,284", 
+        "start": "00:18:06,360", 
+        "num": 382, 
+        "episode": "S01E02", 
+        "text": "I mean, come on, Richard.<br />As far as Pied Piper is concerned,"
+    }, 
+    {
+        "end": "00:18:11,846", 
+        "start": "00:18:09,400", 
+        "num": 383, 
+        "episode": "S01E02", 
+        "text": "he's as pointless as Mass <i>Effect</i> 3's<br />multiple endings."
+    }, 
+    {
+        "end": "00:18:15,527", 
+        "start": "00:18:11,920", 
+        "num": 384, 
+        "episode": "S01E02", 
+        "text": "I mean, he's a completely useless<br />appendage, and we all know it."
+    }, 
+    {
+        "end": "00:18:19,920", 
+        "start": "00:18:17,440", 
+        "num": 385, 
+        "episode": "S01E02", 
+        "text": "- Oh, hey, man.<br />- Forgot my water bottle."
+    }, 
+    {
+        "end": "00:18:29,041", 
+        "start": "00:18:24,080", 
+        "num": 386, 
+        "episode": "S01E02", 
+        "text": "Just gonna grab it, and then probably<br />walk right back through one more time."
+    }, 
+    {
+        "end": "00:18:32,409", 
+        "start": "00:18:30,520", 
+        "num": 387, 
+        "episode": "S01E02", 
+        "text": "<i>I mean, Mass Effect 3?</i>"
+    }, 
+    {
+        "end": "00:18:34,121", 
+        "start": "00:18:33,120", 
+        "num": 388, 
+        "episode": "S01E02", 
+        "text": "Harsh."
+    }, 
+    {
+        "end": "00:18:36,129", 
+        "start": "00:18:34,240", 
+        "num": 389, 
+        "episode": "S01E02", 
+        "text": "I didn't mean for him to hear it,<br />but it was true."
+    }, 
+    {
+        "end": "00:18:39,727", 
+        "start": "00:18:36,200", 
+        "num": 390, 
+        "episode": "S01E02", 
+        "text": "I mean, we all called him a great guy,<br />but he didn't overhear any of that."
+    }, 
+    {
+        "end": "00:18:42,884", 
+        "start": "00:18:41,120", 
+        "num": 391, 
+        "episode": "S01E02", 
+        "text": "RICHARD: (GROANS) It's been 12 hours."
+    }, 
+    {
+        "end": "00:18:45,283", 
+        "start": "00:18:43,360", 
+        "num": 392, 
+        "episode": "S01E02", 
+        "text": "God damn. He's still not answering."
+    }, 
+    {
+        "end": "00:18:48,721", 
+        "start": "00:18:46,320", 
+        "num": 393, 
+        "episode": "S01E02", 
+        "text": "You know...<br />I'm actually kind of worried about him."
+    }, 
+    {
+        "end": "00:18:52,407", 
+        "start": "00:18:48,800", 
+        "num": 394, 
+        "episode": "S01E02", 
+        "text": "You know, if he's gone,<br />like, really, truly gone,"
+    }, 
+    {
+        "end": "00:18:55,360", 
+        "start": "00:18:52,880", 
+        "num": 395, 
+        "episode": "S01E02", 
+        "text": "in a way that kind of solves your problem."
+    }, 
+    {
+        "end": "00:18:57,125", 
+        "start": "00:18:55,600", 
+        "num": 396, 
+        "episode": "S01E02", 
+        "text": "I mean, like, if he's dead..."
+    }, 
+    {
+        "end": "00:18:59,322", 
+        "start": "00:18:57,240", 
+        "num": 397, 
+        "episode": "S01E02", 
+        "text": "Are you trying to say<br />that Big Head might be dead?"
+    }, 
+    {
+        "end": "00:19:01,323", 
+        "start": "00:18:59,400", 
+        "num": 398, 
+        "episode": "S01E02", 
+        "text": "That doesn't help at all.<br />How is that helping?"
+    }, 
+    {
+        "end": "00:19:04,404", 
+        "start": "00:19:01,400", 
+        "num": 399, 
+        "episode": "S01E02", 
+        "text": "I'm just saying that that's a possible<br />thing that could've happened to him."
+    }, 
+    {
+        "end": "00:19:05,766", 
+        "start": "00:19:04,480", 
+        "num": 400, 
+        "episode": "S01E02", 
+        "text": "It could happen to anybody."
+    }, 
+    {
+        "end": "00:19:09,128", 
+        "start": "00:19:05,840", 
+        "num": 401, 
+        "episode": "S01E02", 
+        "text": "And in this case, at least<br />something good came out of it."
+    }, 
+    {
+        "end": "00:19:10,440", 
+        "start": "00:19:09,200", 
+        "num": 402, 
+        "episode": "S01E02", 
+        "text": "What's the good part?"
+    }, 
+    {
+        "end": "00:19:12,409", 
+        "start": "00:19:10,520", 
+        "num": 403, 
+        "episode": "S01E02", 
+        "text": "You don't have to have<br />an awkward conversation."
+    }, 
+    {
+        "end": "00:19:14,608", 
+        "start": "00:19:12,480", 
+        "num": 404, 
+        "episode": "S01E02", 
+        "text": "That's scary. Should we go look for him?"
+    }, 
+    {
+        "end": "00:19:18,048", 
+        "start": "00:19:14,680", 
+        "num": 405, 
+        "episode": "S01E02", 
+        "text": "I mean, I agree with these guys.<br />Jared's just not working out."
+    }, 
+    {
+        "end": "00:19:19,567", 
+        "start": "00:19:18,520", 
+        "num": 406, 
+        "episode": "S01E02", 
+        "text": "What?"
+    }, 
+    {
+        "end": "00:19:21,326", 
+        "start": "00:19:20,200", 
+        "num": 407, 
+        "episode": "S01E02", 
+        "text": "Um, Richard..."
+    }, 
+    {
+        "end": "00:19:24,207", 
+        "start": "00:19:21,920", 
+        "num": 408, 
+        "episode": "S01E02", 
+        "text": "I don't wanna be too assertive here,"
+    }, 
+    {
+        "end": "00:19:27,250", 
+        "start": "00:19:24,280", 
+        "num": 409, 
+        "episode": "S01E02", 
+        "text": "but I could use your input<br />on a few things for the business plan."
+    }, 
+    {
+        "end": "00:19:29,971", 
+        "start": "00:19:27,320", 
+        "num": 410, 
+        "episode": "S01E02", 
+        "text": "Richie, you tried your best.<br />Just call him, leave a message,"
+    }, 
+    {
+        "end": "00:19:31,121", 
+        "start": "00:19:30,040", 
+        "num": 411, 
+        "episode": "S01E02", 
+        "text": "say he's out."
+    }, 
+    {
+        "end": "00:19:32,804", 
+        "start": "00:19:31,200", 
+        "num": 412, 
+        "episode": "S01E02", 
+        "text": "No, that's an asshole move."
+    }, 
+    {
+        "end": "00:19:35,850", 
+        "start": "00:19:32,880", 
+        "num": 413, 
+        "episode": "S01E02", 
+        "text": "Yeah, remember? You need to be an asshole."
+    }, 
+    {
+        "end": "00:19:39,770", 
+        "start": "00:19:36,880", 
+        "num": 414, 
+        "episode": "S01E02", 
+        "text": "I feel bad about saying that thing<br />about him being dead."
+    }, 
+    {
+        "end": "00:19:41,001", 
+        "start": "00:19:39,840", 
+        "num": 415, 
+        "episode": "S01E02", 
+        "text": "That's not who I am."
+    }, 
+    {
+        "end": "00:19:42,561", 
+        "start": "00:19:41,560", 
+        "num": 416, 
+        "episode": "S01E02", 
+        "text": "(ALARM BEEPING)"
+    }, 
+    {
+        "end": "00:19:46,727", 
+        "start": "00:19:44,360", 
+        "num": 417, 
+        "episode": "S01E02", 
+        "text": "- Wait, what is that?<br />- That's impossible."
+    }, 
+    {
+        "end": "00:19:49,451", 
+        "start": "00:19:48,120", 
+        "num": 418, 
+        "episode": "S01E02", 
+        "text": "NipAlert isn't live yet."
+    }, 
+    {
+        "end": "00:19:51,090", 
+        "start": "00:19:49,520", 
+        "num": 419, 
+        "episode": "S01E02", 
+        "text": "Maybe he's demoing it for someone."
+    }, 
+    {
+        "end": "00:19:54,524", 
+        "start": "00:19:52,760", 
+        "num": 420, 
+        "episode": "S01E02", 
+        "text": "\"Mochacino.\""
+    }, 
+    {
+        "end": "00:19:57,001", 
+        "start": "00:19:54,600", 
+        "num": 421, 
+        "episode": "S01E02", 
+        "text": "He rode his bike to San Jose?"
+    }, 
+    {
+        "end": "00:19:58,286", 
+        "start": "00:19:57,080", 
+        "num": 422, 
+        "episode": "S01E02", 
+        "text": "Jared, can I borrow your car?"
+    }, 
+    {
+        "end": "00:20:00,203", 
+        "start": "00:19:58,360", 
+        "num": 423, 
+        "episode": "S01E02", 
+        "text": "- Sure.<br />- I have a car."
+    }, 
+    {
+        "end": "00:20:02,203", 
+        "start": "00:20:00,280", 
+        "num": 424, 
+        "episode": "S01E02", 
+        "text": "What's wrong with my car?"
+    }, 
+    {
+        "end": "00:20:03,770", 
+        "start": "00:20:02,280", 
+        "num": 425, 
+        "episode": "S01E02", 
+        "text": "I just have... I don't know."
+    }, 
+    {
+        "end": "00:20:06,282", 
+        "start": "00:20:04,120", 
+        "num": 426, 
+        "episode": "S01E02", 
+        "text": "All right, well, remember to be an asshole."
+    }, 
+    {
+        "end": "00:20:07,841", 
+        "start": "00:20:06,840", 
+        "num": 427, 
+        "episode": "S01E02", 
         "text": "(DOOR CLOSES)"
     }, 
     {
-        "start": "00:16:37,280", 
-        "num": 316, 
-        "end": "00:16:38,281", 
-        "text": "(SNORING)"
-    }, 
-    {
-        "start": "00:17:06,600", 
-        "num": 317, 
-        "end": "00:17:09,604", 
-        "text": "Let's face it, ladies,<br />is there anything less sexy"
-    }, 
-    {
-        "start": "00:17:09,680", 
-        "num": 318, 
-        "end": "00:17:13,480", 
-        "text": "than when a user's visualization UX<br />is completely sub-optimal?"
-    }, 
-    {
-        "start": "00:17:13,800", 
-        "num": 319, 
-        "end": "00:17:15,802", 
-        "text": "I mean, it's the worst, right?"
-    }, 
-    {
-        "start": "00:17:15,880", 
-        "num": 320, 
-        "end": "00:17:18,121", 
-        "text": "So we've gone through all the research<br />and all the steps."
-    }, 
-    {
-        "start": "00:17:18,160", 
-        "num": 321, 
-        "end": "00:17:21,960", 
-        "text": "We have a solution for these problems and Zenella<br />is ready to bring it to the marketplace."
-    }, 
-    {
-        "start": "00:17:22,040", 
-        "num": 322, 
-        "end": "00:17:24,168", 
-        "text": "Yeah, I get it, Richard. You changed a lot."
-    }, 
-    {
-        "start": "00:17:24,240", 
-        "num": 323, 
-        "end": "00:17:25,969", 
-        "text": "Now, just give me the basics<br />and I can roll with it."
-    }, 
-    {
-        "start": "00:17:26,040", 
-        "num": 324, 
-        "end": "00:17:27,565", 
-        "text": "I need to know what I'm presenting here."
-    }, 
-    {
-        "start": "00:17:27,640", 
-        "num": 325, 
-        "end": "00:17:29,400", 
-        "text": "I don't think I have<br />time to explain it all."
-    }, 
-    {
-        "start": "00:17:30,000", 
-        "num": 326, 
-        "end": "00:17:31,047", 
-        "text": "What the hell does that mean?"
-    }, 
-    {
-        "start": "00:17:31,120", 
-        "num": 327, 
-        "end": "00:17:33,930", 
-        "text": "Richard? Is this the right build?<br />I can't find the mobile suite here."
-    }, 
-    {
-        "start": "00:17:34,000", 
-        "num": 328, 
-        "end": "00:17:36,685", 
-        "text": "Uh, it is nowhere. I deleted it."
-    }, 
-    {
-        "start": "00:17:36,960", 
-        "num": 329, 
-        "end": "00:17:38,325", 
-        "text": "- DINESH: What?<br />- Here they are."
-    }, 
-    {
-        "start": "00:17:38,680", 
-        "num": 330, 
-        "end": "00:17:40,444", 
-        "text": "- Pied Piper's here.<br />- Sorry, we're late."
-    }, 
-    {
-        "start": "00:17:40,840", 
-        "num": 331, 
-        "end": "00:17:42,126", 
-        "text": "Richard, talk to me."
-    }, 
-    {
-        "start": "00:17:42,240", 
-        "num": 332, 
-        "end": "00:17:44,447", 
-        "text": "I can't front a band without<br />knowing what we're playing?"
-    }, 
-    {
-        "start": "00:17:44,640", 
-        "num": 333, 
-        "end": "00:17:48,770", 
-        "text": "Uh, I think I'm just going<br />to do the presentation myself."
-    }, 
-    {
-        "start": "00:17:49,040", 
-        "num": 334, 
-        "end": "00:17:51,088", 
-        "text": "Wait, what? No, no, no,<br />Richard, Richard, Richard, Richard."
-    }, 
-    {
-        "start": "00:17:51,160", 
-        "num": 335, 
-        "end": "00:17:53,811", 
-        "text": "Respectfully... Respectfully,<br />you're terrible."
-    }, 
-    {
-        "start": "00:17:54,040", 
-        "num": 336, 
-        "end": "00:17:56,122", 
-        "text": "You have a world-class showman<br />standing right in front of you"
-    }, 
-    {
-        "start": "00:17:56,200", 
-        "num": 337, 
-        "end": "00:17:57,361", 
-        "text": "and you're going to pass on that?"
-    }, 
-    {
-        "start": "00:17:57,440", 
-        "num": 338, 
-        "end": "00:17:59,966", 
-        "text": "Release me, Richard. Release the Kraken!"
-    }, 
-    {
-        "start": "00:18:00,040", 
-        "num": 339, 
-        "end": "00:18:03,283", 
-        "text": "- Pied Piper. You're on.<br />- This is it!"
-    }, 
-    {
-        "start": "00:18:03,360", 
-        "num": 340, 
-        "end": "00:18:06,523", 
-        "text": "DINESH: I don't know what you did, Richard,<br />but I hope it works."
-    }, 
-    {
-        "start": "00:18:06,600", 
-        "num": 341, 
-        "end": "00:18:07,601", 
-        "text": "RICHARD: Me, 1100."
-    }, 
-    {
-        "start": "00:18:07,960", 
-        "num": 342, 
-        "end": "00:18:10,770", 
-        "text": "<i>All right, let's welcome<br />our final team to the finals</i>"
-    }, 
-    {
-        "start": "00:18:10,840", 
-        "num": 343, 
-        "end": "00:18:14,128", 
-        "text": "<i>of this year's<br />TechCrunch Disrupt Startup Battlefield.</i>"
-    }, 
-    {
-        "start": "00:18:14,200", 
-        "num": 344, 
-        "end": "00:18:17,568", 
-        "text": "<i>- Presenting for Pied Piper is Erlich Bachman.<br />- (APPLAUSE)</i>"
-    }, 
-    {
-        "start": "00:18:23,360", 
-        "num": 345, 
-        "end": "00:18:26,443", 
-        "text": "<i>Uh, actually there has<br />been a change of plans.</i>"
-    }, 
-    {
-        "start": "00:18:26,520", 
-        "num": 346, 
-        "end": "00:18:29,967", 
-        "text": "<i>Presenting for Pied Piper<br />will be Richard Hendricks.</i>"
-    }, 
-    {
-        "start": "00:18:30,040", 
-        "num": 347, 
-        "end": "00:18:31,041", 
-        "text": "(APPLAUSE)"
-    }, 
-    {
-        "start": "00:18:36,360", 
-        "num": 348, 
-        "end": "00:18:37,646", 
-        "text": "<i>Richard?</i>"
-    }, 
-    {
-        "start": "00:18:40,440", 
-        "num": 349, 
-        "end": "00:18:43,125", 
-        "text": "Ah, sorry. Got a little<br />light-headed there for a second."
-    }, 
-    {
-        "start": "00:18:43,200", 
-        "num": 350, 
-        "end": "00:18:45,567", 
-        "text": "I set 'em up for you, now knock 'em down."
-    }, 
-    {
-        "start": "00:18:46,960", 
-        "num": 351, 
-        "end": "00:18:49,804", 
-        "text": "GILFOYLE: I don't understand.<br />I thought he made the platform better."
-    }, 
-    {
-        "start": "00:18:49,880", 
-        "num": 352, 
-        "end": "00:18:52,690", 
-        "text": "- He just deleted everything.<br />- DINESH: Maybe he moved it to the cloud?"
-    }, 
-    {
-        "start": "00:18:52,760", 
-        "num": 353, 
-        "end": "00:18:55,809", 
-        "text": "No. All The Carver's work is gone."
-    }, 
-    {
-        "start": "00:18:56,040", 
-        "num": 354, 
-        "end": "00:18:59,726", 
-        "text": "Pied Piper is a cloud-based compression.<br />Without the cloud, nothing's left."
-    }, 
-    {
-        "start": "00:18:59,800", 
-        "num": 355, 
-        "end": "00:19:01,768", 
-        "text": "Uh, gentlemen,<br />this is likely the last 10 minutes"
-    }, 
-    {
-        "start": "00:19:01,840", 
-        "num": 356, 
-        "end": "00:19:04,286", 
-        "text": "of Pied Piper, so let's enjoy it."
-    }, 
-    {
-        "start": "00:19:04,360", 
-        "num": 357, 
-        "end": "00:19:06,488", 
-        "text": "DINESH: Has he lost his mind?<br />GILFOYLE: He's lost his fucking mind."
-    }, 
-    {
-        "start": "00:19:06,560", 
-        "num": 358, 
-        "end": "00:19:09,166", 
-        "text": "<i>Hello... Hello. Hello.</i>"
-    }, 
-    {
-        "start": "00:19:09,440", 
-        "num": 359, 
-        "end": "00:19:12,683", 
-        "text": "<i>Um, I am... My name is Richard Hendricks,</i>"
-    }, 
-    {
-        "start": "00:19:12,760", 
-        "num": 360, 
-        "end": "00:19:17,482", 
-        "text": "<i>and I am, along with,<br />uh, this guy, him, him,</i>"
-    }, 
-    {
-        "start": "00:19:18,160", 
-        "num": 361, 
-        "end": "00:19:21,801", 
-        "text": "<i>and another guy that has disappeared,</i> uh..."
-    }, 
-    {
-        "start": "00:19:23,840", 
-        "num": 362, 
-        "end": "00:19:24,841", 
-        "text": "Um..."
-    }, 
-    {
-        "start": "00:19:24,920", 
-        "num": 363, 
-        "end": "00:19:27,571", 
-        "text": "<i>We are Pied Piper. A compression company.</i>"
-    }, 
-    {
-        "start": "00:19:27,640", 
-        "num": 364, 
-        "end": "00:19:29,210", 
-        "text": "<i>Well, you know, in your pamphlets</i>"
-    }, 
-    {
-        "start": "00:19:29,280", 
-        "num": 365, 
-        "end": "00:19:30,850", 
-        "text": "<i>it says that we are a cloud-based</i>"
-    }, 
-    {
-        "start": "00:19:30,920", 
-        "num": 366, 
-        "end": "00:19:34,049", 
-        "text": "<i>multi-platform solution<br />for user-focused compression.</i>"
-    }, 
-    {
-        "start": "00:19:34,240", 
-        "num": 367, 
-        "end": "00:19:37,642", 
-        "text": "<i>Uh, and we were. Until yesterday.</i>"
-    }, 
-    {
-        "start": "00:19:38,040", 
-        "num": 368, 
-        "end": "00:19:39,963", 
-        "text": "<i>But now we are not.</i>"
-    }, 
-    {
-        "start": "00:19:41,920", 
-        "num": 369, 
-        "end": "00:19:44,002", 
-        "text": "<i>Uh, because you see, Hooli</i>"
-    }, 
-    {
-        "start": "00:19:44,120", 
-        "num": 370, 
-        "end": "00:19:47,408", 
-        "text": "<i>did everything that we were trying<br />to do, uh, better, way better.</i>"
-    }, 
-    {
-        "start": "00:19:47,720", 
-        "num": 371, 
-        "end": "00:19:48,926", 
-        "text": "Um..."
-    }, 
-    {
-        "start": "00:19:49,600", 
-        "num": 372, 
-        "end": "00:19:55,084", 
-        "text": "<i>Nucleus is built on the same engine<br />as ours, like exactly the same,</i>"
-    }, 
-    {
-        "start": "00:19:55,160", 
-        "num": 373, 
-        "end": "00:19:59,006", 
-        "text": "<i>and their Weissman score was 2.89,<br />same as ours.</i>"
-    }, 
-    {
-        "start": "00:19:59,320", 
-        "num": 374, 
-        "end": "00:20:03,245", 
-        "text": "<i>But the thing is, they built a ton<br />of really great stuff up on top of that.</i>"
-    }, 
-    {
-        "start": "00:20:03,320", 
-        "num": 375, 
-        "end": "00:20:07,325", 
-        "text": "<i>And we can't compete,<br />so now we have to be something else.</i>"
-    }, 
-    {
-        "start": "00:20:07,640", 
-        "num": 376, 
-        "end": "00:20:09,802", 
-        "text": "<i>Um, well-played, Hooli.<br />(CHUCKLES</i> AWKWARDLY)"
-    }, 
-    {
-        "start": "00:20:09,880", 
-        "num": 377, 
-        "end": "00:20:15,569", 
-        "text": "<i>Uh, okay, so anyway, we all know<br />that the most obvious way</i>"
-    }, 
-    {
-        "start": "00:20:16,480", 
-        "num": 378, 
-        "end": "00:20:19,404", 
-        "text": "<i>to compress files is with<br />Shannon coding, right? Top down.</i>"
-    }, 
-    {
-        "start": "00:20:19,480", 
-        "num": 379, 
-        "end": "00:20:22,131", 
-        "text": "(CLEARS THROAT) Richard, they<br />can't see that, it's too small."
-    }, 
-    {
-        "start": "00:20:22,800", 
-        "num": 380, 
-        "end": "00:20:24,245", 
-        "text": "- Okay.<br />- Literally, hundreds of people here."
-    }, 
-    {
-        "start": "00:20:24,320", 
-        "num": 381, 
-        "end": "00:20:25,446", 
-        "text": "<i>Oh, no, but I need...</i>"
-    }, 
-    {
-        "start": "00:20:25,960", 
-        "num": 382, 
-        "end": "00:20:26,961", 
-        "text": "(SIGHS)"
-    }, 
-    {
-        "start": "00:20:27,400", 
-        "num": 383, 
-        "end": "00:20:28,811", 
-        "text": "<i>Shit,</i> okay."
-    }, 
-    {
-        "start": "00:20:28,920", 
-        "num": 384, 
-        "end": "00:20:29,921", 
-        "text": "Um..."
-    }, 
-    {
-        "start": "00:20:31,000", 
-        "num": 385, 
-        "end": "00:20:32,331", 
-        "text": "<i>Right, oh.</i>"
-    }, 
-    {
-        "start": "00:20:32,480", 
-        "num": 386, 
-        "end": "00:20:36,201", 
-        "text": "<i>Uh, so Shannon coding<br />and then David Huffman came along,</i>"
-    }, 
-    {
-        "start": "00:20:36,280", 
-        "num": 387, 
-        "end": "00:20:40,968", 
-        "text": "<i>and he pioneered bottom-up, and<br />Lempel-Ziv with left-to-right, obviously.</i>"
-    }, 
-    {
-        "start": "00:20:41,040", 
-        "num": 388, 
-        "end": "00:20:43,850", 
-        "text": "<i>And for decades,<br />we used these codes to compress,</i>"
-    }, 
-    {
-        "start": "00:20:43,920", 
-        "num": 389, 
-        "end": "00:20:47,447", 
-        "text": "<i>you know, JPEGs, MPEGs,<br />MP3s, Zips, all that stuff.</i>"
-    }, 
-    {
-        "start": "00:20:47,800", 
-        "num": 390, 
-        "end": "00:20:51,691", 
-        "text": "<i>Uh, but we all know that,<br />so there's no point in talking about it.</i>"
-    }, 
-    {
-        "start": "00:20:52,400", 
-        "num": 391, 
-        "end": "00:20:54,243", 
-        "text": "<i>But, uh, what happened was,</i>"
-    }, 
-    {
-        "start": "00:20:54,320", 
-        "num": 392, 
-        "end": "00:20:58,530", 
-        "text": "<i>last night, um, I was watching my<br />friends here have this argument</i>"
-    }, 
-    {
-        "start": "00:20:58,880", 
-        "num": 393, 
-        "end": "00:21:02,327", 
-        "text": "<i>about, you know, uh, manipulating d...<br />Uh, data.</i>"
-    }, 
-    {
-        "start": "00:21:03,000", 
-        "num": 394, 
-        "end": "00:21:08,928", 
-        "text": "<i>And, you know, how many datas<br />could one guy manipulate at once and...</i>"
-    }, 
-    {
-        "start": "00:21:09,320", 
-        "num": 395, 
-        "end": "00:21:10,321", 
-        "text": "(CHUCKLES)"
-    }, 
-    {
-        "start": "00:21:11,320", 
-        "num": 396, 
-        "end": "00:21:12,765", 
-        "text": "<i>And I was just... I was thinking.</i>"
-    }, 
-    {
-        "start": "00:21:12,840", 
-        "num": 397, 
-        "end": "00:21:14,560", 
-        "text": "<i>Uh, maybe it could be<br />another way, you know?</i>"
-    }, 
-    {
-        "start": "00:21:14,640", 
-        "num": 398, 
-        "end": "00:21:16,927", 
-        "text": "<i>Uh, something that I would<br />call, \"middle-out.\"</i>"
-    }, 
-    {
-        "start": "00:21:17,520", 
-        "num": 399, 
-        "end": "00:21:21,605", 
-        "text": "<i>It's up-and-down, back-and-forth all<br />at the same time going on at once.</i>"
-    }, 
-    {
-        "start": "00:21:22,840", 
-        "num": 400, 
-        "end": "00:21:26,003", 
-        "text": "<i>Okay, well, anyway,<br />I deleted all our modules last night,</i>"
-    }, 
-    {
-        "start": "00:21:26,080", 
-        "num": 401, 
-        "end": "00:21:29,448", 
-        "text": "<i>and I completely rebuilt our engine,<br />from scratch last night.</i>"
-    }, 
-    {
-        "start": "00:21:29,680", 
-        "num": 402, 
-        "end": "00:21:34,641", 
-        "text": "<i>Um, now, this morning I really only<br />had enough time to do one test,</i>"
-    }, 
-    {
-        "start": "00:21:34,720", 
-        "num": 403, 
-        "end": "00:21:40,124", 
-        "text": "<i>and when I did,<br />we hit a Weissman score of 3.8.</i>"
-    }, 
-    {
-        "start": "00:21:41,120", 
-        "num": 404, 
-        "end": "00:21:42,167", 
-        "text": "(CROWD GASPS)"
-    }, 
-    {
-        "start": "00:21:42,240", 
-        "num": 405, 
-        "end": "00:21:45,801", 
-        "text": "<i>Now, I know the theoretical limit was 2.9,</i>"
-    }, 
-    {
-        "start": "00:21:45,880", 
-        "num": 406, 
-        "end": "00:21:51,842", 
-        "text": "<i>- but as you can see here...<br />- I'm sorry. You scored a 3.8?</i>"
-    }, 
-    {
-        "start": "00:21:52,480", 
-        "num": 407, 
-        "end": "00:21:53,925", 
-        "text": "<i>Uh, yes, sir.</i>"
-    }, 
-    {
-        "start": "00:21:54,040", 
-        "num": 408, 
-        "end": "00:21:56,168", 
-        "text": "<i>And this is a universal lossless<br />compression engine?</i>"
-    }, 
-    {
-        "start": "00:21:56,240", 
-        "num": 409, 
-        "end": "00:21:59,687", 
-        "text": "<i>- Text? Audio? Video?<br />- Yes, that is correct.</i>"
-    }, 
-    {
-        "start": "00:21:59,920", 
-        "num": 410, 
-        "end": "00:22:03,402", 
-        "text": "<i>Well, I'm sorry to interrupt<br />your eloquent presentation, Richard.</i>"
-    }, 
-    {
-        "start": "00:22:03,800", 
-        "num": 411, 
-        "end": "00:22:06,849", 
-        "text": "<i>But, rather than say anything more,<br />why don't we just give you a file</i>"
-    }, 
-    {
-        "start": "00:22:06,920", 
-        "num": 412, 
-        "end": "00:22:09,048", 
-        "text": "<i>and we'll see whether this thing<br />can do what you say it does.</i>"
-    }, 
-    {
-        "start": "00:22:09,120", 
-        "num": 413, 
-        "end": "00:22:12,886", 
-        "text": "<i>Because if it can't,<br />then we're done here, right?</i>"
-    }, 
-    {
-        "start": "00:22:13,120", 
-        "num": 414, 
-        "end": "00:22:14,645", 
-        "text": "<i>Yeah. Yeah, that's fair.</i>"
-    }, 
-    {
-        "start": "00:22:14,760", 
-        "num": 415, 
-        "end": "00:22:16,842", 
-        "text": "<i>So we can give you any kind of file<br />and you can compress it,</i>"
-    }, 
-    {
-        "start": "00:22:16,920", 
-        "num": 416, 
-        "end": "00:22:20,447", 
-        "text": "<i>without degradation, at this standard?<br />Three-eight?</i>"
-    }, 
-    {
-        "start": "00:22:20,960", 
-        "num": 417, 
-        "end": "00:22:23,008", 
-        "text": "<i>Yes... Yep.</i>"
-    }, 
-    {
-        "start": "00:22:23,080", 
-        "num": 418, 
-        "end": "00:22:24,605", 
-        "text": "<i>All right, give us a minute, please.</i>"
-    }, 
-    {
-        "start": "00:22:26,280", 
-        "num": 419, 
-        "end": "00:22:28,521", 
-        "text": "- What do we got?<br />- MAN: Does anyone have anything?"
-    }, 
-    {
-        "start": "00:22:33,760", 
-        "num": 420, 
-        "end": "00:22:35,760", 
-        "text": "- Do you have something?<br />- I've got a file for him."
-    }, 
-    {
-        "start": "00:22:36,040", 
-        "num": 421, 
-        "end": "00:22:38,646", 
-        "text": "<i>Okay. Andy Stafford here,<br />has a file for you.</i>"
-    }, 
-    {
-        "start": "00:22:38,880", 
-        "num": 422, 
-        "end": "00:22:41,690", 
-        "text": "<i>- Okay.<br />- ANDY: It's 132 gigabytes uncompressed,</i>"
-    }, 
-    {
-        "start": "00:22:41,760", 
-        "num": 423, 
-        "end": "00:22:43,444", 
-        "text": "<i>and it's a 3-D video file.</i>"
-    }, 
-    {
-        "start": "00:22:47,320", 
-        "num": 424, 
-        "end": "00:22:48,560", 
-        "text": "<i>Okay-</i>"
-    }, 
-    {
-        "start": "00:22:50,560", 
-        "num": 425, 
-        "end": "00:22:51,971", 
-        "text": "Shit..."
-    }, 
-    {
-        "start": "00:22:52,040", 
-        "num": 426, 
-        "end": "00:22:54,042", 
-        "text": "- ERLICH: A fucking 3-D file?<br />- Yes."
-    }, 
-    {
-        "start": "00:22:54,120", 
-        "num": 427, 
-        "end": "00:22:56,930", 
-        "text": "- Are you fucking kidding me?<br />- God damn it."
-    }, 
-    {
-        "start": "00:22:57,880", 
+        "end": "00:20:10,801", 
+        "start": "00:20:08,480", 
         "num": 428, 
-        "end": "00:23:00,531", 
-        "text": "- ERLICH: Can we handle this?<br />- I guess we'll find out."
+        "episode": "S01E02", 
+        "text": "A real asshole."
     }, 
     {
-        "start": "00:23:01,120", 
+        "end": "00:20:20,922", 
+        "start": "00:20:17,520", 
         "num": 429, 
-        "end": "00:23:02,849", 
-        "text": "ERLICH: Damn it, I hope this works."
+        "episode": "S01E02", 
+        "text": "Hi, I'm Richard Hendricks.<br />You did a dance... The dancing at my house."
     }, 
     {
-        "start": "00:23:12,640", 
+        "end": "00:20:22,724", 
+        "start": "00:20:21,040", 
         "num": 430, 
-        "end": "00:23:13,880", 
-        "text": "Shit, it's hung."
+        "episode": "S01E02", 
+        "text": "Your ride's here."
     }, 
     {
-        "start": "00:23:14,960", 
+        "end": "00:20:24,371", 
+        "start": "00:20:22,960", 
         "num": 431, 
-        "end": "00:23:16,610", 
-        "text": "RICHARD: Oh, no."
+        "episode": "S01E02", 
+        "text": "Oh, hey, man."
     }, 
     {
-        "start": "00:23:17,680", 
+        "end": "00:20:26,164", 
+        "start": "00:20:24,480", 
         "num": 432, 
-        "end": "00:23:19,250", 
-        "text": "<i>Is it stuck?</i>"
+        "episode": "S01E02", 
+        "text": "- Hey.<br />- Mushroom stamp!"
     }, 
     {
-        "start": "00:23:19,320", 
+        "end": "00:20:28,966", 
+        "start": "00:20:26,360", 
         "num": 433, 
-        "end": "00:23:21,766", 
-        "text": "<i>There is a time limit,<br />you have two minutes remaining.</i>"
+        "episode": "S01E02", 
+        "text": "No, come on, dude, not again... (GROANS)"
     }, 
     {
-        "start": "00:23:23,200", 
+        "end": "00:20:33,561", 
+        "start": "00:20:31,160", 
         "num": 434, 
-        "end": "00:23:24,920", 
-        "text": "Come on, come on, come on,<br />come on, come on."
+        "episode": "S01E02", 
+        "text": "I just wanted to work with<br />computers and get paid for it."
     }, 
     {
-        "start": "00:23:27,600", 
+        "end": "00:20:37,122", 
+        "start": "00:20:33,640", 
         "num": 435, 
-        "end": "00:23:28,806", 
-        "text": "(COMPUTER BEEPS)"
+        "episode": "S01E02", 
+        "text": "I didn't want end up fighting with<br />my roommates over percentage points."
     }, 
     {
-        "start": "00:23:28,880", 
+        "end": "00:20:38,486", 
+        "start": "00:20:37,280", 
         "num": 436, 
-        "end": "00:23:30,120", 
-        "text": "<i>It looks like it's done.</i>"
+        "episode": "S01E02", 
+        "text": "So you're just gonna give up?"
     }, 
     {
-        "start": "00:23:30,720", 
+        "end": "00:20:41,370", 
+        "start": "00:20:38,560", 
         "num": 437, 
-        "end": "00:23:32,882", 
-        "text": "GILFOYLE: Wait, 24 gigs? What happened?"
+        "episode": "S01E02", 
+        "text": "On what? This isn't home."
     }, 
     {
-        "start": "00:23:32,960", 
+        "end": "00:20:43,602", 
+        "start": "00:20:41,440", 
         "num": 438, 
-        "end": "00:23:35,930", 
-        "text": "Oh, shit, there's no way."
+        "episode": "S01E02", 
+        "text": "As much as I've tried, it's just not."
     }, 
     {
-        "start": "00:23:36,280", 
+        "end": "00:20:47,209", 
+        "start": "00:20:44,000", 
         "num": 439, 
-        "end": "00:23:38,965", 
-        "text": "It didn't compress the whole thing.<br />It should be twice that size."
+        "episode": "S01E02", 
+        "text": "I mean, what would I have even done<br />if I didn't have Mochacino's card?"
     }, 
     {
-        "start": "00:23:39,040", 
+        "end": "00:20:48,770", 
+        "start": "00:20:47,280", 
         "num": 440, 
-        "end": "00:23:42,567", 
-        "text": "<i>I mean, 24 gigs, that's less<br />than a fourth the file size.</i>"
+        "episode": "S01E02", 
+        "text": "Where would I have gone?"
     }, 
     {
-        "start": "00:23:42,840", 
+        "end": "00:20:51,124", 
+        "start": "00:20:49,440", 
         "num": 441, 
-        "end": "00:23:44,569", 
-        "text": "<i>That seems dubious, Richard.</i>"
+        "episode": "S01E02", 
+        "text": "It's fucking pathetic."
     }, 
     {
-        "start": "00:23:44,840", 
+        "end": "00:20:54,602", 
+        "start": "00:20:51,200", 
         "num": 442, 
-        "end": "00:23:48,128", 
-        "text": "<i>Why don't we run a Weissman test<br />for verification, see where we went wrong.</i>"
+        "episode": "S01E02", 
+        "text": "Well, Mochacino seemed to like you.<br />She let you into her apartment."
     }, 
     {
-        "start": "00:23:48,360", 
+        "end": "00:20:56,409", 
+        "start": "00:20:54,680", 
         "num": 443, 
-        "end": "00:23:51,601", 
-        "text": "<i>Okay, I mean it shouldn't take too long,<br />it only compressed half the fucking file.</i>"
+        "episode": "S01E02", 
+        "text": "I had to give her my bike."
     }, 
     {
-        "start": "00:23:53,640", 
+        "end": "00:20:58,608", 
+        "start": "00:20:56,480", 
         "num": 444, 
-        "end": "00:23:54,687", 
-        "text": "(COMPUTER BEEPS)"
+        "episode": "S01E02", 
+        "text": "She's just like everyone else<br />in this goddamn valley."
     }, 
     {
-        "start": "00:23:55,000", 
+        "end": "00:21:01,843", 
+        "start": "00:20:58,680", 
         "num": 445, 
-        "end": "00:23:56,001", 
-        "text": "(MAN CLEARS THROAT)"
+        "episode": "S01E02", 
+        "text": "Watching the bottom line.<br />Fuck it, dude. I'm done here."
     }, 
     {
-        "start": "00:23:57,800", 
+        "end": "00:21:03,486", 
+        "start": "00:21:02,360", 
         "num": 446, 
-        "end": "00:23:59,848", 
-        "text": "I'm sorry.<br />I shouldn't have rewritten all this code."
+        "episode": "S01E02", 
+        "text": "What about NipAlert?"
     }, 
     {
-        "start": "00:24:00,000", 
+        "end": "00:21:08,802", 
+        "start": "00:21:04,240", 
         "num": 447, 
-        "end": "00:24:01,764", 
-        "text": "I mean, what we had before worked."
+        "episode": "S01E02", 
+        "text": "Mochacino shows her tits for a living,<br />and even she was uncomfortable using it."
     }, 
     {
-        "start": "00:24:02,000", 
+        "end": "00:21:13,124", 
+        "start": "00:21:08,880", 
         "num": 448, 
-        "end": "00:24:05,129", 
-        "text": "I'm sorry, guys. Gavin won. We lost."
+        "episode": "S01E02", 
+        "text": "She said it was sexist.<br />She's right. It's actually perverted."
     }, 
     {
-        "start": "00:24:05,240", 
+        "end": "00:21:16,608", 
+        "start": "00:21:13,320", 
         "num": 449, 
-        "end": "00:24:10,201", 
-        "text": "At least it didn't happen in a public<br />and brutally embarrassing way."
+        "episode": "S01E02", 
+        "text": "I made a perverted, sexist, useless thing."
     }, 
     {
-        "start": "00:24:11,120", 
+        "end": "00:21:21,281", 
+        "start": "00:21:19,040", 
         "num": 450, 
-        "end": "00:24:13,168", 
-        "text": "- Thanks, Gilfoyle.<br />- Yeah."
+        "episode": "S01E02", 
+        "text": "And, you know, everybody's right, man,"
     }, 
     {
-        "start": "00:24:17,360", 
+        "end": "00:21:23,442", 
+        "start": "00:21:21,360", 
         "num": 451, 
-        "end": "00:24:19,886", 
-        "text": "RICHARD: Wait a second. What's happening?"
+        "episode": "S01E02", 
+        "text": "there's nothing for me to do on Pied Piper."
     }, 
     {
-        "start": "00:24:20,040", 
+        "end": "00:21:27,009", 
+        "start": "00:21:23,880", 
         "num": 452, 
-        "end": "00:24:22,566", 
-        "text": "There's no errors, look!"
+        "episode": "S01E02", 
+        "text": "I think over time,<br />maybe we could redefine your role."
     }, 
     {
-        "start": "00:24:23,720", 
+        "end": "00:21:28,360", 
+        "start": "00:21:27,120", 
         "num": 453, 
-        "end": "00:24:24,721", 
-        "text": "(COMPUTER BEEPS)"
+        "episode": "S01E02", 
+        "text": "Come on, dude."
     }, 
     {
-        "start": "00:24:24,840", 
+        "end": "00:21:31,640", 
+        "start": "00:21:29,240", 
         "num": 454, 
-        "end": "00:24:26,285", 
-        "text": "(CROWD MURMURING)"
+        "episode": "S01E02", 
+        "text": "Unless you can tell me right now<br />what I can do for Pied Piper"
     }, 
     {
-        "start": "00:24:27,040", 
+        "end": "00:21:34,570", 
+        "start": "00:21:31,680", 
         "num": 455, 
-        "end": "00:24:29,771", 
-        "text": "- 5.2? How, how...<br />- Wait, what?"
+        "episode": "S01E02", 
+        "text": "that no one else can, I'm gone."
     }, 
     {
-        "start": "00:24:30,040", 
+        "end": "00:21:39,611", 
+        "start": "00:21:38,200", 
         "num": 456, 
-        "end": "00:24:32,247", 
-        "text": "- Wait, it compressed the whole file?<br />- Whoa!"
+        "episode": "S01E02", 
+        "text": "- Yeah.<br />- Uh..."
     }, 
     {
-        "start": "00:24:32,720", 
+        "end": "00:21:42,851", 
+        "start": "00:21:40,120", 
         "num": 457, 
-        "end": "00:24:34,085", 
-        "text": "That's the whole file."
+        "episode": "S01E02", 
+        "text": "I'm going to go get the stuff<br />out of my cube at Hooli,"
     }, 
     {
-        "start": "00:24:34,200", 
+        "end": "00:21:45,571", 
+        "start": "00:21:42,920", 
         "num": 458, 
-        "end": "00:24:36,771", 
-        "text": "It's just half the size<br />I thought it would be."
+        "episode": "S01E02", 
+        "text": "and then I'm getting the<br />hell out of this town."
     }, 
     {
-        "start": "00:24:37,200", 
+        "end": "00:21:50,611", 
+        "start": "00:21:49,280", 
         "num": 459, 
-        "end": "00:24:40,921", 
-        "text": "<i>Ladies and gentlemen, obviously we're<br />going to keep looking at this to verify,</i>"
+        "episode": "S01E02", 
+        "text": "So this is goodbye then?"
     }, 
     {
-        "start": "00:24:41,160", 
+        "end": "00:21:55,323", 
+        "start": "00:21:53,400", 
         "num": 460, 
-        "end": "00:24:43,561", 
-        "text": "<i>but with a confirmed score of 5.2,</i>"
+        "episode": "S01E02", 
+        "text": "I mean, I'll see you<br />back at the house, man."
     }, 
     {
-        "start": "00:24:43,640", 
+        "end": "00:21:57,323", 
+        "start": "00:21:55,400", 
         "num": 461, 
-        "end": "00:24:47,850", 
-        "text": "<i>Pied Piper appears to have just doubled<br />the best Weissman score ever measured.</i>"
+        "episode": "S01E02", 
+        "text": "I gotta, like, pack and stuff."
     }, 
     {
-        "start": "00:24:47,920", 
+        "end": "00:21:58,481", 
+        "start": "00:21:57,400", 
         "num": 462, 
-        "end": "00:24:48,967", 
-        "text": "<i>- Doubled it!<br />- (APPLAUSE)</i>"
+        "episode": "S01E02", 
+        "text": "Oh, totally."
     }, 
     {
-        "start": "00:24:49,040", 
+        "end": "00:22:01,924", 
+        "start": "00:21:58,920", 
         "num": 463, 
-        "end": "00:24:50,724", 
-        "text": "<i>Pied Piper, ladies and gentlemen!</i>"
+        "episode": "S01E02", 
+        "text": "I'm going to take the train, I think,<br />just do some thinking..."
     }, 
     {
-        "start": "00:24:50,840", 
+        "end": "00:22:03,570", 
+        "start": "00:22:02,000", 
         "num": 464, 
-        "end": "00:24:52,649", 
-        "text": "<i>Let's hear it for them!</i>"
+        "episode": "S01E02", 
+        "text": "Okay. All right, see you."
     }, 
     {
-        "start": "00:24:54,240", 
+        "end": "00:22:08,411", 
+        "start": "00:22:05,840", 
         "num": 465, 
-        "end": "00:24:55,571", 
-        "text": "Holy shit!"
+        "episode": "S01E02", 
+        "text": "- The train is this way... I just...<br />- Oh. I was gonna say."
     }, 
     {
-        "start": "00:24:56,160", 
+        "end": "00:22:09,966", 
+        "start": "00:22:08,760", 
         "num": 466, 
-        "end": "00:24:58,242", 
-        "text": "Hey, I'm at TechCrunch."
+        "episode": "S01E02", 
+        "text": "Big Head."
     }, 
     {
-        "start": "00:24:58,480", 
+        "end": "00:22:14,284", 
+        "start": "00:22:11,360", 
         "num": 467, 
-        "end": "00:25:01,324", 
-        "text": "This kid, Hendricks, and Pied Piper<br />just ran a two-minute mile."
+        "episode": "S01E02", 
+        "text": "Whatever shit you're about to dump<br />on my head, you can save it, okay?"
     }, 
     {
-        "start": "00:25:01,400", 
+        "end": "00:22:15,407", 
+        "start": "00:22:14,360", 
         "num": 468, 
-        "end": "00:25:02,890", 
-        "text": "We should get on this, now."
+        "episode": "S01E02", 
+        "text": "I'm not in the mood."
     }, 
     {
-        "start": "00:25:03,400", 
+        "end": "00:22:17,284", 
+        "start": "00:22:15,520", 
         "num": 469, 
-        "end": "00:25:05,482", 
-        "text": "Suck it, Gavin Belson!"
+        "episode": "S01E02", 
+        "text": "Dude, I just wanted to tell you<br />that Gavin Belson"
     }, 
     {
-        "start": "00:25:05,560", 
+        "end": "00:22:18,521", 
+        "start": "00:22:17,360", 
         "num": 470, 
-        "end": "00:25:06,561", 
-        "text": "(MOUTHING)"
+        "episode": "S01E02", 
+        "text": "wants to talk to you about something."
     }, 
     {
-        "start": "00:25:08,240", 
+        "end": "00:22:21,803", 
+        "start": "00:22:18,640", 
         "num": 471, 
-        "end": "00:25:09,561", 
-        "text": "Hendricks, you beautiful bastard!"
+        "episode": "S01E02", 
+        "text": "- Oh, okay. Fuck you.<br />- No. Seriously."
     }, 
     {
-        "start": "00:25:09,600", 
+        "end": "00:22:25,767", 
+        "start": "00:22:22,240", 
         "num": 472, 
-        "end": "00:25:12,410", 
-        "text": "- I told you we'd do it! Come on!<br />- (LAUGHING)"
+        "episode": "S01E02", 
+        "text": "Gavin Belson said he wants<br />to speak to Nelson Bighetti?"
     }, 
     {
-        "start": "00:25:12,480", 
+        "end": "00:22:28,042", 
+        "start": "00:22:26,040", 
         "num": 473, 
-        "end": "00:25:14,323", 
-        "text": "We're not going to be poor!"
+        "episode": "S01E02", 
+        "text": "Yeah, that's what I just said."
     }, 
     {
-        "start": "00:25:14,520", 
+        "end": "00:22:30,766", 
+        "start": "00:22:29,640", 
         "num": 474, 
-        "end": "00:25:17,205", 
-        "text": "What happened? What happened?<br />What happened? What happened?"
+        "episode": "S01E02", 
+        "text": "Come on."
     }, 
     {
-        "start": "00:25:17,280", 
+        "end": "00:22:34,120", 
+        "start": "00:22:32,880", 
         "num": 475, 
-        "end": "00:25:18,884", 
-        "text": "Ah, we just won the cup!"
+        "episode": "S01E02", 
+        "text": "Okay..."
     }, 
     {
-        "start": "00:25:18,960", 
+        "end": "00:22:41,451", 
+        "start": "00:22:40,120", 
         "num": 476, 
-        "end": "00:25:19,961", 
-        "text": "(SCREAMS)"
+        "episode": "S01E02", 
+        "text": "I'm awake! I'm awake."
     }, 
     {
-        "start": "00:25:20,120", 
+        "end": "00:22:44,927", 
+        "start": "00:22:42,640", 
         "num": 477, 
-        "end": "00:25:21,281", 
-        "text": "Whoo!"
+        "episode": "S01E02", 
+        "text": "- What?<br />- No, no, I wasn't."
     }, 
     {
-        "start": "00:25:22,440", 
+        "end": "00:22:49,364", 
+        "start": "00:22:45,040", 
         "num": 478, 
-        "end": "00:25:26,729", 
-        "text": "<i>And I don't think it comes as any shock<br />that the winner of this year's Disrupt Cup</i>"
+        "episode": "S01E02", 
+        "text": "I was sleeping. I'm sorry for sleeping<br />and for lying about it."
     }, 
     {
-        "start": "00:25:26,800", 
+        "end": "00:22:51,329", 
+        "start": "00:22:49,600", 
         "num": 479, 
-        "end": "00:25:32,364", 
-        "text": "<i>and $50,000, like they're going to need it,<br />is Pied Piper.</i>"
+        "episode": "S01E02", 
+        "text": "For both. No good."
     }, 
     {
-        "start": "00:25:32,440", 
+        "end": "00:22:52,881", 
+        "start": "00:22:51,800", 
         "num": 480, 
-        "end": "00:25:33,601", 
-        "text": "(CHEERING)"
+        "episode": "S01E02", 
+        "text": "What happened?"
     }, 
     {
-        "start": "00:25:34,920", 
+        "end": "00:22:54,881", 
+        "start": "00:22:53,800", 
         "num": 481, 
-        "end": "00:25:36,410", 
-        "text": "So Richard wrote the code?"
+        "episode": "S01E02", 
+        "text": "Did you fire Big Head?"
     }, 
     {
-        "start": "00:25:36,480", 
+        "end": "00:22:57,521", 
+        "start": "00:22:55,200", 
         "num": 482, 
-        "end": "00:25:40,326", 
-        "text": "Richard wrote the code, yes,<br />but the inspiration was clear."
+        "episode": "S01E02", 
+        "text": "Uh, no. Not yet. I don't know. Sort of."
     }, 
     {
-        "start": "00:25:40,760", 
+        "end": "00:23:00,530", 
+        "start": "00:22:57,720", 
         "num": 483, 
-        "end": "00:25:41,921", 
-        "text": "- Let me ask you something.<br />- Mmm-hmm."
+        "episode": "S01E02", 
+        "text": "So, um, do I include him<br />in the cap table or not?"
     }, 
     {
-        "start": "00:25:42,000", 
+        "end": "00:23:01,931", 
+        "start": "00:23:00,600", 
         "num": 484, 
-        "end": "00:25:45,322", 
-        "text": "How fast do you think<br />you could jack off every guy in this room?"
+        "episode": "S01E02", 
+        "text": "It's basically good to go."
     }, 
     {
-        "start": "00:25:46,520", 
+        "end": "00:23:06,201", 
+        "start": "00:23:02,640", 
         "num": 485, 
-        "end": "00:25:48,121", 
-        "text": "'Cause I know how long it would take me."
+        "episode": "S01E02", 
+        "text": "Uh, no, he's out. Wait... I don't know."
     }, 
     {
-        "start": "00:25:48,800", 
+        "end": "00:23:09,210", 
+        "start": "00:23:06,320", 
         "num": 486, 
-        "end": "00:25:49,926", 
-        "text": "And I can prove it."
+        "episode": "S01E02", 
+        "text": "Actually, I just need to close<br />my eyes for a little bit. Okay?"
     }, 
     {
-        "start": "00:25:50,000", 
+        "end": "00:23:12,363", 
+        "start": "00:23:09,280", 
         "num": 487, 
-        "end": "00:25:51,570", 
-        "text": "- Nice.<br />- Thank you so much."
+        "episode": "S01E02", 
+        "text": "Richard, it's T-minus four hours<br />until presentation time."
     }, 
     {
-        "start": "00:25:51,640", 
+        "end": "00:23:14,085", 
+        "start": "00:23:12,640", 
         "num": 488, 
-        "end": "00:25:54,086", 
-        "text": "I don't fully understand it<br />but I would definitely like to invest."
+        "episode": "S01E02", 
+        "text": "Are you gonna fire Big Head or not?"
     }, 
     {
-        "start": "00:25:54,160", 
+        "end": "00:23:15,650", 
+        "start": "00:23:14,160", 
         "num": 489, 
-        "end": "00:25:55,650", 
-        "text": "- Oh, great.<br />- Really impressed."
+        "episode": "S01E02", 
+        "text": "I don't know. Uh..."
     }, 
     {
-        "start": "00:25:55,720", 
+        "end": "00:23:18,006", 
+        "start": "00:23:16,880", 
         "num": 490, 
-        "end": "00:25:57,085", 
-        "text": "I really want to get you<br />in front of my partners."
+        "episode": "S01E02", 
+        "text": "I'm just very tired."
     }, 
     {
-        "start": "00:25:57,200", 
+        "end": "00:23:20,401", 
+        "start": "00:23:18,080", 
         "num": 491, 
-        "end": "00:25:58,964", 
-        "text": "- Really soon.<br />- Oh, wow. I appreciate that, guys."
+        "episode": "S01E02", 
+        "text": "Okay? I'm just gonna go get some water..."
     }, 
     {
-        "start": "00:25:59,040", 
+        "end": "00:23:24,565", 
+        "start": "00:23:20,480", 
         "num": 492, 
-        "end": "00:26:01,088", 
-        "text": "Well, hopefully we'll<br />talk to each other soon."
+        "episode": "S01E02", 
+        "text": "Richard, stop being a fucking pussy<br />and start being an asshole."
     }, 
     {
-        "start": "00:26:01,160", 
+        "end": "00:23:35,640", 
+        "start": "00:23:31,840", 
         "num": 493, 
-        "end": "00:26:02,241", 
-        "text": "- Thanks.<br />- Thanks."
+        "episode": "S01E02", 
+        "text": "Fine! You want me to be an asshole,<br />I'll be an asshole."
     }, 
     {
-        "start": "00:26:02,560", 
+        "end": "00:23:38,724", 
+        "start": "00:23:35,720", 
         "num": 494, 
-        "end": "00:26:04,403", 
-        "text": "- MONICA: Hey!<br />- Monica!"
+        "episode": "S01E02", 
+        "text": "I'll be an asshole to you<br />and you and you and you"
     }, 
     {
-        "start": "00:26:04,480", 
+        "end": "00:23:40,245", 
+        "start": "00:23:38,800", 
         "num": 495, 
-        "end": "00:26:07,563", 
-        "text": "Congratulations! You were amazing up there."
+        "episode": "S01E02", 
+        "text": "and Peter-fucking-Gregory!"
     }, 
     {
-        "start": "00:26:07,640", 
+        "end": "00:23:43,524", 
+        "start": "00:23:40,680", 
         "num": 496, 
-        "end": "00:26:09,529", 
-        "text": "- Thank you.<br />- I just spoke with Peter."
+        "episode": "S01E02", 
+        "text": "Okay? Fuck all of you. Big Head stays!"
     }, 
     {
-        "start": "00:26:09,600", 
+        "end": "00:23:46,611", 
+        "start": "00:23:43,880", 
         "num": 497, 
-        "end": "00:26:13,685", 
-        "text": "He watched the live-stream via satellite<br />and said he was \"not unpleased.\""
+        "episode": "S01E02", 
+        "text": "You know, if I wanted to be a sell out,<br />I'd have done that already."
     }, 
     {
-        "start": "00:26:13,840", 
+        "end": "00:23:49,490", 
+        "start": "00:23:46,680", 
         "num": 498, 
-        "end": "00:26:15,604", 
-        "text": "Oh, yeah, that's great. (CHUCKLES)"
+        "episode": "S01E02", 
+        "text": "I'd be on a beach somewhere<br />with $10 million in my pocket."
     }, 
     {
-        "start": "00:26:16,160", 
+        "end": "00:23:52,530", 
+        "start": "00:23:49,560", 
         "num": 499, 
-        "end": "00:26:19,482", 
-        "text": "Uh, so I guess<br />we're back to working together, huh?"
+        "episode": "S01E02", 
+        "text": "Not in my pocket, in a bank account."
     }, 
     {
-        "start": "00:26:20,240", 
+        "end": "00:23:56,401", 
+        "start": "00:23:52,680", 
         "num": 500, 
-        "end": "00:26:22,720", 
-        "text": "Yeah. Yeah, I guess so."
+        "episode": "S01E02", 
+        "text": "Okay? This is my company.<br />It was my idea, and we do what I say."
     }, 
     {
-        "start": "00:26:25,800", 
+        "end": "00:23:59,684", 
+        "start": "00:23:56,680", 
         "num": 501, 
-        "end": "00:26:27,848", 
-        "text": "It's gonna get pretty<br />insane for you, Richard."
+        "episode": "S01E02", 
+        "text": "And what I say is, Jared,<br />put Big Head in the business plan."
     }, 
     {
-        "start": "00:26:27,920", 
+        "end": "00:24:01,570", 
+        "start": "00:23:59,920", 
         "num": 502, 
-        "end": "00:26:30,127", 
-        "text": "- Yeah.<br />- You're going to have more offers of funding"
+        "episode": "S01E02", 
+        "text": "He gets the same amount of<br />shares as everybody else."
     }, 
     {
-        "start": "00:26:30,200", 
+        "end": "00:24:04,206", 
+        "start": "00:24:01,680", 
         "num": 503, 
-        "end": "00:26:31,964", 
-        "text": "- than you're going to know what to do with.<br />- Yeah."
+        "episode": "S01E02", 
+        "text": "Big Head, you're not going home, man."
     }, 
     {
-        "start": "00:26:32,040", 
+        "end": "00:24:06,648", 
+        "start": "00:24:04,680", 
         "num": 504, 
-        "end": "00:26:33,530", 
-        "text": "You're going to have to grow a business,"
+        "episode": "S01E02", 
+        "text": "Uh, you're right. I'm not."
     }, 
     {
-        "start": "00:26:33,600", 
+        "end": "00:24:09,804", 
+        "start": "00:24:06,960", 
         "num": 505, 
-        "end": "00:26:36,490", 
-        "text": "- hire a staff, rent offices, get an assistant.<br />- Mmm-hmm."
+        "episode": "S01E02", 
+        "text": "Gavin Belson just offered me<br />a huge promotion"
     }, 
     {
-        "start": "00:26:36,560", 
+        "end": "00:24:13,089", 
+        "start": "00:24:09,880", 
         "num": 506, 
-        "end": "00:26:39,530", 
-        "text": "Peter is going to be a lot more hands-on<br />and a lot tougher on you."
+        "episode": "S01E02", 
+        "text": "for 600 grand a year<br />to steal me away from you guys."
     }, 
     {
-        "start": "00:26:39,840", 
+        "end": "00:24:15,124", 
+        "start": "00:24:13,440", 
         "num": 507, 
-        "end": "00:26:42,969", 
-        "text": "People may take credit for your idea<br />and try and sue you."
+        "episode": "S01E02", 
+        "text": "- What?<br />- Yeah. For revenge."
     }, 
     {
-        "start": "00:26:43,080", 
+        "end": "00:24:16,406", 
+        "start": "00:24:15,200", 
         "num": 508, 
-        "end": "00:26:45,924", 
-        "text": "- How awesome is that?<br />- Ah, yeah, that's awesome."
+        "episode": "S01E02", 
+        "text": "Because you took Jared."
     }, 
     {
-        "start": "00:26:46,040", 
+        "end": "00:24:19,250", 
+        "start": "00:24:17,680", 
         "num": 509, 
-        "end": "00:26:48,122", 
-        "text": "I mean, if you thought it was crazy<br />getting to this point,"
+        "episode": "S01E02", 
+        "text": "So you're like the VP of spite?"
     }, 
     {
-        "start": "00:26:48,200", 
+        "end": "00:24:21,410", 
+        "start": "00:24:19,760", 
         "num": 510, 
-        "end": "00:26:50,282", 
-        "text": "you're not going to believe<br />what it turns into from here."
+        "episode": "S01E02", 
+        "text": "But you have to do me a favor, Richard,"
     }, 
     {
-        "start": "00:26:50,360", 
+        "end": "00:24:25,047", 
+        "start": "00:24:21,520", 
         "num": 511, 
-        "end": "00:26:51,361", 
-        "text": "Right."
+        "episode": "S01E02", 
+        "text": "if you run into Gavin ever you have to<br />act really upset about it, you know?"
     }, 
     {
-        "start": "00:26:51,440", 
+        "end": "00:24:27,561", 
+        "start": "00:24:25,240", 
         "num": 512, 
-        "end": "00:26:53,442", 
-        "text": "I mean pretty soon, you could be<br />managing thousands of employees"
+        "episode": "S01E02", 
+        "text": "Oh, but I am upset."
     }, 
     {
-        "start": "00:26:53,520", 
+        "end": "00:24:29,971", 
+        "start": "00:24:28,640", 
         "num": 513, 
-        "end": "00:26:55,329", 
-        "text": "- who are all looking up to you.<br />- Mmm."
+        "episode": "S01E02", 
+        "text": "Okay? What the fuck?"
     }, 
     {
-        "start": "00:26:55,520", 
+        "end": "00:24:32,361", 
+        "start": "00:24:30,040", 
         "num": 514, 
-        "end": "00:26:58,126", 
-        "text": "And Gavin Belson,<br />he's not going away anytime soon."
+        "episode": "S01E02", 
+        "text": "I kind of just went out on a limb<br />for you here, man."
     }, 
     {
-        "start": "00:26:58,200", 
+        "end": "00:24:35,401", 
+        "start": "00:24:33,080", 
         "num": 515, 
-        "end": "00:26:59,929", 
-        "text": "- Mmm.<br />- But it's going to be amazing."
+        "episode": "S01E02", 
+        "text": "Sorry, man, but this is huge for me."
     }, 
     {
-        "start": "00:27:01,200", 
+        "end": "00:24:37,608", 
+        "start": "00:24:35,640", 
         "num": 516, 
-        "end": "00:27:02,725", 
-        "text": "Excuse me a second."
+        "episode": "S01E02", 
+        "text": "I'm going to move out, get my own place."
     }, 
     {
-        "start": "00:27:12,400", 
+        "end": "00:24:40,247", 
+        "start": "00:24:37,880", 
         "num": 517, 
-        "end": "00:27:13,447", 
-        "text": "(BURPS)"
+        "episode": "S01E02", 
+        "text": "In light of this new information,"
     }, 
     {
-        "start": "00:27:13,520", 
+        "end": "00:24:42,608", 
+        "start": "00:24:40,480", 
         "num": 518, 
-        "end": "00:27:15,124", 
-        "text": "Oh, Jesus."
+        "episode": "S01E02", 
+        "text": "who gets Big Head's equity?"
     }, 
     {
-        "start": "00:27:15,920", 
+        "end": "00:24:44,290", 
+        "start": "00:24:42,720", 
         "num": 519, 
-        "end": "00:27:17,684", 
-        "text": "(ROCK MUSIC PLAYING)"
+        "episode": "S01E02", 
+        "text": "Should I get half of his shares..."
+    }, 
+    {
+        "end": "00:24:46,089", 
+        "start": "00:24:44,360", 
+        "num": 520, 
+        "episode": "S01E02", 
+        "text": "I do. I get it."
+    }, 
+    {
+        "end": "00:24:48,050", 
+        "start": "00:24:46,560", 
+        "num": 521, 
+        "episode": "S01E02", 
+        "text": "Okay? I get all of it!"
+    }, 
+    {
+        "end": "00:24:53,323", 
+        "start": "00:24:50,080", 
+        "num": 522, 
+        "episode": "S01E02", 
+        "text": "Big Head, man,<br />congratulations on the job, really."
+    }, 
+    {
+        "end": "00:24:56,410", 
+        "start": "00:24:53,440", 
+        "num": 523, 
+        "episode": "S01E02", 
+        "text": "But if you'll excuse me,<br />I have to go lock down"
+    }, 
+    {
+        "end": "00:24:58,767", 
+        "start": "00:24:56,480", 
+        "num": 524, 
+        "episode": "S01E02", 
+        "text": "a motherfucking business plan.<br />Jared, you're with me."
+    }, 
+    {
+        "end": "00:25:05,440", 
+        "start": "00:25:04,200", 
+        "num": 525, 
+        "episode": "S01E02", 
+        "text": "What an asshole."
+    }, 
+    {
+        "end": "00:25:08,730", 
+        "start": "00:25:05,840", 
+        "num": 526, 
+        "episode": "S01E02", 
+        "text": "Yeah. What an asshole."
+    }, 
+    {
+        "end": "00:25:15,486", 
+        "start": "00:25:14,360", 
+        "num": 527, 
+        "episode": "S01E02", 
+        "text": "Next."
+    }, 
+    {
+        "end": "00:25:18,884", 
+        "start": "00:25:17,280", 
+        "num": 528, 
+        "episode": "S01E02", 
+        "text": "- Hi.<br />- Deposit?"
+    }, 
+    {
+        "end": "00:25:20,087", 
+        "start": "00:25:19,040", 
+        "num": 529, 
+        "episode": "S01E02", 
+        "text": "Mmm-hmm."
+    }, 
+    {
+        "end": "00:25:27,491", 
+        "start": "00:25:24,760", 
+        "num": 530, 
+        "episode": "S01E02", 
+        "text": "$200,000 from Peter Gregory?"
+    }, 
+    {
+        "end": "00:25:28,761", 
+        "start": "00:25:27,760", 
+        "num": 531, 
+        "episode": "S01E02", 
+        "text": "Mmm-hmm."
+    }, 
+    {
+        "end": "00:25:31,081", 
+        "start": "00:25:29,960", 
+        "num": 532, 
+        "episode": "S01E02", 
+        "text": "- Wow.<br />- (CELL PHONE RINGING)"
+    }, 
+    {
+        "end": "00:25:35,441", 
+        "start": "00:25:34,440", 
+        "num": 533, 
+        "episode": "S01E02", 
+        "text": "Sorry."
+    }, 
+    {
+        "end": "00:25:38,727", 
+        "start": "00:25:37,760", 
+        "num": 534, 
+        "episode": "S01E02", 
+        "text": "Hello?"
+    }, 
+    {
+        "end": "00:25:40,928", 
+        "start": "00:25:38,800", 
+        "num": 535, 
+        "episode": "S01E02", 
+        "text": "Dude, they're taking your code apart."
+    }, 
+    {
+        "end": "00:25:42,571", 
+        "start": "00:25:41,240", 
+        "num": 536, 
+        "episode": "S01E02", 
+        "text": "- What?<br />- Yeah,"
+    }, 
+    {
+        "end": "00:25:46,361", 
+        "start": "00:25:42,640", 
+        "num": 537, 
+        "episode": "S01E02", 
+        "text": "did you give those brogrammer guys access<br />to a player download or something?"
+    }, 
+    {
+        "end": "00:25:47,970", 
+        "start": "00:25:46,480", 
+        "num": 538, 
+        "episode": "S01E02", 
+        "text": "Oh, shit."
+    }, 
+    {
+        "end": "00:25:51,203", 
+        "start": "00:25:48,040", 
+        "num": 539, 
+        "episode": "S01E02", 
+        "text": "They probably hacked the prototype<br />and decompiled the compression library."
+    }, 
+    {
+        "end": "00:25:54,161", 
+        "start": "00:25:51,760", 
+        "num": 540, 
+        "episode": "S01E02", 
+        "text": "Well, they've got it now, man."
+    }, 
+    {
+        "end": "00:25:56,726", 
+        "start": "00:25:54,280", 
+        "num": 541, 
+        "episode": "S01E02", 
+        "text": "They're gonna reverse-engineer<br />a version as close as they can"
+    }, 
+    {
+        "end": "00:25:58,211", 
+        "start": "00:25:56,800", 
+        "num": 542, 
+        "episode": "S01E02", 
+        "text": "without getting sued."
+    }, 
+    {
+        "end": "00:25:59,760", 
+        "start": "00:25:58,320", 
+        "num": 543, 
+        "episode": "S01E02", 
+        "text": "<i>Wait, wait, are you sure about this?</i>"
+    }, 
+    {
+        "end": "00:26:01,882", 
+        "start": "00:25:59,800", 
+        "num": 544, 
+        "episode": "S01E02", 
+        "text": "Yeah, dude, Gavin wants<br />to beat you to market."
+    }, 
+    {
+        "end": "00:26:04,930", 
+        "start": "00:26:01,960", 
+        "num": 545, 
+        "episode": "S01E02", 
+        "text": "He wants to make sure no other investor<br />in the Valley offers you a dime."
+    }, 
+    {
+        "end": "00:26:06,640", 
+        "start": "00:26:05,400", 
+        "num": 546, 
+        "episode": "S01E02", 
+        "text": "(EXHALES) That is not good."
+    }, 
+    {
+        "end": "00:26:10,009", 
+        "start": "00:26:06,800", 
+        "num": 547, 
+        "episode": "S01E02", 
+        "text": "They're calling it Nucleus,<br />whatever the fuck that means."
+    }, 
+    {
+        "end": "00:26:14,006", 
+        "start": "00:26:10,160", 
+        "num": 548, 
+        "episode": "S01E02", 
+        "text": "Shit. Sorry, dude, I can't be<br />talking to you like this. Later."
+    }, 
+    {
+        "end": "00:26:15,487", 
+        "start": "00:26:14,440", 
+        "num": 549, 
+        "episode": "S01E02", 
+        "text": "Yeah."
+    }, 
+    {
+        "end": "00:26:18,126", 
+        "start": "00:26:16,920", 
+        "num": 550, 
+        "episode": "S01E02", 
+        "text": "\"Nucleus\"?"
+    }, 
+    {
+        "end": "00:26:22,729", 
+        "start": "00:26:18,440", 
+        "num": 551, 
+        "episode": "S01E02", 
+        "text": "Excuse me. This check is made out<br />to \"Pied Piper incorporated.\""
+    }, 
+    {
+        "end": "00:26:25,121", 
+        "start": "00:26:22,800", 
+        "num": 552, 
+        "episode": "S01E02", 
+        "text": "- Do you have an SS-4?<br />- A what?"
+    }, 
+    {
+        "end": "00:26:28,250", 
+        "start": "00:26:25,280", 
+        "num": 553, 
+        "episode": "S01E02", 
+        "text": "Is Pied Piper a corporation<br />registered with the IRS?"
+    }, 
+    {
+        "end": "00:26:30,163", 
+        "start": "00:26:28,320", 
+        "num": 554, 
+        "episode": "S01E02", 
+        "text": "I can't deposit that<br />into a personal account."
+    }, 
+    {
+        "end": "00:26:31,521", 
+        "start": "00:26:30,520", 
+        "num": 555, 
+        "episode": "S01E02", 
+        "text": "(STAMMERING)"
+    }, 
+    {
+        "end": "00:26:33,011", 
+        "start": "00:26:31,680", 
+        "num": 556, 
+        "episode": "S01E02", 
+        "text": "I don't know."
+    }, 
+    {
+        "end": "00:26:35,364", 
+        "start": "00:26:33,680", 
+        "num": 557, 
+        "episode": "S01E02", 
+        "text": "Is that something maybe<br />you could help me with?"
+    }, 
+    {
+        "end": "00:26:36,726", 
+        "start": "00:26:35,520", 
+        "num": 558, 
+        "episode": "S01E02", 
+        "text": "No, sir."
+    }, 
+    {
+        "end": "00:26:40,211", 
+        "start": "00:26:38,880", 
+        "num": 559, 
+        "episode": "S01E02", 
+        "text": "Buddy, come on."
+    }, 
+    {
+        "end": "00:26:43,163", 
+        "start": "00:26:41,240", 
+        "num": 560, 
+        "episode": "S01E02", 
+        "text": "Uh-huh. Yeah, yeah."
+    }, 
+    {
+        "end": "00:26:45,284", 
+        "start": "00:26:43,600", 
+        "num": 561, 
+        "episode": "S01E02", 
+        "text": "- Thank you.<br />- Sorry. Okay."
+    }, 
+    {
+        "end": "00:26:48,521", 
+        "start": "00:26:47,360", 
+        "num": 562, 
+        "episode": "S01E02", 
+        "text": "Next."
+    }, 
+    {
+        "end": "00:26:51,521", 
+        "start": "00:26:49,200", 
+        "num": 563, 
+        "episode": "S01E02", 
+        "text": "(HIP HOP MUSIC PLAYING)"
     }
 ]
