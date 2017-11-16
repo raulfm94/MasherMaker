@@ -2,9 +2,16 @@ doctype html
 html
 	head
 		title BDA-Project
+		link(rel='stylesheet' href='/bower_components/bootstrap/dist/css/bootstrap.css')
+		style(type="text/css").
+			body {
+				background: green
+			}
+
 	body
-		block content
-		br
-		hr
-		footer
-			p Copyright &copy; 2017
+		.container
+			block content
+			br
+			hr
+			footer
+				p Copyright &copy; 2017

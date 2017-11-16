@@ -46,8 +46,8 @@ with open('result.json', 'w') as fp:
 connection = pymongo.MongoClient("mongodb://localhost/mashermaker")
 #########
 
-db=connection.subs
-record1 = db.subs_collection
+db=connection.subtitles
+record1 = db.subtitles
 page = open("result.json", 'r')
 parsed = json.loads(page.read())
 for item in parsed:
