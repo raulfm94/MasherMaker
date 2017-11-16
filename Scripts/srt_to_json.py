@@ -1,5 +1,6 @@
 import re
 import json
+import pymongo
 from Tkinter import Tk
 from tkFileDialog import askopenfilename
 
@@ -38,3 +39,15 @@ with open(filename, "r") as f:
         ##print srt_to_dict(srtText)
 with open('result.json', 'w') as fp:
     json.dump(srt_to_dict(srtText), fp, indent=4)
+
+
+##CHANGE THIS LINE TO CONNECT TO CORRECT MONGO: 
+connection = pymongo.MongoClient("mongodb://localhost")
+#########
+
+db=connection.subs
+record1 = db.subs_collection
+page = open("result.json", 'r')
+parsed = json.loads(page.read())
+for item in parsed:
+    record1.insert(item)
