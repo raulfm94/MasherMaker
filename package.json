@@ -1,0 +1,25 @@
+{
+  "name": "mashermaker",
+  "version": "1.0.0",
+  "description": "BDA Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulfm94/MasherMaker.git"
+  },
+  "author": "Raul Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulfm94/MasherMaker/issues"
+  },
+  "homepage": "https://github.com/raulfm94/MasherMaker#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.3",
+    "pug": "^2.0.0-rc.4"
+  }
+}

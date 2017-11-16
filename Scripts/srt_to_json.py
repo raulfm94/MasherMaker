@@ -1,8 +1,9 @@
 import re
 import json
 import pymongo
-from Tkinter import Tk
-from tkFileDialog import askopenfilename
+from tkinter import Tk
+from tkinter import filedialog
+from tkinter.filedialog import askopenfilename
 
 Tk().withdraw() # we don't want a full GUI, so keep the root window from appearing
 ##filename must include episode like S00E00
@@ -42,7 +43,7 @@ with open('result.json', 'w') as fp:
 
 
 ##CHANGE THIS LINE TO CONNECT TO CORRECT MONGO: 
-connection = pymongo.MongoClient("mongodb://localhost")
+connection = pymongo.MongoClient("mongodb://localhost/mashermaker")
 #########
 
 db=connection.subs
