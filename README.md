@@ -9,3 +9,6 @@ Proyecto Bases de Datos Avanzadas
 4) run: pyhton srt_to_json.py selecting the file you want to upload
 5) in mongo change to the subs db
 6) type: db.subs_collection.find()
+
+Ref: http://api.mongodb.com/python/current/tutorial.html
+
