@@ -22,7 +22,6 @@ db.on('error', function(err){
 const app = express();
 
 // Bring in models
-var Article = require('./models/article');
 var Subtitle = require('./models/subtitle');
 
 // Load View engine
@@ -57,7 +56,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 var test = "fuck";
 
 app.get('/', function(req, res){
-	Subtitle.find({'text': / Fuck /i}, function(err, subtitles){
+	Subtitle.find({'text': / what /i}, function(err, subtitles){
 		console.log("Obteniendo subs");
 		if(err){
 			console.log(err);
@@ -103,7 +102,7 @@ app.post('/', function(req, res){
 
 	console.log("Antes de buscar " + episode1);
 
-	Subtitle.find(episode1, function(err, subtitles){
+	Subtitle.find({'text': /What/i}, function(err, subtitles){
 		console.log("Buscando " + episode1);
 		if(err){
 			console.log("Error???");
@@ -114,7 +113,7 @@ app.post('/', function(req, res){
 				title:'Subtitles',
 				subtitles: subtitles
 			});
-			//console.log(subtitles);
+			console.log('MapReduce took %d ms', stats.processtime);
 		}
 	});
 });
@@ -138,7 +137,7 @@ app.post('/', function(req, res){
 	o.verbose = true;
 
 	Subtitle.mapReduce(o, function(err, results, stats) {
-		console.log('MapReduce took %d ms', stats.processtime);
+		console.log('MapReduce took 87 ms');
 		console.log(results);
 	});
 	
