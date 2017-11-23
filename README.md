@@ -1,7 +1,7 @@
 # MasherMaker
 Proyecto Bases de Datos Avanzadas
 
-#Pre-procesar datos
+# Pre-procesar datos
 Save on your PC subtitles files .srt
 Install pymongo with: $python -m easy_install pymongo
 Start MongoServer
